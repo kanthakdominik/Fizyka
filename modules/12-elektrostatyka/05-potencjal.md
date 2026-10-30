@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 7: [§7.1–7.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/7-1-elektryczna-energia-potencjalna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/7-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 3: §24.1–24.8 (s. 102)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 3, rozdz. 25](https://home.agh.edu.pl/~czapli/Resnick_3.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 3: [§25.1–25.11, s. 73](https://home.agh.edu.pl/~czapli/Resnick_3.pdf#page=83) — PDF z serwera AGH
 
 ← [Strumień pola i prawo Gaussa](04-prawo-gaussa.md) · [spis modułu](README.md) · [Kondensatory: pojemność, łączenie, energia](06-kondensatory.md) →
 

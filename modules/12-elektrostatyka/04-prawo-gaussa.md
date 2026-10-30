@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 6: [§6.1–6.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/6-1-strumien-pola-elektrycznego) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/6-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 3: §23.1–23.6 (s. 67)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 3, rozdz. 24](https://home.agh.edu.pl/~czapli/Resnick_3.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 3: [§24.1–24.9, s. 47](https://home.agh.edu.pl/~czapli/Resnick_3.pdf#page=57) — PDF z serwera AGH
 
 ← [Pole rozkładów ciągłych ładunku](03-pole-rozkladow-ciaglych.md) · [spis modułu](README.md) · [Potencjał, energia potencjalna i związek E z V](05-potencjal.md) →
 

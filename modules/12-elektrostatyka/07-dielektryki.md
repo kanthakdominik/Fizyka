@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 8: [§8.4–8.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/8-4-kondensator-z-dielektrykiem) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/8-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 3: §25.5–25.6 (s. 160)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 3, rozdz. 26](https://home.agh.edu.pl/~czapli/Resnick_3.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 3: [§26.6–26.8, s. 115](https://home.agh.edu.pl/~czapli/Resnick_3.pdf#page=125) — PDF z serwera AGH
 
 ← [Kondensatory: pojemność, łączenie, energia](06-kondensatory.md) · [spis modułu](README.md) · (koniec modułu) →
 

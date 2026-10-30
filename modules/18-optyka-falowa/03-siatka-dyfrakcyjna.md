@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 3: [§3.3 i §4.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-3-interferencja-na-wielu-szczelinach) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 4: §36.5–36.6 (s. 162)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 4, rozdz. 37](https://home.agh.edu.pl/~czapli/Resnick_4.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 4: [§37.7–37.8, s. 127](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=142) — PDF z serwera AGH
 
 ← [Doświadczenie Younga](02-doswiadczenie-younga.md) · [spis modułu](README.md) · [Interferencja w cienkich warstwach, interferometr Michelsona](04-cienkie-warstwy-i-michelson.md) →
 

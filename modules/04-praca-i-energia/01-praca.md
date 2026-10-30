@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 7: [§7.1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-1-praca) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 1: §7.2–7.5 (s. 189)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 1, rozdz. 7](https://home.agh.edu.pl/~czapli/Resnick_1.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 1: [§7.2, s. 142](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=154), [§7.4–7.6, s. 147](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=159) — PDF z serwera AGH
 
 ← (początek modułu) · [spis modułu](README.md) · [Energia kinetyczna i twierdzenie o pracy i energii](02-energia-kinetyczna.md) →
 

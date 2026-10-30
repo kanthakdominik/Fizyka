@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 9: [§9.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/9-3-zasada-zachowania-pedu) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/9-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 1: §9.5 (s. 290)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 1, rozdz. 9](https://home.agh.edu.pl/~czapli/Resnick_1.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 1: [§9.5–9.6, s. 214](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=226) — PDF z serwera AGH
 
 ← [Pęd i popęd siły](01-ped-i-poped.md) · [spis modułu](README.md) · [Zderzenia sprężyste i niesprężyste w 1D i 2D](03-zderzenia.md) →
 

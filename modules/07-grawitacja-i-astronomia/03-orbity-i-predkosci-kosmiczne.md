@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 13: [§13.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/13-4-orbity-satelitow-i-ich-energia) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/13-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 2: §13.7 (s. 58)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 2, rozdz. 14](https://home.agh.edu.pl/~czapli/Resnick_2.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 2: [§14.8, s. 46](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=62) — PDF z serwera AGH
 
 ← [Natężenie pola, potencjał i energia grawitacyjna](02-pole-i-potencjal-grawitacyjny.md) · [spis modułu](README.md) · [Prawa Keplera](04-prawa-keplera.md) →
 

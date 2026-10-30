@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 7: [§7.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-6-tunelowanie-czastek-przez-bariery-potencjalu) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 5: §38.8–38.9 (s. 29)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 5, rozdz. 39](https://home.agh.edu.pl/~czapli/Resnick_5.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 5: [§39.9, s. 22](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=38) — PDF z serwera AGH
 
 ← [Równanie Schrödingera: studnia potencjału i oscylator](06-rownanie-schrodingera.md) · [spis modułu](README.md) · (koniec modułu) →
 

@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 4: [§4.6–4.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/4-6-entropia) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/4-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 2: §20.1 (s. 332), §20.4 (s. 352)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 2, rozdz. 21](https://home.agh.edu.pl/~czapli/Resnick_2.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 2: [§21.1–21.3, s. 260](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=276), [§21.7, s. 276](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=292) — PDF z serwera AGH
 
 ← [Silniki cieplne, chłodziarki i cykl Carnota](06-silniki-i-cykl-carnota.md) · [spis modułu](README.md) · (koniec modułu) →
 

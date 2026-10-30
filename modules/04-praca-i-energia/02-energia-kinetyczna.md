@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 7: [§7.2–7.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-2-energia-kinetyczna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 1: §7.1–7.2 (s. 187)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 1, rozdz. 7](https://home.agh.edu.pl/~czapli/Resnick_1.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 1: [§7.1, s. 141](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=153), [§7.3, s. 143](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=155) — PDF z serwera AGH
 
 ← [Praca siły stałej i zmiennej](01-praca.md) · [spis modułu](README.md) · [Moc i sprawność](03-moc-i-sprawnosc.md) →
 

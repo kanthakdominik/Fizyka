@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 8: [§8.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/8-5-widma-atomowe-i-promieniowanie-rentgenowskie) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/8-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 5: §40.6 (s. 109)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 5, rozdz. 41](https://home.agh.edu.pl/~czapli/Resnick_5.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 5: [§41.10, s. 85](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=101) — PDF z serwera AGH
 
 ← [Zakaz Pauliego i układ okresowy](04-zakaz-pauliego.md) · [spis modułu](README.md) · [Emisja wymuszona i lasery](06-lasery.md) →
 

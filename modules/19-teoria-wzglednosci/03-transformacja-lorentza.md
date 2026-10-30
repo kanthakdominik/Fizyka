@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 5: [§5.5–5.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/5-5-transformacja-lorentza) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/5-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 4: §37.3–37.4 (s. 204)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 4, rozdz. 38](https://home.agh.edu.pl/~czapli/Resnick_4.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 4: [§38.7–38.9, s. 160](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=175) — PDF z serwera AGH
 
 ← [Dylatacja czasu i skrócenie długości](02-dylatacja-i-skrocenie.md) · [spis modułu](README.md) · [Relatywistyczny efekt Dopplera](04-relatywistyczny-doppler.md) →
 

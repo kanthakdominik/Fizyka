@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 1: [§1.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-7-polaryzacja) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 4: §33.4 (s. 17), §33.7 (s. 32)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 4, rozdz. 34](https://home.agh.edu.pl/~czapli/Resnick_4.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 4: [§34.6, s. 16](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=31), [§34.9, s. 29](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=44) — PDF z serwera AGH
 
 ← [Dyfrakcja na szczelinie i zdolność rozdzielcza](05-dyfrakcja-i-rozdzielczosc.md) · [spis modułu](README.md) · [Dyfrakcja promieni X i prawo Bragga](07-dyfrakcja-rentgenowska.md) →
 

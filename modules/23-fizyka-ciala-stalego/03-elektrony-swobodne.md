@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 9: [§9.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-4-model-elektronow-swobodnych-w-metalach) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 5: §41.1 (s. 130)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 5, rozdz. 42](https://home.agh.edu.pl/~czapli/Resnick_5.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 5: [§42.5, s. 107](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=123) — PDF z serwera AGH
 
 ← [Struktura krystaliczna ciał stałych](02-krysztaly.md) · [spis modułu](README.md) · [Teoria pasmowa ciał stałych](04-teoria-pasmowa.md) →
 

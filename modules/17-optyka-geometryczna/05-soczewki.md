@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 2: [§2.3–2.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/2-3-obrazy-tworzone-przez-zalamanie-promieni-swiatla) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/2-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 4: §34.3–34.4 (s. 62), §34.6 (s. 80)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 4, rozdz. 35](https://home.agh.edu.pl/~czapli/Resnick_4.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 4: [§35.5–35.6, s. 51](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=66), [§35.8, s. 64](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=79) — PDF z serwera AGH
 
 ← [Zwierciadła płaskie i sferyczne](04-zwierciadla.md) · [spis modułu](README.md) · [Oko, aparat, lupa, mikroskop i luneta](06-przyrzady-optyczne.md) →
 

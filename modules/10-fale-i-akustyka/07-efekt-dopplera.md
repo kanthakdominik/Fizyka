@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 17: [§17.7–17.8](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/17-7-efekt-dopplera) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/17-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 2: §17.7–17.8 (s. 223)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 2, rozdz. 18](https://home.agh.edu.pl/~czapli/Resnick_2.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 2: [§18.8–18.9, s. 173](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=189) — PDF z serwera AGH
 
 ← [Struny i piszczałki: mody własne, dudnienia](06-struny-rury-dudnienia.md) · [spis modułu](README.md) · (koniec modułu) →
 

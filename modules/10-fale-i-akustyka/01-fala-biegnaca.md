@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 16: [§16.1–16.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/16-1-fale-biegnace) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/16-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 2: §16.1 (s. 156)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 2, rozdz. 17](https://home.agh.edu.pl/~czapli/Resnick_2.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 2: [§17.1–17.5, s. 123](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=139) — PDF z serwera AGH
 
 ← (początek modułu) · [spis modułu](README.md) · [Prędkość fali, energia i równanie falowe](02-predkosc-i-energia-fali.md) →
 

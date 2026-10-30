@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 8: [§8.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-3-zasada-zachowania-energii) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 1: §8.2 (s. 232), §8.4–8.5 (s. 241)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 1, rozdz. 8](https://home.agh.edu.pl/~czapli/Resnick_1.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 1: [§8.4, s. 176](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=188), [§8.6–8.7, s. 183](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=195) — PDF z serwera AGH
 
 ← [Siły zachowawcze i energia potencjalna](04-energia-potencjalna.md) · [spis modułu](README.md) · [Wykresy energii potencjalnej i stabilność równowagi](06-wykresy-energii.md) →
 

@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 3: [§3.1–3.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-1-doswiadczenie-younga-z-dwiema-szczelinami) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 4: §35.2–35.3 (s. 104)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 4, rozdz. 36](https://home.agh.edu.pl/~czapli/Resnick_4.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 4: [§36.4–36.6, s. 81](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=96) — PDF z serwera AGH
 
 ← [Zasada Huygensa dla światła](01-zasada-huygensa.md) · [spis modułu](README.md) · [Interferencja na wielu szczelinach i siatka dyfrakcyjna](03-siatka-dyfrakcyjna.md) →
 

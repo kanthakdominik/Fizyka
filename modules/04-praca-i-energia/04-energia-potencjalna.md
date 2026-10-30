@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 8: [§8.1–8.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-1-energia-potencjalna-ukladu) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 1: §8.1 (s. 224)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 1, rozdz. 8](https://home.agh.edu.pl/~czapli/Resnick_1.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 1: [§8.1–8.3, s. 169](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=181) — PDF z serwera AGH
 
 ← [Moc i sprawność](03-moc-i-sprawnosc.md) · [spis modułu](README.md) · [Zasada zachowania energii mechanicznej i całkowitej](05-zasada-zachowania-energii.md) →
 

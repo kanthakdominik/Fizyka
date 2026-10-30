@@ -6,7 +6,7 @@
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 9: [§9.6–9.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-6-polprzewodniki-i-domieszkowanie) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-wstep)
 > - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 5: §41.2–41.3 (s. 143)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 5, rozdz. 42](https://home.agh.edu.pl/~czapli/Resnick_5.pdf) — PDF z serwera AGH
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003), t. 5: [§42.6–42.11, s. 114](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=130) — PDF z serwera AGH
 
 ← [Teoria pasmowa ciał stałych](04-teoria-pasmowa.md) · [spis modułu](README.md) · [Nadprzewodnictwo](06-nadprzewodnictwo.md) →
 
