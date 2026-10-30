@@ -1,6 +1,6 @@
 # 18 — Optyka falowa
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — interferencja, dyfrakcja, polaryzacja · **Czas:** 20–35 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — interferencja, dyfrakcja, polaryzacja · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 
@@ -43,12 +43,40 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Dwie fale o tej samej amplitudzie mają różnicę faz $\pi$. Ile wynosi amplituda wypadkowa? A przy różnicy $2\pi$?
+2. Dwa głośniki w fazie: dla jakiej różnicy dróg (w długościach fali) słychać wygaszenie (10.03)?
+3. Światło przechodzi z powietrza do szkła ($n = 1{,}5$). Jak zmienia się jego prędkość, częstotliwość i długość fali?
+4. Oblicz $\sin\theta$ dla $\theta = 0{,}01\ \mathrm{rad}$ i porównaj z $\tan\theta$.
+5. Ile wynosi $\cos^2 60^\circ$?
+6. Jaka jest długość fali światła zielonego, czerwonego i fioletowego (w nm)?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. 0; podwójna
+2. $(m + \tfrac12)\lambda$
+3. Prędkość maleje 1,5 razy, częstotliwość bez zmian, długość fali maleje 1,5 razy
+4. Oba $\approx 0{,}0100$ (różnica rzędu $10^{-6}$)
+5. 0,25
+6. ok. 550, 650–700, 400–420
+</details>
+
+## Projekt modułowy: długość fali lasera trzema metodami
+
+- [ ] **Dwie szczeliny.** Wykonaj doświadczenie Younga z rysami na zaczernionym szkiełku i wyznacz $\lambda$ lasera.
+- [ ] **Siatka z płyty CD lub DVD.** Wyznacz $\lambda$ z kąta odbicia pierwszego rzędu, przyjmując odstęp ścieżek 1,6 μm (CD) lub 0,74 μm (DVD). Albo odwrotnie: przy znanej $\lambda$ zmierz odstęp ścieżek.
+- [ ] **Pojedyncza szczelina lub włos.** Zmierz szerokość maksimum środkowego dla szczeliny o znanej szerokości (np. szczelinomierz) i wyznacz $\lambda$. Następnie zmierz grubość własnego włosa.
+- [ ] **Prawo Malusa.** Z ekranem LCD, okularami polaryzacyjnymi i luksomierzem w telefonie zmierz natężenie w funkcji kąta.
+- [ ] W sprawozdaniu porównaj trzy wyniki $\lambda$ z wartością podaną przez producenta lasera, z niepewnościami, i wskaż najdokładniejszą metodę.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Stosuję zasadę Huygensa, drogę optyczną, zmianę fazy przy odbiciu i pojęcie spójności.
+- [ ] Liczę położenia i odstępy prążków w doświadczeniu Younga oraz natężenie $4I_0\cos^2(\phi/2)$.
+- [ ] Liczę kąty widm siatki dyfrakcyjnej, najwyższy rząd i zdolność rozdzielczą.
+- [ ] Rozwiązuję zadania z cienkich warstw (bańki, powłoki antyrefleksyjne, klin) i interferometru Michelsona.
+- [ ] Liczę dyfrakcję na szczelinie i rozdzielczość przyrządów z kryterium Rayleigha.
+- [ ] Stosuję prawo Malusa i kąt Brewstera, wyjaśniam działanie polaryzatorów i ekranów LCD.
+- [ ] Stosuję warunek Bragga do dyfrakcji promieniowania rentgenowskiego i elektronów.
