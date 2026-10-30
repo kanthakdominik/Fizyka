@@ -67,7 +67,7 @@ Zasady:
 | 14 | [Pole magnetyczne](modules/14-pole-magnetyczne) | 🟢🔵 | Fizyka II — magnetostatyka | ✅ pełny |
 | 15 | [Indukcja elektromagnetyczna i prąd przemienny](modules/15-indukcja-i-prad-przemienny) | 🟢🔵 | Fizyka II — indukcja, drgania elektromagnetyczne | ✅ pełny |
 | 16 | [Równania Maxwella i fale elektromagnetyczne](modules/16-rownania-maxwella-i-fale-em) | 🟢🔵 | Fizyka II — równania Maxwella, fale EM | ✅ pełny |
-| 17 | [Optyka geometryczna](modules/17-optyka-geometryczna) | 🟢 | Fizyka II — optyka | 🔲 szkielet |
+| 17 | [Optyka geometryczna](modules/17-optyka-geometryczna) | 🟢 | Fizyka II — optyka | ✅ pełny |
 | 18 | [Optyka falowa](modules/18-optyka-falowa) | 🟢🔵 | Fizyka II — interferencja, dyfrakcja, polaryzacja | 🔲 szkielet |
 | 19 | [Szczególna teoria względności](modules/19-teoria-wzglednosci) | 🟢🔵 | Fizyka II / Fizyka współczesna — elementy STW | 🔲 szkielet |
 | 20 | [Podstawy fizyki kwantowej](modules/20-fizyka-kwantowa) | 🟢🔵 | Fizyka współczesna / Fizyka III — wstęp do mechaniki kwantowej | 🔲 szkielet |

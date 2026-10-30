@@ -1,6 +1,6 @@
 # 17 — Optyka geometryczna
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢 · **Odpowiednik:** Fizyka II — optyka · **Czas:** 20–35 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢 · **Odpowiednik:** Fizyka II — optyka · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 
@@ -38,12 +38,39 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Oblicz $\sin30^\circ$, $\arcsin(0{,}5)$ i $\arcsin(1/1{,}5)$.
+2. Fala przechodzi z ośrodka, w którym biegnie z prędkością 3 m/s, do ośrodka, gdzie biegnie z prędkością 1,5 m/s. Kąt padania wynosi $30^\circ$. Oblicz kąt załamania (10.04).
+3. Rozwiąż równanie $\dfrac1{10} = \dfrac1{15} + \dfrac1y$.
+4. Ile wynosi długość fali światła zielonego w nanometrach i metrach?
+5. Narysuj dwa trójkąty podobne i zapisz proporcję ich boków.
+6. Ile to $\tan5^\circ$ w przybliżeniu (w radianach)?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $0{,}5$; $30^\circ$; $41{,}8^\circ$
+2. $\sin\theta_2 = 0{,}25 \Rightarrow \theta_2 \approx 14{,}5^\circ$
+3. $y = 30$
+4. ok. 550 nm $= 5{,}5\cdot10^{-7}\ \mathrm m$
+5. $a/a' = b/b' = c/c'$
+6. $\approx 0{,}087$ (dla małych kątów $\tan\theta \approx \theta$)
+</details>
+
+## Projekt modułowy: optyka z laserem i soczewką
+
+- [ ] **Współczynnik załamania wody i szkła.** Wskaźnikiem laserowym i kątomierzem zmierz kąty padania i załamania dla kilku kątów. Wyznacz $n$ z wykresu $\sin\theta_1$ od $\sin\theta_2$ i kąt graniczny. Porównaj z tablicami.
+- [ ] **Równanie soczewki.** Dla soczewki skupiającej zmierz $x$ i $y$ dla co najmniej sześciu położeń. Wyznacz $f$ z wykresu $1/y$ od $1/x$ i metodą Bessela (17.05) i porównaj wyniki.
+- [ ] **Luneta.** Zbuduj lunetę z dwóch soczewek, zmierz jej powiększenie i porównaj z $f_{ob}/f_{ok}$.
+- [ ] **Tęcza.** Wytwórz tęczę rozpylaczem wody i zmierz jej promień kątowy.
+- [ ] W sprawozdaniu omów niepewności pomiarów kątów i odległości. Wyjaśnij, skąd biorą się rozbieżności z modelem soczewki cienkiej.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Stosuję prawo odbicia, konstruuję obrazy w zwierciadle płaskim, opisuję aparat otworkowy i retroreflektor.
+- [ ] Stosuję prawo Snelliusa, liczę kąt graniczny, głębokość pozorną i aperturę numeryczną światłowodu.
+- [ ] Wyjaśniam dyspersję, rozszczepienie w pryzmacie, powstawanie tęczy i barwę nieba.
+- [ ] Konstruuję obrazy w zwierciadłach kulistych i obliczam ich położenie i powiększenie.
+- [ ] Stosuję wzór szlifierzy i równanie soczewki, liczę zdolność skupiającą układów soczewek.
+- [ ] Dobieram okulary do wad wzroku i liczę powiększenie lupy, mikroskopu i lunety.
