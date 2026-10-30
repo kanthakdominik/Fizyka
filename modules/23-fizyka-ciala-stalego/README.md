@@ -1,6 +1,6 @@
 # 23 — Fizyka ciała stałego
 
-> **Status:** 🔲 szkielet · **Poziom:** 🔵 · **Odpowiednik:** Fizyka współczesna / Fizyka ciała stałego (wstęp) · **Czas:** 20–35 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🔵 · **Odpowiednik:** Fizyka współczesna / Fizyka ciała stałego (wstęp) · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 
@@ -38,12 +38,39 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Ile wynosi $kT$ w eV w temperaturze 300 K?
+2. Oblicz energię fotonu o długości fali 500 nm (w eV).
+3. Oblicz energię potencjalną dwóch ładunków elementarnych przeciwnego znaku w odległości 0,3 nm (w eV).
+4. Dwa poziomy różnią się o 0,1 eV. Ile wynosi stosunek obsadzeń $e^{-\Delta E/kT}$ w 300 K?
+5. Oblicz $\displaystyle\int_0^a\sqrt x\,dx$.
+6. Ile atomów zawiera 1 cm³ miedzi ($\rho = 8{,}96\ \mathrm{g/cm^3}$, $M = 63{,}55\ \mathrm{g/mol}$)?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. ok. 0,026 eV
+2. ok. 2,48 eV
+3. ok. −4,8 eV
+4. ok. 0,021
+5. $\tfrac23a^{3/2}$
+6. ok. $8{,}5\cdot10^{22}$
+</details>
+
+## Projekt modułowy: od kryształu do diody
+
+- [ ] **Sieć krystaliczna.** Zbuduj model sieci fcc i bcc (kulki, magnesy lub program 3D) i wyznacz liczby atomów na komórkę i wypełnienie przestrzeni. Oblicz gęstość trzech metali i porównaj z tablicami.
+- [ ] **Charakterystyki diod.** Zmierz charakterystyki $I(U)$ diody krzemowej i 3–5 diod LED w różnych kolorach. Wyznacz współczynnik idealności z wykresu $\ln I(U)$ i stałą Plancka z napięć progowych LED.
+- [ ] **Termistor.** Zmierz opór termistora NTC w 5–8 temperaturach (od wody z lodem do ok. 80°C). Wyznacz efektywną przerwę z wykresu $\ln R$ od $1/T$ i porównaj z opornikiem metalowym.
+- [ ] **Model numeryczny.** Rozwiąż model Kroniga–Penneya w Pythonie i zbadaj, jak szerokość pasm i przerw zależy od wysokości i szerokości bariery.
+- [ ] W sprawozdaniu oceń niepewności i wskaż, który pomiar najbardziej odbiega od modelu i dlaczego.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Rozróżniam rodzaje wiązań i łączę je z właściwościami materiałów; liczę energię wiązania jonowego i widma rotacyjne cząsteczek dwuatomowych.
+- [ ] Opisuję sieci sc, bcc, fcc i diamentu, liczę gęstość z parametrów sieci i energię sieci jonowej ze stałą Madelunga.
+- [ ] Liczę energię, prędkość i temperaturę Fermiego, stosuję rozkład Fermiego–Diraca i wyjaśniam małe ciepło właściwe elektronów.
+- [ ] Wyjaśniam powstawanie pasm i różnice między przewodnikami, izolatorami i półprzewodnikami; łączę przerwę energetyczną z własnościami optycznymi.
+- [ ] Opisuję domieszkowanie n i p, złącze p-n i równanie diody; liczę koncentrację nośników, prąd diody i napięcie Halla; dobieram przerwę do barwy LED.
+- [ ] Opisuję zjawiska nadprzewodnictwa (zerowy opór, efekt Meissnera, pole krytyczne, kwantowanie strumienia) i ich wyjaśnienie w teorii BCS.
