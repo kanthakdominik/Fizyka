@@ -39,8 +39,6 @@ Opisywać światło jako falę: doświadczenie Younga, siatka dyfrakcyjna, cienk
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 36 „Interferencja”, od s. 75](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=90) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 37 „Dyfrakcja”, od s. 111](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=126) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

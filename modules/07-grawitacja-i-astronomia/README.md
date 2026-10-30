@@ -32,8 +32,6 @@ Opisywać pole grawitacyjne i ruch po orbitach: natężenie i potencjał, prędk
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 2, rozdz. 13 (od s. 36) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 14 „Grawitacja”, od s. 28](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=44) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 40 minut.

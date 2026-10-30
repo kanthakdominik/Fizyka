@@ -32,8 +32,6 @@ Zebrać elektromagnetyzm w czterech równaniach Maxwella, wyprowadzić z nich fa
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 32 „Magnetyzm materii; równania Maxwella”, od s. 290 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 34 „Fale elektromagnetyczne”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=17) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

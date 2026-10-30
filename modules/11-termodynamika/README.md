@@ -40,8 +40,6 @@ Bilansować energię w procesach cieplnych, łączyć mikroskopowy model gazu z 
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 20 „Kinetyczna teoria gazów”, od s. 225](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=241) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 21 „Entropia i druga zasada termodynamiki”, od s. 260](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=276) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

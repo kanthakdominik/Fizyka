@@ -34,8 +34,6 @@ Stosować zasady dynamiki Newtona do układów ciał, tarcia, ruchu po okręgu i
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 5 „Siła i ruch I”, od s. 87](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=99) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 6 „Siła i ruch II”, od s. 118](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=130) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 40 minut.

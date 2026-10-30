@@ -32,8 +32,6 @@ Rozumieć konsekwencje postulatów Einsteina: względność równoczesności, dy
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 4, rozdz. 37 (od s. 187) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 38 „Teoria względności”, od s. 146](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=161) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

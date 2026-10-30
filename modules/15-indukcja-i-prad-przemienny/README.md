@@ -37,8 +37,6 @@ Stosować prawo Faradaya i regułę Lenza, liczyć indukcyjność i energię pol
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 31 „Zjawisko indukcji i indukcyjność”, od s. 248 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 33 „Drgania elektromagnetyczne i prąd zmienny”, od s. 320 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

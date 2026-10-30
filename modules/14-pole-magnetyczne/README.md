@@ -39,8 +39,6 @@ Liczyć siły działające na ładunki i przewodniki w polu magnetycznym oraz po
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 30 „Pole magnetyczne wywołane przepływem prądu”, od s. 219 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 32 „Magnetyzm materii; równania Maxwella”, od s. 290 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

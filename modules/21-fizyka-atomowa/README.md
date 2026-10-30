@@ -34,8 +34,6 @@ Opisywać budowę atomu od modelu Bohra do liczb kwantowych i spinu, tłumaczyć
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 40 „Jeszcze o falach materii”, od s. 34](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=50) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 41 „Wszystko o atomach”, od s. 67](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=83) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

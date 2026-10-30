@@ -38,8 +38,6 @@ Przenieść dynamikę na ruch obrotowy: moment bezwładności liczony całką, m
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 12 „Toczenie się ciał, moment siły i moment pędu”, od s. 297](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=309) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 13 „Równowaga i sprężystość”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=18) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 40 minut.

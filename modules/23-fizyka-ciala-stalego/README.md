@@ -34,8 +34,6 @@ Zrozumieć, skąd biorą się właściwości elektryczne metali, półprzewodnik
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 27 „Prąd elektryczny i opór elektryczny”, od s. 129 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 42 „Przewodnictwo elektryczne ciał stałych”, od s. 104](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=120) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

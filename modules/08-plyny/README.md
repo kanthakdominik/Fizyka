@@ -29,8 +29,6 @@ Liczyć ciśnienie i wypór w cieczach w spoczynku oraz opisywać przepływ rów
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 2, rozdz. 14 (od s. 78) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 15 „Płyny”, od s. 61](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=77) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

@@ -37,8 +37,6 @@ Opisywać ruch w jednym, dwóch i trzech wymiarach: od wykresów i wzorów matur
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 4 „Ruch w dwóch i trzech wymiarach”, od s. 58](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=70) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 11 „Obroty”, od s. 260](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=272) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 40 minut.

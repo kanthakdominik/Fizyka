@@ -30,8 +30,6 @@ Umieć zmierzyć, oszacować i uczciwie podać wynik: jednostki SI, analiza wymi
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 1, rozdz. 1 (od s. 1) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 1 „Pomiar”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=14) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

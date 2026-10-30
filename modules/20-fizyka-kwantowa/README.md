@@ -37,8 +37,6 @@ Zrozumieć, dlaczego fizyka klasyczna zawodzi w mikroświecie: fotony, fale mate
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 39 „Fotony i fale materii”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=18) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 40 „Jeszcze o falach materii”, od s. 34](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=50) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

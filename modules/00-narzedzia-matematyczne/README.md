@@ -42,8 +42,6 @@ Zebrać matematykę, której fizyka używa na co dzień: wektory, pochodna jako 
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 11 „Obroty”, od s. 260](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=272) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 16 „Drgania”, od s. 94](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=110) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 45 minut. Jeśli zadania 1–4 sprawiają kłopot, najpierw powtórz matematykę z matury rozszerzonej; zadania 5–6 sprawdzają, czy możesz od razu przejść do tematów 03–04.

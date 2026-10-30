@@ -44,8 +44,6 @@ Liczyć pole i potencjał od ładunków punktowych i rozkładów ciągłych, sto
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 3, rozdz. 25 „Potencjał elektryczny”, od s. 73](https://home.agh.edu.pl/~czapli/Resnick_3.pdf#page=83) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 3, rozdz. 26 „Pojemność elektryczna”, od s. 102](https://home.agh.edu.pl/~czapli/Resnick_3.pdf#page=112) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

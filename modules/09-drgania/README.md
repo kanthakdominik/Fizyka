@@ -36,8 +36,6 @@ Opisywać oscylator harmoniczny jako rozwiązanie równania różniczkowego, roz
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 16 „Drgania”, od s. 94](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=110) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 18 „Fale II”, od s. 155](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=171) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

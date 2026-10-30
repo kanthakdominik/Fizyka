@@ -34,8 +34,6 @@ Rozumieć przepływ prądu od strony mikroskopowej, liczyć obwody z prawami Kir
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 27 „Prąd elektryczny i opór elektryczny”, od s. 129 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 28 „Obwody elektryczne”, od s. 155 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

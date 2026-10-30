@@ -35,8 +35,6 @@ Opisywać budowę i energię wiązania jąder, rozpady promieniotwórcze i prawo
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 43 „Fizyka jądrowa”, od s. 135](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=151) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 44 „Energia jądrowa”, od s. 170](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=186) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.

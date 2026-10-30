@@ -31,8 +31,6 @@ Opisywać układy wielu ciał: popęd, zasada zachowania pędu, zderzenia w 1D i
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 9 „Układy cząstek”, od s. 204](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=216) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 10 „Zderzenia”, od s. 234](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=246) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 
-_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
-
 ## Test wejściowy (diagnoza)
 
 Rozwiąż bez notatek, około 30 minut.
