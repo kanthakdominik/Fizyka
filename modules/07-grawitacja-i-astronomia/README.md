@@ -1,6 +1,6 @@
 # 07 — Grawitacja i elementy astronomii
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — grawitacja; elementy astronomii z matury · **Czas:** 25–40 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — grawitacja; elementy astronomii z matury · **Czas:** 25–40 h od zera
 
 ## Cel modułu
 
@@ -36,12 +36,39 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 40 minut.
 
-## Projekt modułowy
+1. Jak zmieni się siła grawitacji między dwoma ciałami, gdy odległość wzrośnie trzykrotnie?
+2. Oblicz przyspieszenie grawitacyjne na Marsie ($M = 6{,}4\cdot10^{23}\ \mathrm{kg}$, $R = 3390\ \mathrm{km}$, $G = 6{,}67\cdot10^{-11}$ SI).
+3. Z jaką prędkością porusza się satelita na orbicie kołowej tuż nad powierzchnią Ziemi ($g = 9{,}81\ \mathrm{m/s^2}$, $R = 6370\ \mathrm{km}$)?
+4. Planeta obiega Słońce z okresem 27 lat. Jaka jest półoś wielka jej orbity (w j.a.)?
+5. Dlaczego astronauci na stacji kosmicznej są w stanie nieważkości?
+6. Ile wynosi odległość gwiazdy o paralaksie 0,5″?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. Zmaleje 9 razy
+2. $g \approx 3{,}7\ \mathrm{m/s^2}$
+3. $v = \sqrt{gR} \approx 7{,}9\ \mathrm{km/s}$
+4. $a = 27^{2/3} = 9$ j.a.
+5. Spadają swobodnie razem ze stacją (grawitacja pełni rolę siły dośrodkowej)
+6. $2\ \mathrm{pc} \approx 6{,}5$ roku świetlnego
+</details>
+
+## Projekt modułowy: Układ Słoneczny w Pythonie
+
+- [ ] Napisz program, który całkuje numerycznie ruch planety wokół Słońca (jednostki j.a. i lata, $GM_\odot = 4\pi^2$). Użyj metody Verleta lub `scipy.integrate.solve_ivp` (moduł 25).
+- [ ] Sprawdź trzy prawa Keplera: kształt orbity (dopasuj elipsę), stałą prędkość polową, $T^2/a^3$ dla co najmniej czterech orbit.
+- [ ] Sprawdź zachowanie energii i momentu pędu w czasie symulacji. Jak zależy błąd od kroku czasowego?
+- [ ] Dodaj Jowisza i zbadaj, jak jego przyciąganie zaburza orbitę planety na 2–4 j.a. (pas planetoid).
+- [ ] **Wariant obserwacyjny:** przez kilka pogodnych nocy obserwuj Jowisza przez lornetkę na statywie (lub w Stellarium), notuj położenie księżyców galileuszowych, wyznacz okres i promień orbity jednego z nich i oblicz masę Jowisza.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Stosuję prawo powszechnego ciążenia, także dla kilku ciał (superpozycja), i liczę $g$ na różnych planetach i wysokościach.
+- [ ] Opisuję pole grawitacyjne natężeniem i potencjałem, liczę energię potencjalną $-GMm/r$ i prędkość ucieczki.
+- [ ] Liczę prędkość, okres i energię satelity na orbicie kołowej, w tym orbitę geostacjonarną.
+- [ ] Stosuję trzy prawa Keplera, wyznaczam masy ciał niebieskich i prędkości na orbicie eliptycznej.
+- [ ] Liczę pole rozkładu masy przez całkowanie i wyjaśniam, skąd biorą się dwa przypływy na dobę.
+- [ ] Wyznaczam odległości z paralaksy, temperatury i jasności gwiazd z praw promieniowania oraz odległości galaktyk z prawa Hubble'a.

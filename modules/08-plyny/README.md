@@ -1,6 +1,6 @@
 # 08 — Mechanika płynów
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — hydrostatyka i hydrodynamika · **Czas:** 15–25 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — hydrostatyka i hydrodynamika · **Czas:** 15–25 h od zera
 
 ## Cel modułu
 
@@ -33,12 +33,37 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Jakie ciśnienie hydrostatyczne panuje na głębokości 5 m w wodzie?
+2. Człowiek o masie 80 kg stoi na nartach o łącznym polu $0{,}3\ \mathrm{m^2}$. Jakie ciśnienie wywiera na śnieg?
+3. Prasa hydrauliczna ma tłoki o polach $5\ \mathrm{cm^2}$ i $500\ \mathrm{cm^2}$. Jaka siła działa na duży tłok, gdy na mały naciskamy siłą 50 N?
+4. Sześcian o boku 10 cm i gęstości $800\ \mathrm{kg/m^3}$ pływa w wodzie. Na jaką głębokość się zanurza?
+5. Woda płynie rurą o średnicy 4 cm z prędkością 1 m/s. Jaka jest jej prędkość w miejscu, gdzie rura ma średnicę 2 cm?
+6. Dlaczego trudno wyciągnąć nogę z błota albo przyssawkę z gładkiej ściany?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $\rho gh \approx 49\ \mathrm{kPa}$ (plus ciśnienie atmosferyczne, razem ok. 150 kPa)
+2. $p \approx 2{,}6\ \mathrm{kPa}$
+3. $5\ \mathrm{kN}$
+4. $8\ \mathrm{cm}$
+5. $4\ \mathrm{m/s}$
+6. Pod nogą (przyssawką) ciśnienie jest mniejsze niż atmosferyczne; różnica ciśnień razy pole daje dużą siłę
+</details>
+
+## Projekt modułowy: hydrostatyka i przepływ w kuchni
+
+- [ ] **Barometr w telefonie.** Z czujnikiem ciśnienia (phyphox, *Pressure*) zmierz zmianę ciśnienia na kolejnych piętrach budynku. Narysuj $p(h)$, dopasuj prostą i wyznacz gęstość powietrza z nachylenia ($dp/dh = -\rho g$). Porównaj z $1{,}2\ \mathrm{kg/m^3}$.
+- [ ] **Gęstość z prawa Archimedesa.** Wyznacz wagą kuchenną gęstość trzech przedmiotów (metalowy, kamień, plastik tonący), mierząc masę wypartej wody. Podaj wyniki z niepewnościami i porównaj z tablicami.
+- [ ] **Wzór Torricellego.** Zrób otwór w dnie lub boku plastikowej butelki. Mierz co kilka sekund wysokość wody (podziałka na butelce, film). Sprawdź, czy $\sqrt h$ maleje liniowo z czasem, i porównaj nachylenie z teorią $\tfrac{s}{S}\sqrt{g/2}$ — wyznacz „efektywne” pole otworu (współczynnik kontrakcji strumienia).
+- [ ] W sprawozdaniu omów, który z pomiarów najbardziej odbiegał od modelu i dlaczego.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Liczę ciśnienie hydrostatyczne i atmosferyczne, stosuję prawo Pascala do pras hydraulicznych i naczyń połączonych.
+- [ ] Liczę siłę parcia na ściany i zapory przez całkowanie oraz ciśnienie w atmosferze (wzór barometryczny).
+- [ ] Stosuję prawo Archimedesa: warunki pływania, część zanurzona, ciężar pozorny, gęstość z ważenia.
+- [ ] Stosuję równanie ciągłości i równanie Bernoulliego (Torricelli, Venturi, Pitot) i rozwiązuję zadanie o opróżnianiu zbiornika.
+- [ ] Rozumiem lepkość, liczę przepływ z prawa Poiseuille'a i oceniam rodzaj przepływu z liczby Reynoldsa.
