@@ -1,6 +1,6 @@
 # 22 — Fizyka jądrowa
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — jądro atomowe · **Czas:** 20–35 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — jądro atomowe · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 
@@ -39,12 +39,40 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Ile energii (w J i MeV) odpowiada masie 1 u?
+2. Ile wynosi $(1/2)^{3}$ i $e^{-\ln 2}$? Rozwiąż $2^{-x} = 0{,}1$.
+3. Rozwiąż równanie $\dfrac{dN}{dt} = -\lambda N$ z warunkiem $N(0) = N_0$.
+4. Oblicz energię potencjalną dwóch protonów w odległości 3 fm (w MeV).
+5. Ile cząsteczek zawiera 1 g wody?
+6. Ile wynosi $kT$ w eV w temperaturze $10^7$ K?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $1{,}49\cdot10^{-10}\ \mathrm J = 931{,}5\ \mathrm{MeV}$
+2. 0,125; 0,5; $x = \log_210 \approx 3{,}32$
+3. $N = N_0e^{-\lambda t}$
+4. ok. 0,48 MeV
+5. ok. $3{,}3\cdot10^{22}$
+6. ok. 860 eV
+</details>
+
+## Projekt modułowy: promieniotwórczość i energia jądrowa w liczbach
+
+- [ ] **Krzywa energii wiązania.** Pobierz tabelę mas atomowych (AME) i narysuj $E_w/A$ od $A$ dla wszystkich stabilnych izotopów. Porównaj z modelem kroplowym i wskaż jądra magiczne.
+- [ ] **Model rozpadu.** Przeprowadź doświadczenie z kostkami (min. 100 sztuk) lub symulację Monte Carlo i wyznacz okres połowicznego zaniku z dopasowania. Zbadaj, jak niepewność zależy od liczby kostek.
+- [ ] **Tło promieniowania.** Jeśli masz dostęp do licznika Geigera, zmierz tło w kilku miejscach (piwnica, mieszkanie, na zewnątrz, przy granitowym blacie) i sprawdź, czy rozkład zliczeń jest poissonowski.
+- [ ] **Bilans elektrowni.** Porównaj zużycie paliwa i masę odpadów dla elektrowni 1 GW: węglowej, jądrowej (rozszczepienie) i hipotetycznej termojądrowej (D–T). Przedstaw w tabeli.
+- [ ] W sprawozdaniu oceń, które dane i założenia mają największy wpływ na wynik.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Opisuję budowę jądra, izotopy, rozmiar i gęstość jądra oraz oddziaływanie silne.
+- [ ] Liczę defekt masy i energię wiązania z mas atomowych; interpretuję krzywą $E_w/A$.
+- [ ] Zapisuję równania rozpadów α, β, γ, stosuję prawo rozpadu, liczę aktywność i wiek próbek.
+- [ ] Liczę wartość Q i energię progową reakcji jądrowych, stosuję prawa zachowania.
+- [ ] Wyjaśniam rozszczepienie, reakcję łańcuchową i budowę reaktora; liczę energię i zużycie paliwa.
+- [ ] Wyjaśniam syntezę, barierę kulombowską, rolę tunelowania i warunki zapłonu; liczę energię reakcji D–T i cyklu pp.
+- [ ] Rozróżniam Bq, Gy i Sv, liczę dawki i osłabienie promieniowania, oceniam typowe dawki i ryzyko.

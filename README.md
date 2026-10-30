@@ -72,7 +72,7 @@ Zasady:
 | 19 | [Szczególna teoria względności](modules/19-teoria-wzglednosci) | 🟢🔵 | Fizyka II / Fizyka współczesna — elementy STW | ✅ pełny |
 | 20 | [Podstawy fizyki kwantowej](modules/20-fizyka-kwantowa) | 🟢🔵 | Fizyka współczesna / Fizyka III — wstęp do mechaniki kwantowej | ✅ pełny |
 | 21 | [Fizyka atomowa](modules/21-fizyka-atomowa) | 🟢🔵 | Fizyka współczesna — budowa atomu | ✅ pełny |
-| 22 | [Fizyka jądrowa](modules/22-fizyka-jadrowa) | 🟢🔵 | Fizyka współczesna — jądro atomowe | 🔲 szkielet |
+| 22 | [Fizyka jądrowa](modules/22-fizyka-jadrowa) | 🟢🔵 | Fizyka współczesna — jądro atomowe | ✅ pełny |
 | 23 | [Fizyka ciała stałego](modules/23-fizyka-ciala-stalego) | 🔵 | Fizyka współczesna / Fizyka ciała stałego (wstęp) | 🔲 szkielet |
 | 24 | [Cząstki elementarne i kosmologia](modules/24-czastki-i-kosmologia) | 🟢🔵 | Fizyka współczesna — cząstki i Wszechświat | 🔲 szkielet |
 | 25 | [Fizyka obliczeniowa w Pythonie](modules/25-fizyka-obliczeniowa) | 🟢🔵 | Metody numeryczne / Fizyka komputerowa (wstęp) | 🔲 szkielet |
