@@ -63,7 +63,7 @@ Zasady:
 | 10 | [Fale mechaniczne i akustyka](modules/10-fale-i-akustyka) | 🟢🔵 | Fizyka I — fale; Drgania i fale | ✅ pełny |
 | 11 | [Termodynamika i teoria kinetyczna](modules/11-termodynamika) | 🟢🔵 | Fizyka I — termodynamika fenomenologiczna i kinetyczna teoria gazów | ✅ pełny |
 | 12 | [Elektrostatyka](modules/12-elektrostatyka) | 🟢🔵 | Fizyka II — pole elektryczne | ✅ pełny |
-| 13 | [Prąd stały](modules/13-prad-staly) | 🟢🔵 | Fizyka II — prąd elektryczny | 🔲 szkielet |
+| 13 | [Prąd stały](modules/13-prad-staly) | 🟢🔵 | Fizyka II — prąd elektryczny | ✅ pełny |
 | 14 | [Pole magnetyczne](modules/14-pole-magnetyczne) | 🟢🔵 | Fizyka II — magnetostatyka | 🔲 szkielet |
 | 15 | [Indukcja elektromagnetyczna i prąd przemienny](modules/15-indukcja-i-prad-przemienny) | 🟢🔵 | Fizyka II — indukcja, drgania elektromagnetyczne | 🔲 szkielet |
 | 16 | [Równania Maxwella i fale elektromagnetyczne](modules/16-rownania-maxwella-i-fale-em) | 🟢🔵 | Fizyka II — równania Maxwella, fale EM | 🔲 szkielet |
