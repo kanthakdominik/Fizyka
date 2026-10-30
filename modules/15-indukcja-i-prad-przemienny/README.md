@@ -1,6 +1,6 @@
 # 15 — Indukcja elektromagnetyczna i prąd przemienny
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — indukcja, drgania elektromagnetyczne · **Czas:** 30–50 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — indukcja, drgania elektromagnetyczne · **Czas:** 30–50 h od zera
 
 ## Cel modułu
 
@@ -41,12 +41,40 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Oblicz pole magnetyczne wewnątrz solenoidu o 500 zwojach na 25 cm przy prądzie 1 A.
+2. Pręt o długości 0,3 m z prądem 2 A leży prostopadle do pola 0,1 T. Oblicz siłę.
+3. Oblicz pochodną $\dfrac{d}{dt}(5\cos 100t)$ i średnią wartość $\sin^2\omega t$ w okresie.
+4. Rozwiąż równanie $\ddot x = -400x$. Jaka jest częstość kołowa?
+5. Oblicz $\sqrt{30^2 + 40^2}$ i $\arctan(1)$ w stopniach.
+6. Kondensator 1 μF naładowano do 100 V. Jaką ma energię?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $B = \mu_0nI \approx 2{,}5\ \mathrm{mT}$
+2. 0,06 N
+3. $-500\sin100t$; $\tfrac12$
+4. $x = A\cos(20t + \varphi)$, $\omega = 20\ \mathrm{rad/s}$
+5. 50; $45^\circ$
+6. 5 mJ
+</details>
+
+## Projekt modułowy: indukcja w praktyce
+
+- [ ] **Prawo Faradaya.** Nagraj (wejście mikrofonowe lub oscyloskop) impulsy SEM z cewki, przez którą spada magnes z różnych wysokości. Sprawdź, że amplituda rośnie z prędkością, a pole pod impulsem (ładunek) się nie zmienia.
+- [ ] **Hamowanie magnesu w rurce.** Zmierz czas spadku magnesu neodymowego w rurce miedzianej lub aluminiowej i plastikowej tej samej długości. Oblicz prędkość graniczną i oszacuj moc traconą w rurce.
+- [ ] **Prądnica z silniczka.** Napędzaj mały silnik prądu stałego wiertarką lub ręcznie i zmierz napięcie w funkcji obrotów (obrotomierz aplikacją). Wyznacz stałą $\varepsilon/\omega$.
+- [ ] **Transformator.** W pracowni zmierz przekładnię napięć dla kilku par cewek i sprawność transformatora przy różnych obciążeniach (tylko na niskim napięciu).
+- [ ] W sprawozdaniu wskaż, gdzie i dlaczego wyniki odbiegają od modeli idealnych.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Liczę strumień magnetyczny i SEM indukcji z prawa Faradaya, określam kierunek prądu z reguły Lenza.
+- [ ] Liczę SEM ruchu i siłę hamującą, opisuję indukowane pole elektryczne o zamkniętych liniach.
+- [ ] Opisuję działanie prądnicy, SEM wsteczną silnika i prądy wirowe oraz ich zastosowania i ograniczanie.
+- [ ] Liczę indukcyjność własną i wzajemną, SEM samoindukcji, energię cewki i gęstość energii pola magnetycznego.
+- [ ] Rozwiązuję obwody RL, LC i RLC i korzystam z analogii z oscylatorem mechanicznym.
+- [ ] Liczę wartości skuteczne, reaktancje, impedancję, przesunięcie fazy, moc i rezonans w obwodach prądu przemiennego.
+- [ ] Stosuję przekładnię transformatora i wyjaśniam rolę transformatorów w przesyle energii.
