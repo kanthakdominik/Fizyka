@@ -1,6 +1,6 @@
 # 21 — Fizyka atomowa
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — budowa atomu · **Czas:** 20–35 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — budowa atomu · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 
@@ -38,12 +38,39 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Oblicz siłę Coulomba między protonem a elektronem w odległości 0,053 nm.
+2. Ile wynosi energia fotonu o długości fali 656 nm w eV?
+3. Zapisz poziomy energii cząstki w nieskończonej studni potencjału o szerokości $L$ (20.06).
+4. Oblicz moment magnetyczny pętli o polu 1 cm² z prądem 1 A.
+5. Ile wynosi $e^{-80}$ w przybliżeniu (rząd wielkości)?
+6. Ile wynosi $kT$ w eV w temperaturze 300 K?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $F \approx 8{,}2\cdot10^{-8}\ \mathrm N$
+2. ok. 1,89 eV
+3. $E_n = n^2h^2/(8mL^2)$
+4. $10^{-4}\ \mathrm{A\cdot m^2}$
+5. ok. $10^{-35}$
+6. ok. 0,026 eV
+</details>
+
+## Projekt modułowy: spektroskopia domowa
+
+- [ ] **Spektroskop.** Zbuduj spektroskop ze szczeliną i fragmentem płyty DVD lub CD. Wyskaluj go liniami rtęci ze świetlówki (436, 546, 577/579 nm).
+- [ ] **Widma lamp.** Zarejestruj telefonem widma: żarówki tradycyjnej, LED, świetlówki, lampy sodowej (latarnia uliczna) i nieba. Opisz, które są ciągłe, a które liniowe, i zidentyfikuj linie.
+- [ ] **Test płomieniowy.** Pod opieką dorosłego zarejestruj widma płomienia z solami sodu, potasu, litu, strontu i porównaj z tablicami.
+- [ ] **Model Bohra w Pythonie.** Policz linie serii Balmera i porównaj z pomiarem lampy wodorowej (jeśli masz dostęp w pracowni) lub z linią Hα w widmie nieba.
+- [ ] W sprawozdaniu omów rozdzielczość spektroskopu i niepewność wyznaczenia długości fali.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Stosuję model Bohra: promienie i energie poziomów, wzór Rydberga, serie widmowe, jony wodoropodobne.
+- [ ] Znam liczby kwantowe atomu wodoru, liczę degenerację i rozkład radialny prawdopodobieństwa stanu 1s, stosuję reguły wyboru.
+- [ ] Opisuję orbitalny i spinowy moment magnetyczny, efekt Zeemana, doświadczenie Sterna–Gerlacha i rezonans magnetyczny.
+- [ ] Zapisuję konfiguracje elektronowe z zakazu Pauliego, reguły Madelunga i Hunda; wyjaśniam budowę układu okresowego.
+- [ ] Opisuję widma emisyjne i absorpcyjne, liczę granicę widma rentgenowskiego i linie charakterystyczne z prawa Moseleya.
+- [ ] Wyjaśniam emisję wymuszoną, inwersję obsadzeń i działanie lasera; liczę właściwości wiązki laserowej.
