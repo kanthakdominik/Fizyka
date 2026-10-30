@@ -1,6 +1,6 @@
 # 06 — Bryła sztywna, statyka i sprężystość
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — ruch obrotowy · **Czas:** 35–55 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — ruch obrotowy · **Czas:** 35–55 h od zera
 
 ## Cel modułu
 
@@ -42,12 +42,40 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 40 minut.
 
-## Projekt modułowy
+1. Koło wykonuje 120 obr/min. Oblicz jego prędkość kątową w rad/s.
+2. Kluczem o długości 30 cm działamy prostopadle siłą 50 N. Jaki jest moment siły?
+3. Dwie kule o masie 1 kg każda są umieszczone na końcach lekkiego pręta o długości 1 m. Oblicz moment bezwładności względem osi prostopadłej przez środek pręta.
+4. Huśtawka-ważka: dziecko o masie 25 kg siedzi 2 m od osi. Gdzie powinien usiąść rodzic o masie 75 kg?
+5. Dlaczego łyżwiarka obraca się szybciej, gdy przyciąga ręce do ciała?
+6. Pełna kula i obręcz o tej samej masie i promieniu staczają się z tej samej równi. Która będzie pierwsza na dole?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $\omega = 4\pi \approx 12{,}6\ \mathrm{rad/s}$
+2. $15\ \mathrm{N\cdot m}$
+3. $I = 2\cdot1\cdot0{,}25 = 0{,}5\ \mathrm{kg\cdot m^2}$
+4. $\tfrac23\ \mathrm{m} \approx 0{,}67\ \mathrm{m}$ od osi
+5. Moment pędu $I\omega$ jest zachowany; mniejszy moment bezwładności oznacza większą prędkość kątową
+6. Kula — mniejsza część energii idzie w ruch obrotowy
+</details>
+
+## Projekt modułowy: moment bezwładności i toczenie
+
+- [ ] **Wyścig brył.** Przygotuj równię (deska 1–1,5 m pod kątem $5^\circ$–$10^\circ$) i co najmniej cztery bryły: pełną puszkę, pustą puszkę lub rurę, piłkę tenisową, kulkę szklaną lub stalową. Nagraj staczanie telefonem z boku i zmierz czasy przejazdu (Tracker albo odczyt klatek).
+- [ ] Z czasu i długości równi oblicz przyspieszenie każdej bryły i współczynnik $\beta = g\sin\alpha/a - 1$. Porównaj z wartościami teoretycznymi (kula 0,4; walec 0,5; obręcz 1; czasza kulista 0,67).
+- [ ] **Szpula z ciężarkiem.** Nawiń nić na szpulę (np. rolkę taśmy klejącej na ołówku jako osi), zawieś ciężarek, zmierz czas opadania i wyznacz moment bezwładności szpuli ze wzoru $a = mg/(m + I/r^2)$.
+- [ ] **Krzesło obrotowe.** Zmierz phyphoxem (*Gyroscope*) prędkość obrotu na krześle z rękami wyciągniętymi i przyciągniętymi (z ciężarkami w dłoniach). Oblicz stosunek momentów bezwładności.
+- [ ] Opisz w sprawozdaniu, które źródła błędów (poślizg, tarcie toczenia, opór powietrza) najbardziej wpłynęły na wyniki.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Opisuję ruch obrotowy wielkościami kątowymi i przechodzę między wielkościami kątowymi a liniowymi.
+- [ ] Liczę momenty bezwładności z definicji (sumą lub całką) i z twierdzenia Steinera.
+- [ ] Stosuję $\sum\tau = I\varepsilon$ do bloczków z masą i brył na osi, liczę pracę i moc w ruchu obrotowym.
+- [ ] Rozwiązuję zadania o toczeniu z równi metodą energetyczną i dynamiczną, rozumiem rolę tarcia statycznego.
+- [ ] Stosuję zasadę zachowania momentu pędu (piruet, karuzela, pocisk trafiający w pręt, zapadająca się gwiazda).
+- [ ] Wyjaśniam precesję żyroskopu i liczę jej prędkość kątową.
+- [ ] Rozwiązuję zadania z równowagi brył (belki, drabiny, wysięgniki) i liczę odkształcenia z prawa Hooke'a.
