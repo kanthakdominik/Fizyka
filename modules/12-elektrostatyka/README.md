@@ -1,6 +1,6 @@
 # 12 — Elektrostatyka
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — pole elektryczne · **Czas:** 35–55 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — pole elektryczne · **Czas:** 35–55 h od zera
 
 ## Cel modułu
 
@@ -48,12 +48,39 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Oblicz siłę grawitacji między dwiema masami po 1 kg w odległości 1 m. Jak zmieni się siła, gdy odległość wzrośnie trzykrotnie?
+2. Dodaj wektory $\vec a = (3, 0)$ i $\vec b = (-1, 2)$. Oblicz $\lvert\vec a + \vec b\rvert$ i iloczyn skalarny $\vec a\cdot\vec b$.
+3. Oblicz $\displaystyle\int_1^2\frac{dr}{r^2}$ i $\dfrac{d}{dz}(z^2 + 1)^{-1/2}$.
+4. Ciało o masie 2 kg spada z wysokości 5 m. Oblicz pracę siły ciężkości i prędkość na dole.
+5. Zapisz w notacji wykładniczej: 3 nC, 50 μC, 2 pF.
+6. Pole kwadratu o boku 10 cm w m² i objętość kostki o boku 1 mm w m³.
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $6{,}67\cdot10^{-11}\ \mathrm N$; zmaleje 9 razy
+2. $(2, 2)$, $\lvert\cdot\rvert \approx 2{,}83$; $\vec a\cdot\vec b = -3$
+3. $\tfrac12$; $-z(z^2 + 1)^{-3/2}$
+4. $W = 98\ \mathrm J$, $v \approx 9{,}9\ \mathrm{m/s}$
+5. $3\cdot10^{-9}\ \mathrm C$, $5\cdot10^{-5}\ \mathrm C$, $2\cdot10^{-12}\ \mathrm F$
+6. $0{,}01\ \mathrm{m^2}$; $10^{-9}\ \mathrm{m^3}$
+</details>
+
+## Projekt modułowy: elektrostatyka z kuchni
+
+- [ ] **Ładunek balonów.** Zmierz ładunek dwóch naelektryzowanych balonów zawieszonych na niciach (masa, długość nici, odległość). Powtórz kilka razy i podaj wynik z niepewnością. Oszacuj, ile to elektronów na cm² powierzchni.
+- [ ] **Mapa potencjału.** Na papierze przewodzącym lub w płaskiej tacy z wodą narysuj linie ekwipotencjalne dla dwóch elektrod punktowych i dla dwóch elektrod listwowych (model kondensatora). Dorysuj linie pola. Porównaj z wykresem z Pythona (12.05).
+- [ ] **Kondensator z folii.** Zbuduj kondensator z folii aluminiowej i przekładek. Zmierz pojemność w funkcji pola okładek i liczby przekładek, sprawdź $C \propto A/d$ i wyznacz $\varepsilon_r$ przekładki.
+- [ ] W sprawozdaniu oceń, który pomiar był najmniej zgodny z modelem i dlaczego (wilgotność, efekty brzegowe, nierówny docisk).
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Stosuję prawo Coulomba i zasadę superpozycji do układów kilku ładunków (wektorowo).
+- [ ] Liczę natężenie pola ładunków punktowych i dipola, opisuję ruch ładunku w polu jednorodnym, rysuję linie pola.
+- [ ] Liczę pole rozkładów ciągłych (pręt, pierścień, dysk, płaszczyzna) przez całkowanie z użyciem symetrii.
+- [ ] Stosuję prawo Gaussa dla symetrii kulistej, walcowej i płaskiej oraz wyjaśniam zachowanie przewodników.
+- [ ] Liczę potencjał i energię potencjalną układów ładunków, przyspieszanie ładunków napięciem, pole jako gradient potencjału.
+- [ ] Liczę pojemność, łączę kondensatory, liczę energię i gęstość energii pola.
+- [ ] Opisuję wpływ dielektryka na kondensator odłączony i podłączony do źródła.
