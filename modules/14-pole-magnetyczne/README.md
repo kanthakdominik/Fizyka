@@ -1,6 +1,6 @@
 # 14 — Pole magnetyczne
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — magnetostatyka · **Czas:** 30–50 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — magnetostatyka · **Czas:** 30–50 h od zera
 
 ## Cel modułu
 
@@ -43,12 +43,40 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Oblicz iloczyn wektorowy $\hat x\times\hat y$ i $(2, 0, 0)\times(0, 3, 0)$. Ile wynosi $\lvert\vec a\times\vec b\rvert$ dla wektorów prostopadłych o długościach 2 i 3?
+2. Ciało o masie 1 kg porusza się po okręgu o promieniu 2 m z prędkością 4 m/s. Oblicz siłę dośrodkową i okres.
+3. Przez przewód płynie prąd 2 A. Ile ładunku przepływa w ciągu 10 s?
+4. Oblicz $\displaystyle\int_{-\pi/2}^{\pi/2}\cos\theta\,d\theta$ i $\displaystyle\int_a^b\frac{dx}{x}$.
+5. Ramka o momencie bezwładności $I$ jest zawieszona na drucie skręcanym momentem $-\kappa\theta$. Jaki ma okres drgań?
+6. Elektron przyspieszono napięciem 100 V. Jaką ma energię w eV i w dżulach?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $\hat z$; $(0, 0, 6)$; 6
+2. $F = mv^2/r = 8\ \mathrm N$, $T = 2\pi r/v \approx 3{,}1\ \mathrm s$
+3. 20 C
+4. 2; $\ln(b/a)$
+5. $T = 2\pi\sqrt{I/\kappa}$ (09.03)
+6. 100 eV $= 1{,}6\cdot10^{-17}\ \mathrm J$
+</details>
+
+## Projekt modułowy: pole magnetyczne telefonem
+
+- [ ] **Pole Ziemi.** Zmierz magnetometrem telefonu wartość i kierunek pola Ziemi w kilku miejscach (z dala od metalu). Wyznacz inklinację i porównaj z danymi dla twojej miejscowości (mapy NOAA lub Instytutu Geofizyki PAN).
+- [ ] **Przewód prosty.** Zmierz pole długiego przewodu z prądem w funkcji odległości i sprawdź $B \propto 1/d$. Z dopasowania wyznacz $\mu_0$.
+- [ ] **Zwojnica.** Nawiń zwojnicę i zmierz pole wewnątrz w funkcji prądu i wzdłuż osi. Porównaj z $\mu_0nI$ i z wykresem dla solenoidu skończonego (14.06). Włóż do środka gwóźdź lub pręt stalowy (jeśli telefon zmieści się z boku przy końcu) i oszacuj, ile razy rdzeń wzmacnia pole.
+- [ ] **Magnes trwały.** Zmierz pole magnesu neodymowego w funkcji odległości na jego osi i sprawdź zależność $1/r^3$ (dipol). Z dopasowania wyznacz moment magnetyczny magnesu.
+- [ ] W sprawozdaniu omów wpływ pola Ziemi i metalowych przedmiotów na pomiary.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Liczę siłę Lorentza, promień i okres ruchu ładunku w polu, rozumiem selektor prędkości i ruch po linii śrubowej.
+- [ ] Liczę siłę elektrodynamiczną, moment magnetyczny ramki i moment siły; wyjaśniam działanie silnika i miernika.
+- [ ] Wyjaśniam efekt Halla, spektrometr masowy i cyklotron i wykonuję związane z nimi obliczenia.
+- [ ] Stosuję prawo Biota–Savarta do przewodu prostego, pętli kołowej i łuków.
+- [ ] Liczę siłę między przewodami z prądem i wyjaśniam dawną definicję ampera.
+- [ ] Stosuję prawo Ampère'a do przewodu, solenoidu, toroidu i kabla koncentrycznego.
+- [ ] Rozróżniam dia-, para- i ferromagnetyki, wyjaśniam histerezę, nasycenie, temperaturę Curie i prawo Curie.
