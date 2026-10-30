@@ -1,6 +1,6 @@
 # 19 — Szczególna teoria względności
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II / Fizyka współczesna — elementy STW · **Czas:** 15–25 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II / Fizyka współczesna — elementy STW · **Czas:** 15–25 h od zera
 
 ## Cel modułu
 
@@ -36,12 +36,38 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Pociąg jedzie z prędkością 20 m/s, a pasażer idzie do przodu z prędkością 1 m/s względem pociągu. Jaka jest prędkość pasażera względem peronu (mechanika klasyczna)?
+2. Ile wynosi prędkość światła w próżni? Ile czasu światło biegnie od Słońca do Ziemi (150 mln km)?
+3. Oblicz $\sqrt{1 - 0{,}6^2}$ i $1/\sqrt{1 - 0{,}8^2}$.
+4. Rozwiń $(1 - x)^{-1/2}$ w szereg do wyrazu liniowego.
+5. Zapisz zasadę zachowania pędu i energii dla zderzenia sprężystego dwóch ciał.
+6. Ile dżuli to 1 eV? Ile to 1 MeV?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. 21 m/s
+2. $3\cdot10^8\ \mathrm{m/s}$; ok. 500 s
+3. 0,8; $5/3 \approx 1{,}67$
+4. $1 + x/2$
+5. $m_1\vec v_1 + m_2\vec v_2 = m_1\vec v_1' + m_2\vec v_2'$ i to samo dla $\tfrac12mv^2$
+6. $1{,}602\cdot10^{-19}\ \mathrm J$; $1{,}602\cdot10^{-13}\ \mathrm J$
+</details>
+
+## Projekt modułowy: teoria względności w liczbach i danych
+
+- [ ] **Miony.** Policz, jaki ułamek mionów powstałych na wysokości 10–15 km dociera do powierzchni z dylatacją czasu i bez niej. Jeśli masz dostęp do detektora (CosmicWatch, aplikacja Credo), porównaj liczbę zliczeń na różnych wysokościach.
+- [ ] **GPS.** Oblicz poprawki relatywistyczne dla zegarów GPS (szczególna i ogólna teoria względności) i błąd położenia po dobie bez korekty.
+- [ ] **Diagram Minkowskiego.** Narysuj w Pythonie diagram z osiami dwóch układów i pokaż na nim względność równoczesności oraz paradoks bliźniąt (linie świata obu bliźniaków i ich czasy własne).
+- [ ] **Przesunięcie ku czerwieni.** Z publicznego widma galaktyki (SDSS) wyznacz $z$ z kilku linii i oblicz prędkość oddalania wzorem relatywistycznym. Oszacuj odległość z prawa Hubble'a ($H_0 \approx 70\ \mathrm{km/(s\cdot Mpc)}$).
+- [ ] W sprawozdaniu wyjaśnij, które z efektów są mierzalne w życiu codziennym i jakimi przyrządami.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Formułuję postulaty Einsteina, opisuję doświadczenie Michelsona–Morleya i względność równoczesności.
+- [ ] Liczę dylatację czasu i skrócenie długości, rozróżniam czas i długość własną, wyjaśniam miony i paradoks bliźniąt.
+- [ ] Stosuję transformację Lorentza, relatywistyczne dodawanie prędkości i interwał czasoprzestrzenny.
+- [ ] Liczę relatywistyczny efekt Dopplera i prędkość z przesunięcia ku czerwieni.
+- [ ] Liczę pęd, energię całkowitą i kinetyczną cząstek relatywistycznych, stosuję $E^2 = (pc)^2 + (mc^2)^2$ i $E = mc^2$.
