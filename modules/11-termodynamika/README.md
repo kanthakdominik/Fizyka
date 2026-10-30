@@ -1,6 +1,6 @@
 # 11 — Termodynamika i teoria kinetyczna
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — termodynamika fenomenologiczna i kinetyczna teoria gazów · **Czas:** 35–55 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — termodynamika fenomenologiczna i kinetyczna teoria gazów · **Czas:** 35–55 h od zera
 
 ## Cel modułu
 
@@ -44,12 +44,40 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Przelicz 27°C na kelwiny.
+2. Ile energii trzeba, żeby podnieść ciało o masie 2 kg na wysokość 5 m? A ile, żeby rozpędzić je do 10 m/s?
+3. Oblicz pracę siły 50 N przesuwającej tłok o 0,2 m. Wyraź ją przez ciśnienie i zmianę objętości, jeśli tłok ma pole 0,01 m².
+4. Oblicz $\displaystyle\int_1^2\frac{dV}{V}$ oraz $\displaystyle\int_0^1V^2\,dV$.
+5. Ile cząsteczek zawiera 1 mol substancji? Ile moli to 36 g wody?
+6. Ciało o masie $m$ porusza się z prędkością $v$ i odbija sprężyście od ściany. Jaka jest zmiana jego pędu?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. 300,15 K
+2. $mgh \approx 98\ \mathrm J$; $\tfrac12mv^2 = 100\ \mathrm J$
+3. $W = 10\ \mathrm J = p\Delta V$, gdzie $p = 5000\ \mathrm{Pa}$ i $\Delta V = 0{,}002\ \mathrm{m^3}$
+4. $\ln2 \approx 0{,}693$; $\tfrac13$
+5. $6{,}02\cdot10^{23}$; 2 mole
+6. $2mv$ (zwrot przeciwny do prędkości początkowej)
+</details>
+
+## Projekt modułowy: bilans cieplny w kuchni
+
+- [ ] **Sprawność czajnika i kuchenki.** Zmierz czas zagotowania 1 kg wody w czajniku elektrycznym i na płycie (indukcyjnej, ceramicznej lub gazowej). Oblicz energię pobraną z rachunku (moc × czas albo licznik gazu) i sprawność każdego sposobu.
+- [ ] **Ciepło topnienia lodu.** Wyznacz kalorymetrycznie (termos, waga kuchenna, termometr) ciepło topnienia lodu z niepewnością i porównaj z 334 kJ/kg.
+- [ ] **Stygnięcie.** Zmierz krzywe stygnięcia wody w dwóch naczyniach (np. kubek ceramiczny i termos albo kubek z przykrywką i bez). Dopasuj prawo Newtona i porównaj stałe czasowe.
+- [ ] **Lodówka jako pompa ciepła.** Watomierzem zmierz energię zużytą przez lodówkę w ciągu doby. Na podstawie temperatur wewnątrz i w kuchni oblicz COP Carnota i oszacuj, ile ciepła lodówka przenosi.
+- [ ] W sprawozdaniu wskaż, które straty ciepła są największe i jak zmieniają wyniki.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Przeliczam skale temperatur, liczę rozszerzalność liniową i objętościową oraz naprężenia termiczne.
+- [ ] Rozwiązuję zadania z bilansu cieplnego z przemianami fazowymi, w tym sprawdzam, czy cały lód się stopi.
+- [ ] Liczę przewodzenie przez przegrody wielowarstwowe, stosuję prawo stygnięcia Newtona i prawo Stefana–Boltzmanna.
+- [ ] Stosuję równanie Clapeyrona, łączę temperaturę z energią kinetyczną cząsteczek, znam rozkład Maxwella i zasadę ekwipartycji.
+- [ ] Stosuję I zasadę termodynamiki w obu konwencjach znaków, liczę pracę, ciepło i $\Delta U$ dla czterech przemian i wyprowadzam równanie adiabaty.
+- [ ] Liczę sprawność silników, COP chłodziarek i pomp ciepła, sprawność Carnota i cyklu Otto.
+- [ ] Liczę zmiany entropii w typowych procesach, stosuję II zasadę do oceny, czy proces jest możliwy, i rozumiem wzór $S = k\ln\Omega$.
