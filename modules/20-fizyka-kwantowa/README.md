@@ -1,6 +1,6 @@
 # 20 — Podstawy fizyki kwantowej
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna / Fizyka III — wstęp do mechaniki kwantowej · **Czas:** 30–50 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna / Fizyka III — wstęp do mechaniki kwantowej · **Czas:** 30–50 h od zera
 
 ## Cel modułu
 
@@ -41,12 +41,40 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Oblicz energię fotonu o długości fali 500 nm w dżulach i elektronowoltach.
+2. Elektron przyspieszono napięciem 100 V. Oblicz jego energię kinetyczną i prędkość (nierelatywistycznie).
+3. Zapisz warunek fali stojącej na strunie o długości $L$ z zamocowanymi końcami (10.03).
+4. Oblicz $\displaystyle\int_0^L\sin^2\frac{\pi x}{L}dx$.
+5. Rozwiąż równanie $y'' = -k^2y$ z warunkami $y(0) = 0$, $y(L) = 0$.
+6. Oblicz $e^{-10}$ i $\ln(10^{-5})$.
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $4{,}0\cdot10^{-19}\ \mathrm J \approx 2{,}48\ \mathrm{eV}$
+2. 100 eV $= 1{,}6\cdot10^{-17}\ \mathrm J$, $v \approx 5{,}9\cdot10^6\ \mathrm{m/s}$
+3. $L = n\lambda/2$
+4. $L/2$
+5. $y = A\sin(n\pi x/L)$, $k = n\pi/L$
+6. $4{,}5\cdot10^{-5}$; $-11{,}5$
+</details>
+
+## Projekt modułowy: stała Plancka i kwanty w domu
+
+- [ ] **Stała Plancka z diod LED.** Zmierz napięcia progowe diod LED w kilku kolorach (podłącz przez opornik i potencjometr, mierz $I(U)$). Wyznacz $h$ z nachylenia $U$ od $1/\lambda$, z niepewnością. Długości fal sprawdź spektroskopem z płyty CD (18.03).
+- [ ] **Ciało doskonale czarne.** Obserwuj widmo żarówki przez siatkę (płyta CD) przy różnym napięciu zasilania. Oszacuj temperaturę włókna z oporu (13.02) i porównaj przesunięcie maksimum z prawem Wiena.
+- [ ] **Studnia potencjału w Pythonie.** Rozwiąż numerycznie równanie Schrödingera dla studni skończonej (np. 1 nm, 1 eV) i porównaj poziomy z nieskończoną studnią. Pokaż wnikanie funkcji falowej w ścianki.
+- [ ] **Tunelowanie.** Policz w Pythonie współczynnik przejścia dla bariery prostokątnej i porównaj wzór dokładny z przybliżeniem $e^{-2\kappa L}$ w szerokim zakresie parametrów.
+- [ ] W sprawozdaniu omów, które obserwacje nie dają się wyjaśnić fizyką klasyczną.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Opisuję promieniowanie ciała doskonale czarnego, stosuję prawa Wiena i Stefana–Boltzmanna, wyjaśniam hipotezę Plancka.
+- [ ] Stosuję równanie Einsteina dla fotoefektu, liczę napięcie hamowania, próg fotoefektu i liczbę fotonów.
+- [ ] Liczę przesunięcie Comptona i pęd fotonu, wyprowadzam wzór Comptona z zasad zachowania.
+- [ ] Liczę długość fali de Broglie'a (także relatywistycznie) i opisuję doświadczenia potwierdzające falową naturę materii.
+- [ ] Interpretuję funkcję falową, normalizuję ją, liczę wartości oczekiwane i stosuję zasadę nieoznaczoności.
+- [ ] Rozwiązuję równanie Schrödingera dla nieskończonej studni, znam poziomy oscylatora i wiążę przejścia z widmami.
+- [ ] Liczę współczynnik przejścia przez barierę i wyjaśniam zastosowania tunelowania.
