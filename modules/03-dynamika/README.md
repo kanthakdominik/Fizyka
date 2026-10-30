@@ -1,6 +1,6 @@
 # 03 — Dynamika punktu materialnego
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — dynamika · **Czas:** 35–60 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — dynamika · **Czas:** 35–60 h od zera
 
 ## Cel modułu
 
@@ -19,7 +19,7 @@ Stosować zasady dynamiki Newtona do układów ciał, tarcia, ruchu po okręgu i
 | 03 | [Tarcie statyczne i kinetyczne](03-tarcie.md) | 🟢 | [t. 1, §6.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/6-2-tarcie) | t. 1, §6.1 (s. 156) · wyd. 1: t. 1, [§6.1–6.2, s. 118](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=130) |
 | 04 | [Dynamika ruchu po okręgu](04-dynamika-ruchu-po-okregu.md) | 🟢 | [t. 1, §6.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/6-3-sila-dosrodkowa) | t. 1, §6.3 (s. 167) · wyd. 1: t. 1, [§6.4, s. 127](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=139) |
 | 05 | [Opór ośrodka i prędkość graniczna — równanie ruchu](05-opor-osrodka.md) | 🔵 | [t. 1, §6.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/6-4-sila-oporu-i-predkosc-graniczna) | t. 1, §6.2 (s. 164) · wyd. 1: t. 1, [§6.3, s. 124](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=136) |
-| 06 | [Układy nieinercjalne i siły bezwładności](06-uklady-nieinercjalne.md) | 🟢🔵 | — | — |
+| 06 | [Układy nieinercjalne i siły bezwładności](06-uklady-nieinercjalne.md) | 🟢🔵 | [t. 1, §6.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/6-3-sila-dosrodkowa) | — |
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
@@ -38,12 +38,39 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 40 minut.
 
-## Projekt modułowy
+1. Na ciało o masie 5 kg działają dwie siły: 30 N na wschód i 10 N na zachód. Oblicz przyspieszenie.
+2. Książka leży na stole. Wymień siły działające na książkę i wskaż parę sił z III zasady dynamiki dla każdej z nich.
+3. Klocek o masie 2 kg zsuwa się z gładkiej równi o kącie $45^\circ$. Oblicz przyspieszenie.
+4. Skrzynia o masie 10 kg spoczywa na podłodze ($\mu_s = 0{,}4$). Działamy na nią poziomą siłą 30 N. Jaka jest siła tarcia?
+5. Samochód o masie 1000 kg jedzie z prędkością 20 m/s po łuku o promieniu 100 m. Jaka siła dośrodkowa jest potrzebna?
+6. Dlaczego w ruszającym autobusie pasażerowie odchylają się do tyłu?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $4\ \mathrm{m/s^2}$ na wschód
+2. Ciężar (para: siła, z jaką książka przyciąga Ziemię) i siła nacisku stołu (para: siła, z jaką książka naciska na stół)
+3. $g\sin45^\circ \approx 6{,}9\ \mathrm{m/s^2}$
+4. 30 N (tarcie statyczne, bo $30 < 0{,}4\cdot98{,}1 = 39{,}2\ \mathrm{N}$)
+5. $4000\ \mathrm{N}$
+6. Bezwładność: ich ciała dążą do zachowania prędkości, a autobus przyspiesza pod nimi (w układzie autobusu — siła bezwładności do tyłu)
+</details>
+
+## Projekt modułowy: wyznaczanie współczynników tarcia
+
+- [ ] **Tarcie statyczne.** Połóż telefon na desce (lub w pudełku na desce) i powoli ją unoś, mierząc kąt eksperymentem *Inclination* w phyphox. Zapisz kąt, przy którym telefon rusza. 10 powtórzeń, średnia i niepewność $\mu_s = \tan\alpha$.
+- [ ] **Tarcie kinetyczne.** Ustaw deskę pod kątem większym od granicznego i zmierz przyspieszenie zsuwania (phyphox *Acceleration (without g)* — składowa wzdłuż deski — albo nagranie wideo i Tracker). Wyznacz $\mu_k$ ze wzoru $a = g(\sin\alpha - \mu_k\cos\alpha)$ dla trzech różnych kątów.
+- [ ] Sprawdź, czy $\mu_k < \mu_s$ i czy $\mu_k$ zależy od kąta (czyli od siły nacisku).
+- [ ] Powtórz dla dwóch różnych powierzchni (np. drewno i tkanina) i porównaj z wartościami tablicowymi.
+- [ ] Opisz wyniki w sprawozdaniu: który pomiar ma większą niepewność względną i dlaczego.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Formułuję trzy zasady dynamiki i wskazuję, na które ciało działa każda siła z pary akcja–reakcja.
+- [ ] Rysuję osobne diagramy sił dla ciał połączonych i rozwiązuję zadania z równią, bloczkami i klockami.
+- [ ] Rozróżniam tarcie statyczne i kinetyczne i wiem, kiedy tarcie statyczne jest mniejsze od $\mu_sN$.
+- [ ] Wskazuję, która siła rzeczywista pełni rolę dośrodkowej, i liczę prędkości graniczne na zakrętach i w pętlach.
+- [ ] Zapisuję i rozwiązuję równanie ruchu z oporem liniowym i kwadratowym, liczę prędkość graniczną.
+- [ ] Rozwiązuję zadanie zarówno w układzie inercjalnym, jak i nieinercjalnym z siłami bezwładności.

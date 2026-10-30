@@ -1,6 +1,6 @@
 # 02 — Kinematyka
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — kinematyka punktu materialnego · **Czas:** 30–50 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — kinematyka punktu materialnego · **Czas:** 30–50 h od zera
 
 ## Cel modułu
 
@@ -41,12 +41,42 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 40 minut.
 
-## Projekt modułowy
+1. Rowerzysta przejechał 10 km w 30 min, a potem 10 km w 20 min. Oblicz szybkość średnią w km/h.
+2. Samochód hamuje od 90 km/h do zera na drodze 50 m. Oblicz opóźnienie.
+3. Kamień spada swobodnie z wysokości 80 m. Po jakim czasie uderzy w ziemię?
+4. Piłkę wyrzucono poziomo z prędkością 5 m/s z wysokości 1,8 m. Jak daleko upadnie?
+5. Karuzela o promieniu 4 m wykonuje obrót w 8 s. Oblicz prędkość i przyspieszenie dośrodkowe dziecka na jej brzegu.
+6. Położenie ciała: $x(t) = 5t - t^2$ (m, s). Kiedy ciało się zatrzymuje?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $20\ \mathrm{km}/(5/6\ \mathrm{h}) = 24\ \mathrm{km/h}$
+2. $a = 25^2/(2\cdot50) = 6{,}25\ \mathrm{m/s^2}$
+3. $t = \sqrt{160/9{,}81} \approx 4{,}0\ \mathrm{s}$
+4. $t \approx 0{,}61\ \mathrm{s}$, $z \approx 3{,}0\ \mathrm{m}$
+5. $v = 2\pi\cdot4/8 \approx 3{,}14\ \mathrm{m/s}$, $a \approx 2{,}47\ \mathrm{m/s^2}$
+6. $v = 5 - 2t = 0 \Rightarrow t = 2{,}5\ \mathrm{s}$
+</details>
+
+## Projekt modułowy: analiza wideo rzutu
+
+- [ ] Nagraj telefonem (z boku, ze statywu albo opartego o coś stałego) rzut ukośny piłki tenisowej na tle przedmiotu o znanej długości. Jeśli telefon ma tryb zwolnionego tempa, użyj go.
+- [ ] Wczytaj film do programu [Tracker](https://physlets.org/tracker/), ustaw skalę i układ współrzędnych, zaznacz położenie piłki w kolejnych klatkach.
+- [ ] Wyeksportuj $x(t)$ i $y(t)$. Dopasuj prostą do $x(t)$ i parabolę do $y(t)$ (np. `numpy.polyfit`). Z dopasowania wyznacz $v_{0x}$, $v_{0y}$, kąt rzutu i $g$ z niepewnościami.
+- [ ] Narysuj tor $y(x)$ z pomiarów i z modelu bez oporu powietrza. Czy różnica jest widoczna?
+- [ ] Oblicz z wyznaczonych $v_0$ i $\alpha$ przewidywany zasięg i porównaj z pomiarem.
+- [ ] Opisz w sprawozdaniu (szablon z [modułu 01](../01-pomiary-i-niepewnosci/05-doswiadczenie-i-raport.md)), co ogranicza dokładność: liczba klatek na sekundę, rozmycie obrazu, perspektywa.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Rozróżniam przemieszczenie i drogę, prędkość i szybkość, wartości średnie i chwilowe.
+- [ ] Odczytuję prędkość i przyspieszenie z wykresów jako nachylenia, a przemieszczenie i zmianę prędkości jako pola.
+- [ ] Dobieram właściwy wzór ruchu jednostajnie zmiennego i rozwiązuję zadania o hamowaniu, spadku i rzucie pionowym.
+- [ ] Wyznaczam $v(t)$ i $x(t)$ przez całkowanie, gdy przyspieszenie zależy od czasu, prędkości lub położenia.
+- [ ] Rozkładam ruch w 2D na niezależne ruchy wzdłuż osi i liczę przyspieszenie styczne i normalne.
+- [ ] Rozwiązuję zadania o rzucie poziomym i ukośnym, także z wysokości.
+- [ ] Liczę prędkość kątową, okres i przyspieszenie dośrodkowe w ruchu po okręgu.
+- [ ] Składam prędkości w różnych układach odniesienia (łódź na rzece, samolot w wietrze).
