@@ -4,7 +4,7 @@
 >
 > **Czytaj:**
 >
-> - _źródła zostaną dobrane przy wypełnianiu tematu_
+> - _Podręczniki główne nie mają osobnego paragrafu na ten temat — materiały są w sekcji „Źródła”._
 
 ← [Python dla fizyka: NumPy, Matplotlib, SciPy](01-python-dla-fizyka.md) · [spis modułu](README.md) · [Rzut z oporem, wahadło nieliniowe, orbity planet](03-symulacje-mechaniki.md) →
 

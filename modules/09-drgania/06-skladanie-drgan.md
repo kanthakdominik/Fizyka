@@ -4,7 +4,7 @@
 >
 > **Czytaj:**
 >
-> - _źródła zostaną dobrane przy wypełnianiu tematu_
+> - _Podręczniki główne nie mają osobnego paragrafu na ten temat — materiały są w sekcji „Źródła”._
 
 ← [Drgania wymuszone i rezonans](05-drgania-wymuszone-i-rezonans.md) · [spis modułu](README.md) · (koniec modułu) →
 

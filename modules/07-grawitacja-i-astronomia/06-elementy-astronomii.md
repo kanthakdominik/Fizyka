@@ -4,7 +4,7 @@
 >
 > **Czytaj:**
 >
-> - _źródła zostaną dobrane przy wypełnianiu tematu_
+> - _Podręczniki główne nie mają osobnego paragrafu na ten temat — materiały są w sekcji „Źródła”._
 
 ← [Pole rozkładu masy i siły pływowe](05-pole-rozkladu-masy-i-plywy.md) · [spis modułu](README.md) · (koniec modułu) →
 

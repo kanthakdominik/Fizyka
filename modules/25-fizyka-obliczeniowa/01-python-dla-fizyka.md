@@ -4,7 +4,7 @@
 >
 > **Czytaj:**
 >
-> - _źródła zostaną dobrane przy wypełnianiu tematu_
+> - _Podręczniki główne nie mają osobnego paragrafu na ten temat — materiały są w sekcji „Źródła”._
 
 ← (początek modułu) · [spis modułu](README.md) · [Całkowanie równań ruchu: Euler, Euler–Cromer, Verlet, RK4](02-calkowanie-rownan-ruchu.md) →
 

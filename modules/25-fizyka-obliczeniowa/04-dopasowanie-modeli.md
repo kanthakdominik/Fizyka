@@ -4,7 +4,7 @@
 >
 > **Czytaj:**
 >
-> - _źródła zostaną dobrane przy wypełnianiu tematu_
+> - _Podręczniki główne nie mają osobnego paragrafu na ten temat — materiały są w sekcji „Źródła”._
 
 ← [Rzut z oporem, wahadło nieliniowe, orbity planet](03-symulacje-mechaniki.md) · [spis modułu](README.md) · [Pola i potencjały na siatce — równanie Laplace'a](05-pola-na-siatce.md) →
 

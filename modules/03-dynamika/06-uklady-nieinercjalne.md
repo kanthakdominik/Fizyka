@@ -4,7 +4,7 @@
 >
 > **Czytaj:**
 >
-> - _źródła zostaną dobrane przy wypełnianiu tematu_
+> - _Podręczniki główne nie mają osobnego paragrafu na ten temat — materiały są w sekcji „Źródła”._
 
 ← [Opór ośrodka i prędkość graniczna — równanie ruchu](05-opor-osrodka.md) · [spis modułu](README.md) · (koniec modułu) →
 

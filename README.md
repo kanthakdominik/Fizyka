@@ -50,8 +50,8 @@ Zasady:
 
 | # | Moduł | Poziom | Odpowiednik na studiach | Status |
 |---|---|---|---|---|
-| 00 | [Narzędzia matematyczne fizyka](modules/00-narzedzia-matematyczne) | 🟢🔵 | Analiza matematyczna I (fragmenty), wstęp do Fizyki I | 🔲 szkielet |
-| 01 | [Pomiar, jednostki i niepewności](modules/01-pomiary-i-niepewnosci) | 🟢🔵 | Pracownia fizyczna I, wstęp do Fizyki I | 🔲 szkielet |
+| 00 | [Narzędzia matematyczne fizyka](modules/00-narzedzia-matematyczne) | 🟢🔵 | Analiza matematyczna I (fragmenty), wstęp do Fizyki I | ✅ pełny |
+| 01 | [Pomiar, jednostki i niepewności](modules/01-pomiary-i-niepewnosci) | 🟢🔵 | Pracownia fizyczna I, wstęp do Fizyki I | ✅ pełny |
 | 02 | [Kinematyka](modules/02-kinematyka) | 🟢🔵 | Fizyka I — kinematyka punktu materialnego | 🔲 szkielet |
 | 03 | [Dynamika punktu materialnego](modules/03-dynamika) | 🟢🔵 | Fizyka I — dynamika | 🔲 szkielet |
 | 04 | [Praca, energia i moc](modules/04-praca-i-energia) | 🟢🔵 | Fizyka I — zasady zachowania (energia) | 🔲 szkielet |
@@ -96,7 +96,7 @@ Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejno�
 
 - **Kod w Pythonie** z wszystkich plików `.md` uruchamia skrypt [tools/check_snippets.py](tools/check_snippets.py) (pomija bloki wymagające SymPy lub danych z zewnątrz).
 - Sprawdzenie wykonuje automatycznie GitHub Actions przy każdym pushu ([konfiguracja](.github/workflows/checks.yml)) — wynik w zakładce *Actions*.
-- Wzory są pisane pod renderer GitHuba (MathJax): przecinek dziesiętny jako `\text{,}`, w tabelach `\lvert … \rvert` zamiast `|`, wektory jako `\vec{v}` lub `\mathbf{F}`.
+- Wzory są pisane pod renderer GitHuba (MathJax): przecinek dziesiętny jako `{,}` (np. `9{,}81`), w tabelach `\lvert … \rvert` zamiast `|`, wektory jako `\vec{v}` lub `\mathbf{F}`.
 
 * * *
 

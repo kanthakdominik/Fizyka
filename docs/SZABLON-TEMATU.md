@@ -41,13 +41,13 @@ Dla tematów 🟢 część B jest opcjonalna, dla tematów 🔵 — część A.
 <details>
 <summary>Odpowiedź</summary>
 
-$v = 12\text{,}5\ \mathrm{m/s}$ — krótkie uzasadnienie lub kluczowy krok.
+$v = 12{,}5\ \mathrm{m/s}$ — krótkie uzasadnienie lub kluczowy krok.
 </details>
 ```
 
 ## Konwencje zapisu
 
-- Przecinek dziesiętny: `12\text{,}5`. Jednostki pismem prostym: `\mathrm{m/s}`, odstęp `\ ` między liczbą a jednostką.
+- Przecinek dziesiętny: `12{,}5`. Jednostki pismem prostym: `\mathrm{m/s}`, odstęp `\ ` między liczbą a jednostką.
 - Wektory: `\vec{v}` lub `\mathbf{F}`; pochodna po czasie: `\dot{x}`, `\ddot{x}` albo `\frac{dx}{dt}`.
 - W tabelach Markdown zamiast `|` w module liczby pisz `\lvert x \rvert`.
 - Kod w Pythonie w blokach ` ```python ` — musi się uruchamiać samodzielnie (sprawdza go CI). Wykresy kończ `plt.show()`.

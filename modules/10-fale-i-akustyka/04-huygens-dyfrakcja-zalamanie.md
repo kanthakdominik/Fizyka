@@ -4,7 +4,7 @@
 >
 > **Czytaj:**
 >
-> - _źródła zostaną dobrane przy wypełnianiu tematu_
+> - _Podręczniki główne nie mają osobnego paragrafu na ten temat — materiały są w sekcji „Źródła”._
 
 ← [Superpozycja, interferencja i fale stojące](03-interferencja-i-fale-stojace.md) · [spis modułu](README.md) · [Dźwięk: prędkość, natężenie, poziom w decybelach](05-dzwiek-i-natezenie.md) →
 

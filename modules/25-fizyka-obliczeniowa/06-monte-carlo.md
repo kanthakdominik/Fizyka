@@ -4,7 +4,7 @@
 >
 > **Czytaj:**
 >
-> - _źródła zostaną dobrane przy wypełnianiu tematu_
+> - _Podręczniki główne nie mają osobnego paragrafu na ten temat — materiały są w sekcji „Źródła”._
 
 ← [Pola i potencjały na siatce — równanie Laplace'a](05-pola-na-siatce.md) · [spis modułu](README.md) · (koniec modułu) →
 

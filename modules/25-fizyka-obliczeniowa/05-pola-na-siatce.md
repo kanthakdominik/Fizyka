@@ -4,7 +4,7 @@
 >
 > **Czytaj:**
 >
-> - _źródła zostaną dobrane przy wypełnianiu tematu_
+> - _Podręczniki główne nie mają osobnego paragrafu na ten temat — materiały są w sekcji „Źródła”._
 
 ← [Dopasowanie modeli do danych pomiarowych](04-dopasowanie-modeli.md) · [spis modułu](README.md) · [Metody Monte Carlo: rozpad, błądzenie losowe, całkowanie](06-monte-carlo.md) →
 
