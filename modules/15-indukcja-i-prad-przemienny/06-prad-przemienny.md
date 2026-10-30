@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 15: [§15.1–15.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/15-1-zrodla-pradu-zmiennego) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/15-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §31.3–31.5 (s. 389)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 3: §31.3–31.5 (s. 389)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 3, rozdz. 33](https://home.agh.edu.pl/~czapli/Resnick_3.pdf) — PDF z serwera AGH
 
 ← [Obwody RL, LC i RLC — drgania elektromagnetyczne](05-obwody-rl-lc-rlc.md) · [spis modułu](README.md) · [Transformator i przesył energii](07-transformator.md) →
 

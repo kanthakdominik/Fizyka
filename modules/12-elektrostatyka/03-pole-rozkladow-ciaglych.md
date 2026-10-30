@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 5: [§5.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/5-5-wyznaczanie-natezenia-pola-elektrycznego-rozkladu-ladunkow) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/5-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §22.4–22.5 (s. 39)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 3: §22.4–22.5 (s. 39)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 3, rozdz. 23](https://home.agh.edu.pl/~czapli/Resnick_3.pdf) — PDF z serwera AGH
 
 ← [Natężenie pola, linie pola i dipol](02-pole-elektryczne.md) · [spis modułu](README.md) · [Strumień pola i prawo Gaussa](04-prawo-gaussa.md) →
 

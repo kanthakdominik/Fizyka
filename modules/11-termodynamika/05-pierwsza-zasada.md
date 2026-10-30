@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 3: [§3.1–3.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/3-1-uklady-termodynamiczne) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/3-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §18.5 (s. 261), §19.7–19.9 (s. 306)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 2: §18.5 (s. 261), §19.7–19.9 (s. 306)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 2, rozdz. 19, 20](https://home.agh.edu.pl/~czapli/Resnick_2.pdf) — PDF z serwera AGH
 
 ← [Gaz doskonały i kinetyczna teoria gazów](04-gaz-doskonaly-i-teoria-kinetyczna.md) · [spis modułu](README.md) · [Silniki cieplne, chłodziarki i cykl Carnota](06-silniki-i-cykl-carnota.md) →
 

@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 6: [§6.1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/6-1-promieniowanie-ciala-doskonale-czarnego) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/6-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §38.4 (s. 16)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 5: §38.4 (s. 16)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 5, rozdz. 39](https://home.agh.edu.pl/~czapli/Resnick_5.pdf) — PDF z serwera AGH
 
 ← (początek modułu) · [spis modułu](README.md) · [Efekt fotoelektryczny](02-efekt-fotoelektryczny.md) →
 

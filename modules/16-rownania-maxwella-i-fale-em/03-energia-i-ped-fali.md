@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 16: [§16.3–16.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/16-3-energia-niesiona-przez-fale-elektromagnetyczne) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/16-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §33.2–33.3 (s. 11)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 4: §33.2–33.3 (s. 11)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 4, rozdz. 34](https://home.agh.edu.pl/~czapli/Resnick_4.pdf) — PDF z serwera AGH
 
 ← [Płaska fala elektromagnetyczna](02-fala-elektromagnetyczna.md) · [spis modułu](README.md) · [Widmo fal elektromagnetycznych](04-widmo-fal-em.md) →
 

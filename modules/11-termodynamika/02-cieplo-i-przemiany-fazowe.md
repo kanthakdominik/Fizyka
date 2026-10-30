@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 1: [§1.4–1.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/1-4-przekazywanie-ciepla-cieplo-wlasciwe-i-kalorymetria) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/1-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §18.4 (s. 254)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 2: §18.4 (s. 254)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 2, rozdz. 19](https://home.agh.edu.pl/~czapli/Resnick_2.pdf) — PDF z serwera AGH
 
 ← [Temperatura i rozszerzalność cieplna](01-temperatura-i-rozszerzalnosc.md) · [spis modułu](README.md) · [Przewodnictwo, konwekcja i promieniowanie cieplne](03-transport-ciepla.md) →
 

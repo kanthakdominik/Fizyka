@@ -5,7 +5,7 @@ Otwarta, samodzielna ścieżka nauki fizyki na dwóch poziomach: **matury rozsze
 Układ działów opiera się na dwóch podręcznikach akademickich dostępnych po polsku:
 
 - **OpenStax, *Fizyka dla szkół wyższych*, t. 1–3** — darmowe polskie wydanie *University Physics*. Każdy temat linkuje bezpośrednio do właściwego paragrafu.
-- **Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1–5 (PWN 2015)** — dokładniejszy i bardziej szczegółowy wykład. Każdy temat podaje tom, paragraf i stronę, na której paragraf się zaczyna.
+- **Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1–5** — dokładniejszy i bardziej szczegółowy wykład. Każdy temat podaje tom, paragraf i stronę według wydania PWN 2015 oraz link do PDF-u odpowiedniego tomu pierwszego wydania (2003), udostępnionego na serwerze AGH.
 
 Zasady:
 
@@ -24,7 +24,7 @@ Zasady:
 
 | Sekcja | Co zawiera |
 |---|---|
-| **Czytaj** | Paragraf w *Fizyce dla szkół wyższych* (link) i w *Podstawach fizyki* (tom, paragraf, strona) |
+| **Czytaj** | Paragraf w *Fizyce dla szkół wyższych* (link), w *Podstawach fizyki* wyd. 2015 (tom, paragraf, strona) i w wyd. 1 (link do PDF-u tomu, numer rozdziału) |
 | **Po co to jest** | Gdzie temat wraca w dalszej fizyce i w technice |
 | **Teoria w pigułce** | Najważniejsze pojęcia i prawa, bez lania wody |
 | **Wzory i założenia** | Wzory razem z warunkami, w których obowiązują |
@@ -86,7 +86,8 @@ Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejno�
 ## Odnośniki do podręczników
 
 - ***Fizyka dla szkół wyższych*** ma tę samą numerację rozdziałów i paragrafów co angielskie *University Physics*. Link prowadzi do pierwszego paragrafu z podanego zakresu, a obok jest link do wstępu rozdziału.
-- ***Podstawy fizyki*** — numery paragrafów i stron według wydania PWN 2015 (tłumaczenie 10. wydania *Fundamentals of Physics*). Każdy tom ma własną numerację stron: t. 1 — rozdz. 1–11, t. 2 — 12–20, t. 3 — 21–32, t. 4 — 33–37, t. 5 — 38–44. Podana strona to początek paragrafu.
+- ***Podstawy fizyki*, wyd. 2015** (PWN, tłumaczenie 10. wydania *Fundamentals of Physics*) — tom, paragraf i strona, od której paragraf się zaczyna. Każdy tom ma własną numerację stron: t. 1 — rozdz. 1–11, t. 2 — 12–20, t. 3 — 21–32, t. 4 — 33–37, t. 5 — 38–44.
+- ***Podstawy fizyki*, wyd. 1** (PWN 2003, tłumaczenie 6. wydania) — link do PDF-u tomu na serwerze AGH i numer rozdziału. To wydanie ma inny podział: t. 1 — rozdz. 1–12, t. 2 — 13–21, t. 3 — 22–33, t. 4 — 34–38, t. 5 — 39–45. Różnice w numeracji wynikają z tego, że w wyd. 1 pęd i zderzenia są w dwóch osobnych rozdziałach (9 i 10), a drgania elektromagnetyczne i prąd zmienny (rozdz. 33) są po równaniach Maxwella (rozdz. 32).
 - Oba podręczniki są ułożone inaczej, więc ten sam temat bywa u nich w różnych rozdziałach — np. polaryzacja jest w *Fizyce dla szkół wyższych* przy naturze światła (t. 3, §1.7), a u Hallidaya przy falach elektromagnetycznych (§33.4).
 
 * * *

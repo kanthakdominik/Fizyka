@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 9: [§9.3–9.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/9-3-rezystywnosc-i-rezystancja) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/9-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §26.3–26.4 (s. 187)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 3: §26.3–26.4 (s. 187)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 3, rozdz. 27](https://home.agh.edu.pl/~czapli/Resnick_3.pdf) — PDF z serwera AGH
 
 ← [Natężenie i gęstość prądu, model przewodnictwa](01-prad-i-model-przewodnictwa.md) · [spis modułu](README.md) · [Praca i moc prądu](03-praca-i-moc-pradu.md) →
 

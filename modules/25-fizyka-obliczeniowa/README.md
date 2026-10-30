@@ -13,7 +13,7 @@ Rozwiązywać numerycznie to, czego nie da się policzyć na kartce: równania r
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
+| # | Temat | Poziom | OpenStax (PL) | Halliday — wyd. 2015 (paragraf, strona) · wyd. 1 (PDF) |
 |---|---|---|---|---|
 | 01 | [Python dla fizyka: NumPy, Matplotlib, SciPy](01-python-dla-fizyka.md) | 🔵 | — | — |
 | 02 | [Całkowanie równań ruchu: Euler, Euler–Cromer, Verlet, RK4](02-calkowanie-rownan-ruchu.md) | 🔵 | — | — |

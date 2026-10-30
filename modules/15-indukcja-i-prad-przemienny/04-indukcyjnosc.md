@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 14: [§14.1–14.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/14-1-indukcyjnosc-wzajemna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/14-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §30.4–30.5 (s. 348), §30.7–30.9 (s. 357)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 3: §30.4–30.5 (s. 348), §30.7–30.9 (s. 357)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 3, rozdz. 31](https://home.agh.edu.pl/~czapli/Resnick_3.pdf) — PDF z serwera AGH
 
 ← [Prądy wirowe, prądnice i SEM wsteczna](03-pradnice-i-prady-wirowe.md) · [spis modułu](README.md) · [Obwody RL, LC i RLC — drgania elektromagnetyczne](05-obwody-rl-lc-rlc.md) →
 

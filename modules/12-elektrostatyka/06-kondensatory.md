@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 8: [§8.1–8.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/8-1-kondensatory-i-pojemnosc-elektryczna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/8-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §25.1–25.4 (s. 143)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 3: §25.1–25.4 (s. 143)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 3, rozdz. 26](https://home.agh.edu.pl/~czapli/Resnick_3.pdf) — PDF z serwera AGH
 
 ← [Potencjał, energia potencjalna i związek E z V](05-potencjal.md) · [spis modułu](README.md) · [Dielektryki w polu elektrycznym](07-dielektryki.md) →
 

@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 11: [§11.3 i §11.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/11-3-kwarki) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/11-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §44.3 (s. 253)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 5: §44.3 (s. 253)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 5, rozdz. 45](https://home.agh.edu.pl/~czapli/Resnick_5.pdf) — PDF z serwera AGH
 
 ← [Cząstki elementarne i prawa zachowania](01-czastki-i-prawa-zachowania.md) · [spis modułu](README.md) · [Akceleratory i detektory cząstek](03-akceleratory-i-detektory.md) →
 

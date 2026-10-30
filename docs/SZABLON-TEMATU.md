@@ -12,7 +12,8 @@ Każdy plik tematu w `modules/NN-nazwa/` ma ten sam układ. Ten dokument opisuje
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 4: [§4.3](link do paragrafu) · [wstęp do rozdziału](link)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §4.4 (s. 87)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 1: §4.4 (s. 87)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 1, rozdz. 4](link do PDF) — PDF z serwera AGH
 
 ← [poprzedni temat](...) · [spis modułu](README.md) · [następny temat](...) →
 ```

@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 11: [§11.1–11.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/11-1-wstep-do-fizyki-czastek-elementarnych) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/11-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §44.1–44.2 (s. 235)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 5: §44.1–44.2 (s. 235)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 5, rozdz. 45](https://home.agh.edu.pl/~czapli/Resnick_5.pdf) — PDF z serwera AGH
 
 ← (początek modułu) · [spis modułu](README.md) · [Kwarki i Model Standardowy](02-kwarki-i-model-standardowy.md) →
 

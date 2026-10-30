@@ -5,7 +5,8 @@
 > **Czytaj:**
 >
 > - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 15: [§15.1 i §15.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/15-1-ruch-harmoniczny) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/15-wstep)
-> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §15.1 (s. 116)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 2: §15.1 (s. 116)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1 (2003): [t. 2, rozdz. 16](https://home.agh.edu.pl/~czapli/Resnick_2.pdf) — PDF z serwera AGH
 
 ← (początek modułu) · [spis modułu](README.md) · [Energia w ruchu harmonicznym](02-energia-w-ruchu-harmonicznym.md) →
 
