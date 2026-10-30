@@ -1,6 +1,6 @@
 # 16 — Równania Maxwella i fale elektromagnetyczne
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — równania Maxwella, fale EM · **Czas:** 15–25 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — równania Maxwella, fale EM · **Czas:** 15–25 h od zera
 
 ## Cel modułu
 
@@ -36,12 +36,36 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Zapisz prawo Gaussa dla pola elektrycznego i prawo Faradaya w postaci całkowej.
+2. Oblicz gęstość energii pola elektrycznego 1000 V/m i pola magnetycznego 1 mT.
+3. Fala na strunie ma postać $y = A\sin(kx - \omega t)$. Podaj jej prędkość i kierunek ruchu.
+4. Oblicz $\vec a\times\vec b$ dla $\vec a = \hat x$, $\vec b = \hat y$, a następnie $\hat y\times\hat x$.
+5. Źródło dźwięku o mocy 1 W promieniuje równomiernie. Jakie natężenie jest w odległości 2 m?
+6. Ile wynosi średnia z $\sin^2(\omega t)$ w okresie?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $\oint\vec E\cdot d\vec A = Q/\varepsilon_0$; $\oint\vec E\cdot d\vec l = -d\Phi_B/dt$
+2. $\tfrac12\varepsilon_0E^2 \approx 4{,}4\cdot10^{-6}\ \mathrm{J/m^3}$; $B^2/(2\mu_0) \approx 0{,}40\ \mathrm{J/m^3}$
+3. $v = \omega/k$, w stronę $+x$
+4. $\hat z$; $-\hat z$
+5. $I = 1/(4\pi\cdot4) \approx 0{,}02\ \mathrm{W/m^2}$
+6. $\tfrac12$
+</details>
+
+## Projekt modułowy: fale elektromagnetyczne w domu
+
+- [ ] **Prędkość światła z mikrofalówki.** Zmierz odległość między stopionymi plamami czekolady (sera) w kuchence bez talerza obrotowego. Z częstotliwości z tabliczki oblicz $c$ z niepewnością. Powtórz trzy razy w różnych miejscach komory.
+- [ ] **Polaryzacja fal.** Sprawdź, jak zmienia się poziom sygnału Wi-Fi (aplikacja do analizy sieci) albo jasność ekranu LCD oglądanego przez okulary polaryzacyjne, gdy obracasz telefon lub okulary. Opisz wynik za pomocą kierunku wektora $\vec E$.
+- [ ] **Ekranowanie.** Zbadaj, które materiały blokują sygnał telefonu lub Wi-Fi (folia aluminiowa, siatka metalowa o różnych oczkach, woda w pojemniku, karton). Wyjaśnij wyniki porównaniem rozmiaru oczek z długością fali.
+- [ ] W sprawozdaniu podaj długości fal wszystkich użytych źródeł i oszacuj energię ich fotonów.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Wyjaśniam prąd przesunięcia, zapisuję cztery równania Maxwella i interpretuję każde z nich.
+- [ ] Wyprowadzam równanie falowe dla pól $E$ i $B$, stosuję $c = 1/\sqrt{\mu_0\varepsilon_0}$, $E = cB$ i poprzeczność fali.
+- [ ] Liczę gęstość energii, wektor Poyntinga, natężenie, pęd i ciśnienie promieniowania.
+- [ ] Znam zakresy widma elektromagnetycznego, ich źródła, zastosowania i oddziaływanie z materią; przeliczam długość fali, częstotliwość i energię fotonu.
