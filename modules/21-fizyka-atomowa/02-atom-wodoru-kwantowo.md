@@ -2,7 +2,10 @@
 
 > **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 8](https://openstax.org/books/university-physics-volume-3/pages/8-introduction), §8.1 · Halliday, Resnick, Walker — rozdz. 40 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 8: [§8.1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/8-1-atom-wodoru) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/8-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §39.5 (s. 65), §40.1 (s. 87)
 
 ← [Model Bohra i widmo atomu wodoru](01-model-bohra.md) · [spis modułu](README.md) · [Orbitalny moment magnetyczny i spin elektronu](03-moment-magnetyczny-i-spin.md) →
 

@@ -2,7 +2,10 @@
 
 > **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction), §8.3 · Halliday, Resnick, Walker — rozdz. 8 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 8: [§8.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-3-zasada-zachowania-energii) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §8.2 (s. 232), §8.4–8.5 (s. 241)
 
 ← [Siły zachowawcze i energia potencjalna](04-energia-potencjalna.md) · [spis modułu](README.md) · [Wykresy energii potencjalnej i stabilność równowagi](06-wykresy-energii.md) →
 

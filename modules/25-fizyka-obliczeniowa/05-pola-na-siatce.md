@@ -2,7 +2,9 @@
 
 > **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Dopasowanie modeli do danych pomiarowych](04-dopasowanie-modeli.md) · [spis modułu](README.md) · [Metody Monte Carlo: rozpad, błądzenie losowe, całkowanie](06-monte-carlo.md) →
 

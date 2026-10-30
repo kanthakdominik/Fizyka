@@ -2,7 +2,10 @@
 
 > **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 6](https://openstax.org/books/university-physics-volume-2/pages/6-introduction), §6.1–6.4 · Halliday, Resnick, Walker — rozdz. 23 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 6: [§6.1–6.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/6-1-strumien-pola-elektrycznego) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/6-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §23.1–23.6 (s. 67)
 
 ← [Pole rozkładów ciągłych ładunku](03-pole-rozkladow-ciaglych.md) · [spis modułu](README.md) · [Potencjał, energia potencjalna i związek E z V](05-potencjal.md) →
 

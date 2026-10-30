@@ -2,7 +2,10 @@
 
 > **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 7](https://openstax.org/books/university-physics-volume-2/pages/7-introduction), §7.1–7.6 · Halliday, Resnick, Walker — rozdz. 24 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 7: [§7.1–7.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/7-1-elektryczna-energia-potencjalna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/7-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §24.1–24.8 (s. 102)
 
 ← [Strumień pola i prawo Gaussa](04-prawo-gaussa.md) · [spis modułu](README.md) · [Kondensatory: pojemność, łączenie, energia](06-kondensatory.md) →
 

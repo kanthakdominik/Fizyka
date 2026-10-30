@@ -2,7 +2,9 @@
 
 > **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Wektory: składowe, iloczyn skalarny i wektorowy](01-wektory.md) · [spis modułu](README.md) · [Pochodna jako szybkość zmian](03-pochodna.md) →
 

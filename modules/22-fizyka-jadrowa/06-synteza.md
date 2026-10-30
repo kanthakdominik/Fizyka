@@ -2,7 +2,10 @@
 
 > **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction), §10.6 · Halliday, Resnick, Walker — rozdz. 43 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 10: [§10.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-6-fuzja-jadrowa) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §43.4–43.6 (s. 219)
 
 ← [Rozszczepienie jąder i reaktor](05-rozszczepienie.md) · [spis modułu](README.md) · [Oddziaływanie promieniowania z materią, dawki i ochrona](07-promieniowanie-i-dawki.md) →
 

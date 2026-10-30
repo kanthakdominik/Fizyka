@@ -2,7 +2,10 @@
 
 > **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 4](https://openstax.org/books/university-physics-volume-3/pages/4-introduction), §4.6 · Halliday, Resnick, Walker — rozdz. 36 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 4: [§4.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/4-6-dyfrakcja-rentgenowska) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/4-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §36.7 (s. 170)
 
 ← [Polaryzacja światła: prawo Malusa i kąt Brewstera](06-polaryzacja.md) · [spis modułu](README.md) · (koniec modułu) →
 

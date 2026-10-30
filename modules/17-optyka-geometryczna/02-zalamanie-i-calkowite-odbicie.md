@@ -2,7 +2,10 @@
 
 > **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 1](https://openstax.org/books/university-physics-volume-3/pages/1-introduction), §1.3–1.4 · Halliday, Resnick, Walker — rozdz. 33 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 1: [§1.3–1.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-3-zalamanie) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §33.5–33.6 (s. 23)
 
 ← [Rozchodzenie się światła i prawo odbicia](01-rozchodzenie-i-odbicie.md) · [spis modułu](README.md) · [Rozszczepienie światła i pryzmat](03-dyspersja.md) →
 

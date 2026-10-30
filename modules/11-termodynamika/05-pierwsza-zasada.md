@@ -2,7 +2,10 @@
 
 > **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 3](https://openstax.org/books/university-physics-volume-2/pages/3-introduction), §3.1–3.6 · Halliday, Resnick, Walker — rozdz. 18, 19 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 3: [§3.1–3.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/3-1-uklady-termodynamiczne) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/3-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §18.5 (s. 261), §19.7–19.9 (s. 306)
 
 ← [Gaz doskonały i kinetyczna teoria gazów](04-gaz-doskonaly-i-teoria-kinetyczna.md) · [spis modułu](README.md) · [Silniki cieplne, chłodziarki i cykl Carnota](06-silniki-i-cykl-carnota.md) →
 

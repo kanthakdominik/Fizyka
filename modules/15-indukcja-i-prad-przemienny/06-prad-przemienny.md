@@ -2,7 +2,10 @@
 
 > **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction), §15.1–15.5 · Halliday, Resnick, Walker — rozdz. 31 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 15: [§15.1–15.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/15-1-zrodla-pradu-zmiennego) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/15-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §31.3–31.5 (s. 389)
 
 ← [Obwody RL, LC i RLC — drgania elektromagnetyczne](05-obwody-rl-lc-rlc.md) · [spis modułu](README.md) · [Transformator i przesył energii](07-transformator.md) →
 

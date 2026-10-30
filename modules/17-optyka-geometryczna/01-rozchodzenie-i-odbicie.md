@@ -2,7 +2,10 @@
 
 > **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 1](https://openstax.org/books/university-physics-volume-3/pages/1-introduction), §1.1–1.2 · Halliday, Resnick, Walker — rozdz. 33 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 1: [§1.1–1.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-1-rozchodzenie-sie-swiatla) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §33.5 (s. 23)
 
 ← (początek modułu) · [spis modułu](README.md) · [Załamanie światła i całkowite wewnętrzne odbicie](02-zalamanie-i-calkowite-odbicie.md) →
 

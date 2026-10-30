@@ -2,7 +2,10 @@
 
 > **Moduł:** [05 — Pęd, środek masy i zderzenia](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 9](https://openstax.org/books/university-physics-volume-1/pages/9-introduction), §9.7 · Halliday, Resnick, Walker — rozdz. 9 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 9: [§9.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/9-7-naped-rakietowy) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/9-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §9.9 (s. 304)
 
 ← [Środek masy układu i bryły](04-srodek-masy.md) · [spis modułu](README.md) · (koniec modułu) →
 

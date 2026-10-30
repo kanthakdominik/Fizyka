@@ -2,7 +2,10 @@
 
 > **Moduł:** [16 — Równania Maxwella i fale elektromagnetyczne](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction), §16.2 · Halliday, Resnick, Walker — rozdz. 33 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 16: [§16.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/16-2-plaskie-fale-elektromagnetyczne) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/16-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §33.1 (s. 1)
 
 ← [Prąd przesunięcia i równania Maxwella](01-prad-przesuniecia-i-rownania-maxwella.md) · [spis modułu](README.md) · [Energia, wektor Poyntinga i ciśnienie promieniowania](03-energia-i-ped-fali.md) →
 

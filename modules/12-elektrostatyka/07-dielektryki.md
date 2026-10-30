@@ -2,7 +2,10 @@
 
 > **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction), §8.4–8.5 · Halliday, Resnick, Walker — rozdz. 25 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 8: [§8.4–8.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/8-4-kondensator-z-dielektrykiem) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/8-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §25.5–25.6 (s. 160)
 
 ← [Kondensatory: pojemność, łączenie, energia](06-kondensatory.md) · [spis modułu](README.md) · (koniec modułu) →
 

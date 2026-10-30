@@ -2,7 +2,10 @@
 
 > **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), §11.4–11.5 · Halliday, Resnick, Walker — rozdz. 28 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 11: [§11.4–11.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-4-sila-magnetyczna-dzialajaca-na-przewodnik-z-pradem) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §28.6–28.8 (s. 272)
 
 ← [Pole magnetyczne, siła Lorentza i ruch ładunku](01-sila-lorentza.md) · [spis modułu](README.md) · [Efekt Halla, spektrometr masowy, cyklotron](03-hall-cyklotron-spektrometr.md) →
 

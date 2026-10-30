@@ -2,7 +2,10 @@
 
 > **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction), §5.1–5.3 · Halliday, Resnick, Walker — rozdz. 21 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 5: [§5.1–5.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/5-1-ladunek-elektryczny) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/5-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §21.1–21.3 (s. 1)
 
 ← (początek modułu) · [spis modułu](README.md) · [Natężenie pola, linie pola i dipol](02-pole-elektryczne.md) →
 

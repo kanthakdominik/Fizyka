@@ -2,7 +2,10 @@
 
 > **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction), §6.2 · Halliday, Resnick, Walker — rozdz. 6 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 6: [§6.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/6-2-tarcie) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/6-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §6.1 (s. 156)
 
 ← [Diagramy sił i układy ciał (równia, bloczki, więzy)](02-uklady-cial.md) · [spis modułu](README.md) · [Dynamika ruchu po okręgu](04-dynamika-ruchu-po-okregu.md) →
 

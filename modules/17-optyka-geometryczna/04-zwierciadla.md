@@ -2,7 +2,10 @@
 
 > **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 2](https://openstax.org/books/university-physics-volume-3/pages/2-introduction), §2.1–2.2 · Halliday, Resnick, Walker — rozdz. 34 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 2: [§2.1–2.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/2-1-obrazy-tworzone-przez-zwierciadla-plaskie) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/2-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §34.1–34.2 (s. 49)
 
 ← [Rozszczepienie światła i pryzmat](03-dyspersja.md) · [spis modułu](README.md) · [Soczewki cienkie i równanie soczewki](05-soczewki.md) →
 

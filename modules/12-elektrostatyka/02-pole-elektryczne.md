@@ -2,7 +2,10 @@
 
 > **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 5](https://openstax.org/books/university-physics-volume-2/pages/5-introduction), §5.4 + §5.6–5.7 · Halliday, Resnick, Walker — rozdz. 22 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 5: [§5.4 i §5.6–5.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/5-4-pole-elektryczne) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/5-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §22.1–22.3 (s. 29), §22.6–22.7 (s. 48)
 
 ← [Ładunek elektryczny i prawo Coulomba](01-ladunek-i-prawo-coulomba.md) · [spis modułu](README.md) · [Pole rozkładów ciągłych ładunku](03-pole-rozkladow-ciaglych.md) →
 

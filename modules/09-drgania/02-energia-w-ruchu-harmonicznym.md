@@ -2,7 +2,10 @@
 
 > **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction), §15.2 · Halliday, Resnick, Walker — rozdz. 15 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 15: [§15.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/15-2-energia-w-ruchu-harmonicznym) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/15-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §15.2 (s. 127)
 
 ← [Ruch harmoniczny prosty i jego równanie](01-ruch-harmoniczny.md) · [spis modułu](README.md) · [Wahadło matematyczne, fizyczne i torsyjne](03-wahadla.md) →
 

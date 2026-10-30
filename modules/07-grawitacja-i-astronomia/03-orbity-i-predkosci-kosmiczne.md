@@ -2,7 +2,10 @@
 
 > **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction), §13.4 · Halliday, Resnick, Walker — rozdz. 13 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 13: [§13.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/13-4-orbity-satelitow-i-ich-energia) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/13-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §13.7 (s. 58)
 
 ← [Natężenie pola, potencjał i energia grawitacyjna](02-pole-i-potencjal-grawitacyjny.md) · [spis modułu](README.md) · [Prawa Keplera](04-prawa-keplera.md) →
 

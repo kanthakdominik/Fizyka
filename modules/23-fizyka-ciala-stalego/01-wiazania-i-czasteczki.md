@@ -2,7 +2,9 @@
 
 > **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 9](https://openstax.org/books/university-physics-volume-3/pages/9-introduction), §9.1–9.2
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 9: [§9.1–9.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-1-rodzaje-wiazan-czasteczkowych) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-wstep)
 
 ← (początek modułu) · [spis modułu](README.md) · [Struktura krystaliczna ciał stałych](02-krysztaly.md) →
 

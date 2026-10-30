@@ -2,7 +2,10 @@
 
 > **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction), §12.7 · Halliday, Resnick, Walker — rozdz. 32 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 12: [§12.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/12-7-magnetyzm-materii) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/12-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §32.4–32.8 (s. 437)
 
 ← [Prawo Ampère'a, solenoid i toroid](06-prawo-ampera.md) · [spis modułu](README.md) · (koniec modułu) →
 

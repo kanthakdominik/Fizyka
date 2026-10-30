@@ -2,7 +2,10 @@
 
 > **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 17](https://openstax.org/books/university-physics-volume-1/pages/17-introduction), §17.7–17.8 · Halliday, Resnick, Walker — rozdz. 17 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 17: [§17.7–17.8](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/17-7-efekt-dopplera) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/17-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §17.7–17.8 (s. 223)
 
 ← [Struny i piszczałki: mody własne, dudnienia](06-struny-rury-dudnienia.md) · [spis modułu](README.md) · (koniec modułu) →
 

@@ -2,7 +2,10 @@
 
 > **Moduł:** [16 — Równania Maxwella i fale elektromagnetyczne](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction), §16.5 · Halliday, Resnick, Walker — rozdz. 33 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 16: [§16.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/16-5-widmo-promieniowania-elektromagnetycznego) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/16-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §33.1 (s. 1)
 
 ← [Energia, wektor Poyntinga i ciśnienie promieniowania](03-energia-i-ped-fali.md) · [spis modułu](README.md) · (koniec modułu) →
 

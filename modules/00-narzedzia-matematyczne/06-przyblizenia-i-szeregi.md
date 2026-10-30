@@ -2,7 +2,9 @@
 
 > **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Proste równania różniczkowe w fizyce](05-rownania-rozniczkowe.md) · [spis modułu](README.md) · [Współrzędne biegunowe, walcowe, sferyczne i całki wielokrotne](07-wspolrzedne-i-calki-wielokrotne.md) →
 

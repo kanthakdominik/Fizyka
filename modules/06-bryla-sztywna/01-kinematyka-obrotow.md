@@ -2,7 +2,10 @@
 
 > **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction), §10.1–10.3 · Halliday, Resnick, Walker — rozdz. 10 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 10: [§10.1–10.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/10-1-zmienne-opisujace-ruch-obrotowy) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/10-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §10.1–10.3 (s. 325)
 
 ← (początek modułu) · [spis modułu](README.md) · [Moment bezwładności i twierdzenie Steinera](02-moment-bezwladnosci.md) →
 

@@ -2,7 +2,10 @@
 
 > **Moduł:** [01 — Pomiar, jednostki i niepewności](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction), §1.1–1.3 · Halliday, Resnick, Walker — rozdz. 1 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 1: [§1.1–1.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/1-1-zakres-stosowalnosci-praw-fizyki) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/1-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §1.1–1.3 (s. 1)
 
 ← (początek modułu) · [spis modułu](README.md) · [Analiza wymiarowa i szacowanie rzędu wielkości](02-analiza-wymiarowa-i-szacowanie.md) →
 

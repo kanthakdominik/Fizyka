@@ -14,31 +14,29 @@ Liczyć siły działające na ładunki i przewodniki w polu magnetycznym oraz po
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax | Halliday |
+| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
 |---|---|---|---|---|
-| 01 | [Pole magnetyczne, siła Lorentza i ruch ładunku](01-sila-lorentza.md) | 🟢 | [UP2 r. 11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) §11.1–11.3 | r. 28 (t. 3) |
-| 02 | [Siła elektrodynamiczna i moment sił na ramkę z prądem](02-sila-elektrodynamiczna.md) | 🟢 | [UP2 r. 11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) §11.4–11.5 | r. 28 (t. 3) |
-| 03 | [Efekt Halla, spektrometr masowy, cyklotron](03-hall-cyklotron-spektrometr.md) | 🟢🔵 | [UP2 r. 11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) §11.6–11.7 | r. 28 (t. 3) |
-| 04 | [Prawo Biota–Savarta](04-prawo-biota-savarta.md) | 🔵 | [UP2 r. 12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) §12.1–12.2 + §12.4 | r. 29 (t. 3) |
-| 05 | [Oddziaływanie przewodników z prądem](05-oddzialywanie-przewodnikow.md) | 🟢 | [UP2 r. 12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) §12.3 | r. 29 (t. 3) |
-| 06 | [Prawo Ampère'a, solenoid i toroid](06-prawo-ampera.md) | 🟢🔵 | [UP2 r. 12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) §12.5–12.6 | r. 29 (t. 3) |
-| 07 | [Magnetyzm materii: dia-, para- i ferromagnetyki](07-magnetyzm-materii.md) | 🟢🔵 | [UP2 r. 12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) §12.7 | r. 32 (t. 3) |
+| 01 | [Pole magnetyczne, siła Lorentza i ruch ładunku](01-sila-lorentza.md) | 🟢 | [t. 2, §11.1–11.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-1-odkrywanie-magnetyzmu) | t. 3, §28.1–28.2 (s. 251), §28.4 (s. 265) |
+| 02 | [Siła elektrodynamiczna i moment sił na ramkę z prądem](02-sila-elektrodynamiczna.md) | 🟢 | [t. 2, §11.4–11.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-4-sila-magnetyczna-dzialajaca-na-przewodnik-z-pradem) | t. 3, §28.6–28.8 (s. 272) |
+| 03 | [Efekt Halla, spektrometr masowy, cyklotron](03-hall-cyklotron-spektrometr.md) | 🟢🔵 | [t. 2, §11.6–11.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-6-efekt-halla) | t. 3, §28.3 (s. 260), §28.5 (s. 269) |
+| 04 | [Prawo Biota–Savarta](04-prawo-biota-savarta.md) | 🔵 | [t. 2, §12.1–12.2 i §12.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/12-1-prawo-biota-savarta) | t. 3, §29.1 (s. 293), §29.5 (s. 312) |
+| 05 | [Oddziaływanie przewodników z prądem](05-oddzialywanie-przewodnikow.md) | 🟢 | [t. 2, §12.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/12-3-oddzialywanie-magnetyczne-dwoch-rownoleglych-przewodow-z-pradem) | t. 3, §29.2 (s. 301) |
+| 06 | [Prawo Ampère'a, solenoid i toroid](06-prawo-ampera.md) | 🟢🔵 | [t. 2, §12.5–12.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/12-5-prawo-amperea) | t. 3, §29.3–29.4 (s. 303) |
+| 07 | [Magnetyzm materii: dia-, para- i ferromagnetyki](07-magnetyzm-materii.md) | 🟢🔵 | [t. 2, §12.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/12-7-magnetyzm-materii) | t. 3, §32.4–32.8 (s. 437) |
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
-
-## Powiązane materiały
-
-- [EiT 02 — magnetyzm i indukcja](https://github.com/kanthakdominik/EiT/blob/main/modules/02-fizyka-i-materialy/03-magnetyzm-i-indukcja.md)
 
 ## Główne źródła modułu
 
 | Źródło | Zakres |
 |---|---|
-| [OpenStax University Physics Vol. 2, rozdz. 11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 2, rozdz. 12](https://openstax.org/books/university-physics-volume-2/pages/12-introduction) | podstawowy tekst z zadaniami |
-| Halliday, Resnick, Walker — rozdz. 28, 29, 32 | równoległa lektura i zadania (książka płatna) |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 11](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 12](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/12-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3, rozdz. 28 (od s. 251) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3, rozdz. 29 (od s. 293) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3, rozdz. 32 (od s. 426) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 
-_Lista zostanie uzupełniona o wykłady wideo, symulacje i zbiory zadań przy wypełnianiu modułu._
+_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
 
 ## Test wejściowy (diagnoza)
 

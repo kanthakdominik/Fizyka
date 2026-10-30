@@ -14,15 +14,15 @@ Zrozumieć, dlaczego fizyka klasyczna zawodzi w mikroświecie: fotony, fale mate
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax | Halliday |
+| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
 |---|---|---|---|---|
-| 01 | [Promieniowanie ciała doskonale czarnego](01-cialo-doskonale-czarne.md) | 🟢 | [UP3 r. 6](https://openstax.org/books/university-physics-volume-3/pages/6-introduction) §6.1 | r. 38 (t. 5) |
-| 02 | [Efekt fotoelektryczny](02-efekt-fotoelektryczny.md) | 🟢 | [UP3 r. 6](https://openstax.org/books/university-physics-volume-3/pages/6-introduction) §6.2 | r. 38 (t. 5) |
-| 03 | [Efekt Comptona](03-efekt-comptona.md) | 🟢🔵 | [UP3 r. 6](https://openstax.org/books/university-physics-volume-3/pages/6-introduction) §6.3 | r. 38 (t. 5) |
-| 04 | [Fale materii de Broglie'a i dualizm korpuskularno-falowy](04-fale-materii.md) | 🟢 | [UP3 r. 6](https://openstax.org/books/university-physics-volume-3/pages/6-introduction) §6.5–6.6 | r. 38 (t. 5) |
-| 05 | [Funkcja falowa i zasada nieoznaczoności](05-funkcja-falowa-i-nieoznaczonosc.md) | 🔵 | [UP3 r. 7](https://openstax.org/books/university-physics-volume-3/pages/7-introduction) §7.1–7.2 | r. 38 (t. 5) |
-| 06 | [Równanie Schrödingera: studnia potencjału i oscylator](06-rownanie-schrodingera.md) | 🔵 | [UP3 r. 7](https://openstax.org/books/university-physics-volume-3/pages/7-introduction) §7.3–7.5 | r. 39 (t. 5) |
-| 07 | [Tunelowanie przez barierę potencjału](07-tunelowanie.md) | 🔵 | [UP3 r. 7](https://openstax.org/books/university-physics-volume-3/pages/7-introduction) §7.6 | r. 38 (t. 5) |
+| 01 | [Promieniowanie ciała doskonale czarnego](01-cialo-doskonale-czarne.md) | 🟢 | [t. 3, §6.1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/6-1-promieniowanie-ciala-doskonale-czarnego) | t. 5, §38.4 (s. 16) |
+| 02 | [Efekt fotoelektryczny](02-efekt-fotoelektryczny.md) | 🟢 | [t. 3, §6.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/6-2-efekt-fotoelektryczny) | t. 5, §38.1–38.2 (s. 1) |
+| 03 | [Efekt Comptona](03-efekt-comptona.md) | 🟢🔵 | [t. 3, §6.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/6-3-efekt-comptona) | t. 5, §38.3 (s. 8) |
+| 04 | [Fale materii de Broglie'a i dualizm korpuskularno-falowy](04-fale-materii.md) | 🟢 | [t. 3, §6.5–6.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/6-5-fale-de-brogliea) | t. 5, §38.5 (s. 19) |
+| 05 | [Funkcja falowa i zasada nieoznaczoności](05-funkcja-falowa-i-nieoznaczonosc.md) | 🔵 | [t. 3, §7.1–7.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-1-funkcje-falowe) | t. 5, §38.6–38.7 (s. 23) |
+| 06 | [Równanie Schrödingera: studnia potencjału i oscylator](06-rownanie-schrodingera.md) | 🔵 | [t. 3, §7.3–7.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-3-rownanie-schrodingera) | t. 5, §39.1–39.4 (s. 45) |
+| 07 | [Tunelowanie przez barierę potencjału](07-tunelowanie.md) | 🔵 | [t. 3, §7.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-6-tunelowanie-czastek-przez-bariery-potencjalu) | t. 5, §38.8–38.9 (s. 29) |
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
@@ -30,11 +30,12 @@ Zrozumieć, dlaczego fizyka klasyczna zawodzi w mikroświecie: fotony, fale mate
 
 | Źródło | Zakres |
 |---|---|
-| [OpenStax University Physics Vol. 3, rozdz. 6](https://openstax.org/books/university-physics-volume-3/pages/6-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 3, rozdz. 7](https://openstax.org/books/university-physics-volume-3/pages/7-introduction) | podstawowy tekst z zadaniami |
-| Halliday, Resnick, Walker — rozdz. 38, 39 | równoległa lektura i zadania (książka płatna) |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/6-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5, rozdz. 38 (od s. 1) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5, rozdz. 39 (od s. 45) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 
-_Lista zostanie uzupełniona o wykłady wideo, symulacje i zbiory zadań przy wypełnianiu modułu._
+_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
 
 ## Test wejściowy (diagnoza)
 

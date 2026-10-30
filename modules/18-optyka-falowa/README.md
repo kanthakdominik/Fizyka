@@ -13,32 +13,30 @@ Opisywać światło jako falę: doświadczenie Younga, siatka dyfrakcyjna, cienk
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax | Halliday |
+| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
 |---|---|---|---|---|
-| 01 | [Zasada Huygensa dla światła](01-zasada-huygensa.md) | 🟢 | [UP3 r. 1](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) §1.6 | r. 35 (t. 4) |
-| 02 | [Doświadczenie Younga](02-doswiadczenie-younga.md) | 🟢 | [UP3 r. 3](https://openstax.org/books/university-physics-volume-3/pages/3-introduction) §3.1–3.2 | r. 35 (t. 4) |
-| 03 | [Interferencja na wielu szczelinach i siatka dyfrakcyjna](03-siatka-dyfrakcyjna.md) | 🟢 | [UP3 r. 3](https://openstax.org/books/university-physics-volume-3/pages/3-introduction) §3.3 + §4.4 | r. 36 (t. 4) |
-| 04 | [Interferencja w cienkich warstwach, interferometr Michelsona](04-cienkie-warstwy-i-michelson.md) | 🔵 | [UP3 r. 3](https://openstax.org/books/university-physics-volume-3/pages/3-introduction) §3.4–3.5 | r. 35 (t. 4) |
-| 05 | [Dyfrakcja na szczelinie i zdolność rozdzielcza](05-dyfrakcja-i-rozdzielczosc.md) | 🟢🔵 | [UP3 r. 4](https://openstax.org/books/university-physics-volume-3/pages/4-introduction) §4.1–4.3 + §4.5 | r. 36 (t. 4) |
-| 06 | [Polaryzacja światła: prawo Malusa i kąt Brewstera](06-polaryzacja.md) | 🟢🔵 | [UP3 r. 1](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) §1.7 | r. 33 (t. 4) |
-| 07 | [Dyfrakcja promieni X i prawo Bragga](07-dyfrakcja-rentgenowska.md) | 🔵 | [UP3 r. 4](https://openstax.org/books/university-physics-volume-3/pages/4-introduction) §4.6 | r. 36 (t. 4) |
+| 01 | [Zasada Huygensa dla światła](01-zasada-huygensa.md) | 🟢 | [t. 3, §1.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-6-zasada-huygensa) | t. 4, §35.1 (s. 97) |
+| 02 | [Doświadczenie Younga](02-doswiadczenie-younga.md) | 🟢 | [t. 3, §3.1–3.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-1-doswiadczenie-younga-z-dwiema-szczelinami) | t. 4, §35.2–35.3 (s. 104) |
+| 03 | [Interferencja na wielu szczelinach i siatka dyfrakcyjna](03-siatka-dyfrakcyjna.md) | 🟢 | [t. 3, §3.3 i §4.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-3-interferencja-na-wielu-szczelinach) | t. 4, §36.5–36.6 (s. 162) |
+| 04 | [Interferencja w cienkich warstwach, interferometr Michelsona](04-cienkie-warstwy-i-michelson.md) | 🔵 | [t. 3, §3.4–3.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-4-interferencja-w-cienkich-warstwach) | t. 4, §35.4–35.5 (s. 117) |
+| 05 | [Dyfrakcja na szczelinie i zdolność rozdzielcza](05-dyfrakcja-i-rozdzielczosc.md) | 🟢🔵 | [t. 3, §4.1–4.3 i §4.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/4-1-dyfrakcja-na-pojedynczej-szczelinie) | t. 4, §36.1–36.4 (s. 141) |
+| 06 | [Polaryzacja światła: prawo Malusa i kąt Brewstera](06-polaryzacja.md) | 🟢🔵 | [t. 3, §1.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-7-polaryzacja) | t. 4, §33.4 (s. 17), §33.7 (s. 32) |
+| 07 | [Dyfrakcja promieni X i prawo Bragga](07-dyfrakcja-rentgenowska.md) | 🔵 | [t. 3, §4.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/4-6-dyfrakcja-rentgenowska) | t. 4, §36.7 (s. 170) |
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
-
-## Powiązane materiały
-
-- [EiT 22 — Optoelektronika i fotonika](https://github.com/kanthakdominik/EiT/blob/main/modules/22-optoelektronika-fotonika)
 
 ## Główne źródła modułu
 
 | Źródło | Zakres |
 |---|---|
-| [OpenStax University Physics Vol. 3, rozdz. 1](https://openstax.org/books/university-physics-volume-3/pages/1-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 3, rozdz. 3](https://openstax.org/books/university-physics-volume-3/pages/3-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 3, rozdz. 4](https://openstax.org/books/university-physics-volume-3/pages/4-introduction) | podstawowy tekst z zadaniami |
-| Halliday, Resnick, Walker — rozdz. 33, 35, 36 | równoległa lektura i zadania (książka płatna) |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/4-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4, rozdz. 33 (od s. 1) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4, rozdz. 35 (od s. 97) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4, rozdz. 36 (od s. 141) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 
-_Lista zostanie uzupełniona o wykłady wideo, symulacje i zbiory zadań przy wypełnianiu modułu._
+_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
 
 ## Test wejściowy (diagnoza)
 

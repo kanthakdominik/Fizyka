@@ -2,7 +2,10 @@
 
 > **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 6](https://openstax.org/books/university-physics-volume-1/pages/6-introduction), §6.4 · Halliday, Resnick, Walker — rozdz. 6 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 6: [§6.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/6-4-sila-oporu-i-predkosc-graniczna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/6-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §6.2 (s. 164)
 
 ← [Dynamika ruchu po okręgu](04-dynamika-ruchu-po-okregu.md) · [spis modułu](README.md) · [Układy nieinercjalne i siły bezwładności](06-uklady-nieinercjalne.md) →
 

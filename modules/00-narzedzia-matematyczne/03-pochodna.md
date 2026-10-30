@@ -2,7 +2,10 @@
 
 > **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction), §3.2–3.3 · Halliday, Resnick, Walker — rozdz. 2 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 3: [§3.2–3.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/3-2-predkosc-chwilowa-i-szybkosc-srednia) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/3-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §2.2–2.3 (s. 22)
 
 ← [Funkcje i wykresy w fizyce, linearyzacja](02-funkcje-i-wykresy.md) · [spis modułu](README.md) · [Całka jako suma: pole pod wykresem, praca, średnia](04-calka.md) →
 

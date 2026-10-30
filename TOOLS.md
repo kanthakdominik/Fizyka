@@ -7,7 +7,7 @@ Do nauki z tego repozytorium wystarczy przeglądarka i smartfon. Python jest pot
 | Narzędzie | Do czego | Gdzie w repozytorium |
 |---|---|---|
 | [phyphox](https://phyphox.org/) (Android, iOS) | Pomiary czujnikami smartfona: akcelerometr, żyroskop, mikrofon, magnetometr, barometr, czujnik światła. Eksport danych do CSV | Sekcje „Doświadczenie” w modułach 01–15 |
-| [PhET](https://phet.colorado.edu/) (przeglądarka) | Gotowe symulacje do sprawdzenia intuicji przed rachunkami | Większość modułów |
+| [PhET](https://phet.colorado.edu/pl/) (przeglądarka, wersja polska) | Gotowe symulacje do sprawdzenia intuicji przed rachunkami | Większość modułów |
 | [Tracker](https://physlets.org/tracker/) (Windows, macOS, Linux) | Analiza ruchu z nagrania wideo: położenie klatka po klatce, dopasowanie modelu | 02, 05, 06, 09 |
 | [Stellarium](https://stellarium.org/) | Planetarium na komputer — obserwacje do elementów astronomii | 07 |
 

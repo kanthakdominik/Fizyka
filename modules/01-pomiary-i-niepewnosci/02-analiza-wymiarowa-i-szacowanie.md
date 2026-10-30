@@ -2,7 +2,10 @@
 
 > **Moduł:** [01 — Pomiar, jednostki i niepewności](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 1](https://openstax.org/books/university-physics-volume-1/pages/1-introduction), §1.4–1.5 · Halliday, Resnick, Walker — rozdz. 1 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 1: [§1.4–1.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/1-4-analiza-wymiarowa) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/1-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §1.1 (s. 1)
 
 ← [Układ SI i stałe definicyjne](01-uklad-si.md) · [spis modułu](README.md) · [Niepewności pomiarowe: typ A, typ B, niepewność złożona](03-niepewnosci-pomiarowe.md) →
 

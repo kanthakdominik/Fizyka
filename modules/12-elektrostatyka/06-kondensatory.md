@@ -2,7 +2,10 @@
 
 > **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 8](https://openstax.org/books/university-physics-volume-2/pages/8-introduction), §8.1–8.3 · Halliday, Resnick, Walker — rozdz. 25 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 8: [§8.1–8.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/8-1-kondensatory-i-pojemnosc-elektryczna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/8-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §25.1–25.4 (s. 143)
 
 ← [Potencjał, energia potencjalna i związek E z V](05-potencjal.md) · [spis modułu](README.md) · [Dielektryki w polu elektrycznym](07-dielektryki.md) →
 

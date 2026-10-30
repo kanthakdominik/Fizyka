@@ -2,7 +2,10 @@
 
 > **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 2](https://openstax.org/books/university-physics-volume-3/pages/2-introduction), §2.5–2.8 · Halliday, Resnick, Walker — rozdz. 34 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 2: [§2.5–2.8](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/2-5-oko) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/2-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §34.5 (s. 75)
 
 ← [Soczewki cienkie i równanie soczewki](05-soczewki.md) · [spis modułu](README.md) · (koniec modułu) →
 

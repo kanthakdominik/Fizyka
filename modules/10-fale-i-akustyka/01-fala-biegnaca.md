@@ -2,7 +2,10 @@
 
 > **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), §16.1–16.2 · Halliday, Resnick, Walker — rozdz. 16 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 16: [§16.1–16.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/16-1-fale-biegnace) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/16-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §16.1 (s. 156)
 
 ← (początek modułu) · [spis modułu](README.md) · [Prędkość fali, energia i równanie falowe](02-predkosc-i-energia-fali.md) →
 

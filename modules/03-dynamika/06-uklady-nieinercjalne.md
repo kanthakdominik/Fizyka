@@ -2,7 +2,9 @@
 
 > **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Opór ośrodka i prędkość graniczna — równanie ruchu](05-opor-osrodka.md) · [spis modułu](README.md) · (koniec modułu) →
 

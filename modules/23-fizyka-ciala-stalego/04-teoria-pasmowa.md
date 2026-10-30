@@ -2,7 +2,10 @@
 
 > **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 9](https://openstax.org/books/university-physics-volume-3/pages/9-introduction), §9.5 · Halliday, Resnick, Walker — rozdz. 41 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 9: [§9.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-5-teoria-pasmowa-cial-stalych) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §41.1 (s. 130)
 
 ← [Model elektronów swobodnych w metalach](03-elektrony-swobodne.md) · [spis modułu](README.md) · [Półprzewodniki, domieszkowanie i złącze p-n](05-polprzewodniki.md) →
 

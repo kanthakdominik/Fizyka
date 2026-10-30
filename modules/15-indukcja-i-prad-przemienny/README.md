@@ -13,32 +13,29 @@ Stosować prawo Faradaya i regułę Lenza, liczyć indukcyjność i energię pol
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax | Halliday |
+| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
 |---|---|---|---|---|
-| 01 | [Prawo Faradaya i reguła Lenza](01-prawo-faradaya-i-lenza.md) | 🟢 | [UP2 r. 13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) §13.1–13.2 | r. 30 (t. 3) |
-| 02 | [SEM ruchu i indukowane pole elektryczne](02-sem-ruchu-i-pole-indukowane.md) | 🟢🔵 | [UP2 r. 13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) §13.3–13.4 | r. 30 (t. 3) |
-| 03 | [Prądy wirowe, prądnice i SEM wsteczna](03-pradnice-i-prady-wirowe.md) | 🟢 | [UP2 r. 13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) §13.5–13.7 | r. 30 (t. 3) |
-| 04 | [Indukcyjność własna i wzajemna, energia pola magnetycznego](04-indukcyjnosc.md) | 🟢🔵 | [UP2 r. 14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction) §14.1–14.3 | r. 30 (t. 3) |
-| 05 | [Obwody RL, LC i RLC — drgania elektromagnetyczne](05-obwody-rl-lc-rlc.md) | 🔵 | [UP2 r. 14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction) §14.4–14.6 | r. 30 (t. 3), r. 31 (t. 3) |
-| 06 | [Prąd przemienny: wartości skuteczne, impedancja, rezonans, moc](06-prad-przemienny.md) | 🟢🔵 | [UP2 r. 15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction) §15.1–15.5 | r. 31 (t. 3) |
-| 07 | [Transformator i przesył energii](07-transformator.md) | 🟢 | [UP2 r. 15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction) §15.6 | r. 31 (t. 3) |
+| 01 | [Prawo Faradaya i reguła Lenza](01-prawo-faradaya-i-lenza.md) | 🟢 | [t. 2, §13.1–13.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/13-1-prawo-faradaya) | t. 3, §30.1 (s. 329) |
+| 02 | [SEM ruchu i indukowane pole elektryczne](02-sem-ruchu-i-pole-indukowane.md) | 🟢🔵 | [t. 2, §13.3–13.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/13-3-sila-elektromotoryczna-wywolana-ruchem) | t. 3, §30.2–30.3 (s. 338) |
+| 03 | [Prądy wirowe, prądnice i SEM wsteczna](03-pradnice-i-prady-wirowe.md) | 🟢 | [t. 2, §13.5–13.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/13-5-prady-wirowe) | t. 3, §30.2 (s. 338) |
+| 04 | [Indukcyjność własna i wzajemna, energia pola magnetycznego](04-indukcyjnosc.md) | 🟢🔵 | [t. 2, §14.1–14.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/14-1-indukcyjnosc-wzajemna) | t. 3, §30.4–30.5 (s. 348), §30.7–30.9 (s. 357) |
+| 05 | [Obwody RL, LC i RLC — drgania elektromagnetyczne](05-obwody-rl-lc-rlc.md) | 🔵 | [t. 2, §14.4–14.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/14-4-obwody-rl) | t. 3, §30.6 (s. 352), §31.1–31.2 (s. 378) |
+| 06 | [Prąd przemienny: wartości skuteczne, impedancja, rezonans, moc](06-prad-przemienny.md) | 🟢🔵 | [t. 2, §15.1–15.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/15-1-zrodla-pradu-zmiennego) | t. 3, §31.3–31.5 (s. 389) |
+| 07 | [Transformator i przesył energii](07-transformator.md) | 🟢 | [t. 2, §15.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/15-6-transformatory) | t. 3, §31.6 (s. 411) |
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
-
-## Powiązane materiały
-
-- [EiT 01 — analiza AC i fazory](https://github.com/kanthakdominik/EiT/blob/main/modules/01-teoria-obwodow/06-analiza-ac-fazory.md)
 
 ## Główne źródła modułu
 
 | Źródło | Zakres |
 |---|---|
-| [OpenStax University Physics Vol. 2, rozdz. 13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 2, rozdz. 14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 2, rozdz. 15](https://openstax.org/books/university-physics-volume-2/pages/15-introduction) | podstawowy tekst z zadaniami |
-| Halliday, Resnick, Walker — rozdz. 30, 31 | równoległa lektura i zadania (książka płatna) |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 13](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/13-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 14](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/14-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 15](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/15-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3, rozdz. 30 (od s. 329) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3, rozdz. 31 (od s. 378) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 
-_Lista zostanie uzupełniona o wykłady wideo, symulacje i zbiory zadań przy wypełnianiu modułu._
+_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
 
 ## Test wejściowy (diagnoza)
 

@@ -2,7 +2,9 @@
 
 > **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** Halliday, Resnick, Walker — rozdz. 17 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Superpozycja, interferencja i fale stojące](03-interferencja-i-fale-stojace.md) · [spis modułu](README.md) · [Dźwięk: prędkość, natężenie, poziom w decybelach](05-dzwiek-i-natezenie.md) →
 

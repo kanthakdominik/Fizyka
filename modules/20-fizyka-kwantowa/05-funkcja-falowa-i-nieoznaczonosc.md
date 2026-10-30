@@ -2,7 +2,10 @@
 
 > **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 7](https://openstax.org/books/university-physics-volume-3/pages/7-introduction), §7.1–7.2 · Halliday, Resnick, Walker — rozdz. 38 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 7: [§7.1–7.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-1-funkcje-falowe) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §38.6–38.7 (s. 23)
 
 ← [Fale materii de Broglie'a i dualizm korpuskularno-falowy](04-fale-materii.md) · [spis modułu](README.md) · [Równanie Schrödingera: studnia potencjału i oscylator](06-rownanie-schrodingera.md) →
 

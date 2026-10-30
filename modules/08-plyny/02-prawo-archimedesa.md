@@ -2,7 +2,10 @@
 
 > **Moduł:** [08 — Mechanika płynów](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), §14.4 · Halliday, Resnick, Walker — rozdz. 14 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 14: [§14.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-4-prawo-archimedesa-i-sila-wyporu) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §14.5 (s. 90)
 
 ← [Ciśnienie, prawo Pascala, ciśnienie hydrostatyczne](01-cisnienie-i-prawo-pascala.md) · [spis modułu](README.md) · [Równanie ciągłości i równanie Bernoulliego](03-rownanie-bernoulliego.md) →
 

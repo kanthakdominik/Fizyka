@@ -2,7 +2,10 @@
 
 > **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction), §10.1–10.2 · Halliday, Resnick, Walker — rozdz. 27 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 10: [§10.1–10.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/10-1-sila-elektromotoryczna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/10-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §27.1–27.2 (s. 210)
 
 ← [Praca i moc prądu](03-praca-i-moc-pradu.md) · [spis modułu](README.md) · [Prawa Kirchhoffa i mierniki](05-prawa-kirchhoffa.md) →
 

@@ -2,7 +2,10 @@
 
 > **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction), §10.4–10.5 · Halliday, Resnick, Walker — rozdz. 10 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 10: [§10.4–10.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/10-4-moment-bezwladnosci-i-energia-kinetyczna-w-ruchu-obrotowym) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/10-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §10.4–10.5 (s. 343)
 
 ← [Kinematyka ruchu obrotowego](01-kinematyka-obrotow.md) · [spis modułu](README.md) · [Moment siły i dynamika ruchu obrotowego](03-moment-sily.md) →
 

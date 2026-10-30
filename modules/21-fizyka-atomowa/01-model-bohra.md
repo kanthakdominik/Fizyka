@@ -2,7 +2,10 @@
 
 > **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 6](https://openstax.org/books/university-physics-volume-3/pages/6-introduction), §6.4 · Halliday, Resnick, Walker — rozdz. 39 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 6: [§6.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/6-4-model-atomu-wodoru-bohra) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/6-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §39.5 (s. 65)
 
 ← (początek modułu) · [spis modułu](README.md) · [Atom wodoru w mechanice kwantowej, liczby kwantowe](02-atom-wodoru-kwantowo.md) →
 

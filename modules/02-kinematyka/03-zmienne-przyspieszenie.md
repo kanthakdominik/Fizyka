@@ -2,7 +2,10 @@
 
 > **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 3](https://openstax.org/books/university-physics-volume-1/pages/3-introduction), §3.6 · Halliday, Resnick, Walker — rozdz. 2 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 3: [§3.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/3-6-wyznaczanie-rownan-ruchu-metoda-calkowania) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/3-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §2.6 (s. 36)
 
 ← [Ruch jednostajnie zmienny i spadek swobodny](02-ruch-jednostajnie-zmienny.md) · [spis modułu](README.md) · [Wektory położenia, prędkości i przyspieszenia w 2D i 3D](04-ruch-w-2d-i-3d.md) →
 

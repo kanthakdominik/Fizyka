@@ -2,7 +2,10 @@
 
 > **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 8](https://openstax.org/books/university-physics-volume-3/pages/8-introduction), §8.2–8.3 · Halliday, Resnick, Walker — rozdz. 40 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 8: [§8.2–8.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/8-2-orbitalny-magnetyczny-moment-dipolowy-elektronu) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/8-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §40.1–40.3 (s. 87)
 
 ← [Atom wodoru w mechanice kwantowej, liczby kwantowe](02-atom-wodoru-kwantowo.md) · [spis modułu](README.md) · [Zakaz Pauliego i układ okresowy](04-zakaz-pauliego.md) →
 

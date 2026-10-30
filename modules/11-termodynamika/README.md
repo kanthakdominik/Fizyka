@@ -13,15 +13,15 @@ Bilansować energię w procesach cieplnych, łączyć mikroskopowy model gazu z 
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax | Halliday |
+| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
 |---|---|---|---|---|
-| 01 | [Temperatura i rozszerzalność cieplna](01-temperatura-i-rozszerzalnosc.md) | 🟢 | [UP2 r. 1](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) §1.1–1.3 | r. 18 (t. 2) |
-| 02 | [Ciepło, ciepło właściwe, przemiany fazowe, kalorymetria](02-cieplo-i-przemiany-fazowe.md) | 🟢 | [UP2 r. 1](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) §1.4–1.5 | r. 18 (t. 2) |
-| 03 | [Przewodnictwo, konwekcja i promieniowanie cieplne](03-transport-ciepla.md) | 🟢🔵 | [UP2 r. 1](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) §1.6 | r. 18 (t. 2) |
-| 04 | [Gaz doskonały i kinetyczna teoria gazów](04-gaz-doskonaly-i-teoria-kinetyczna.md) | 🟢🔵 | [UP2 r. 2](https://openstax.org/books/university-physics-volume-2/pages/2-introduction) §2.1–2.4 | r. 19 (t. 2) |
-| 05 | [I zasada termodynamiki i przemiany gazowe](05-pierwsza-zasada.md) | 🟢🔵 | [UP2 r. 3](https://openstax.org/books/university-physics-volume-2/pages/3-introduction) §3.1–3.6 | r. 18 (t. 2), r. 19 (t. 2) |
-| 06 | [Silniki cieplne, chłodziarki i cykl Carnota](06-silniki-i-cykl-carnota.md) | 🟢 | [UP2 r. 4](https://openstax.org/books/university-physics-volume-2/pages/4-introduction) §4.1–4.5 | r. 20 (t. 2) |
-| 07 | [Entropia i II zasada termodynamiki](07-entropia-i-druga-zasada.md) | 🔵 | [UP2 r. 4](https://openstax.org/books/university-physics-volume-2/pages/4-introduction) §4.6–4.7 | r. 20 (t. 2) |
+| 01 | [Temperatura i rozszerzalność cieplna](01-temperatura-i-rozszerzalnosc.md) | 🟢 | [t. 2, §1.1–1.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/1-1-temperatura-i-rownowaga-termiczna) | t. 2, §18.1–18.3 (s. 244) |
+| 02 | [Ciepło, ciepło właściwe, przemiany fazowe, kalorymetria](02-cieplo-i-przemiany-fazowe.md) | 🟢 | [t. 2, §1.4–1.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/1-4-przekazywanie-ciepla-cieplo-wlasciwe-i-kalorymetria) | t. 2, §18.4 (s. 254) |
+| 03 | [Przewodnictwo, konwekcja i promieniowanie cieplne](03-transport-ciepla.md) | 🟢🔵 | [t. 2, §1.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/1-6-mechanizmy-przekazywania-ciepla) | t. 2, §18.6 (s. 269) |
+| 04 | [Gaz doskonały i kinetyczna teoria gazów](04-gaz-doskonaly-i-teoria-kinetyczna.md) | 🟢🔵 | [t. 2, §2.1–2.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/2-1-model-czasteczkowy-gazu-doskonalego) | t. 2, §19.1–19.6 (s. 288) |
+| 05 | [I zasada termodynamiki i przemiany gazowe](05-pierwsza-zasada.md) | 🟢🔵 | [t. 2, §3.1–3.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/3-1-uklady-termodynamiczne) | t. 2, §18.5 (s. 261), §19.7–19.9 (s. 306) |
+| 06 | [Silniki cieplne, chłodziarki i cykl Carnota](06-silniki-i-cykl-carnota.md) | 🟢 | [t. 2, §4.1–4.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/4-1-procesy-odwracalne-i-nieodwracalne) | t. 2, §20.2–20.3 (s. 341) |
+| 07 | [Entropia i II zasada termodynamiki](07-entropia-i-druga-zasada.md) | 🔵 | [t. 2, §4.6–4.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/4-6-entropia) | t. 2, §20.1 (s. 332), §20.4 (s. 352) |
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
@@ -29,13 +29,15 @@ Bilansować energię w procesach cieplnych, łączyć mikroskopowy model gazu z 
 
 | Źródło | Zakres |
 |---|---|
-| [OpenStax University Physics Vol. 2, rozdz. 1](https://openstax.org/books/university-physics-volume-2/pages/1-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 2, rozdz. 2](https://openstax.org/books/university-physics-volume-2/pages/2-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 2, rozdz. 3](https://openstax.org/books/university-physics-volume-2/pages/3-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 2, rozdz. 4](https://openstax.org/books/university-physics-volume-2/pages/4-introduction) | podstawowy tekst z zadaniami |
-| Halliday, Resnick, Walker — rozdz. 18, 19, 20 | równoległa lektura i zadania (książka płatna) |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/1-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/2-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/3-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/4-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2, rozdz. 18 (od s. 244) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2, rozdz. 19 (od s. 288) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2, rozdz. 20 (od s. 332) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 
-_Lista zostanie uzupełniona o wykłady wideo, symulacje i zbiory zadań przy wypełnianiu modułu._
+_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
 
 ## Test wejściowy (diagnoza)
 

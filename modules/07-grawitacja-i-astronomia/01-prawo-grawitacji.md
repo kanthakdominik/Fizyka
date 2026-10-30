@@ -2,7 +2,10 @@
 
 > **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 13](https://openstax.org/books/university-physics-volume-1/pages/13-introduction), §13.1–13.2 · Halliday, Resnick, Walker — rozdz. 13 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 13: [§13.1–13.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/13-1-prawo-powszechnego-ciazenia) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/13-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §13.1–13.3 (s. 36)
 
 ← (początek modułu) · [spis modułu](README.md) · [Natężenie pola, potencjał i energia grawitacyjna](02-pole-i-potencjal-grawitacyjny.md) →
 

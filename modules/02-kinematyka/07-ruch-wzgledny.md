@@ -2,7 +2,10 @@
 
 > **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 4](https://openstax.org/books/university-physics-volume-1/pages/4-introduction), §4.5 · Halliday, Resnick, Walker — rozdz. 4 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 4: [§4.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/4-5-ruch-wzgledny-w-jednym-i-dwoch-wymiarach) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/4-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §4.6–4.7 (s. 98)
 
 ← [Ruch po okręgu: jednostajny i niejednostajny](06-ruch-po-okregu.md) · [spis modułu](README.md) · (koniec modułu) →
 

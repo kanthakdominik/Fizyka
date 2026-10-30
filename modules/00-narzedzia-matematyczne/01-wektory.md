@@ -2,7 +2,10 @@
 
 > **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 2](https://openstax.org/books/university-physics-volume-1/pages/2-introduction), §2.1–2.4 · Halliday, Resnick, Walker — rozdz. 3 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 2: [§2.1–2.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/2-1-skalary-i-wektory) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/2-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §3.1–3.3 (s. 52)
 
 ← (początek modułu) · [spis modułu](README.md) · [Funkcje i wykresy w fizyce, linearyzacja](02-funkcje-i-wykresy.md) →
 

@@ -2,7 +2,10 @@
 
 > **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 3](https://openstax.org/books/university-physics-volume-3/pages/3-introduction), §3.3 + §4.4 · Halliday, Resnick, Walker — rozdz. 36 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 3: [§3.3 i §4.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-3-interferencja-na-wielu-szczelinach) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §36.5–36.6 (s. 162)
 
 ← [Doświadczenie Younga](02-doswiadczenie-younga.md) · [spis modułu](README.md) · [Interferencja w cienkich warstwach, interferometr Michelsona](04-cienkie-warstwy-i-michelson.md) →
 

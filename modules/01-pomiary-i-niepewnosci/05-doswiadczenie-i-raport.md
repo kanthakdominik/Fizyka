@@ -2,7 +2,9 @@
 
 > **Moduł:** [01 — Pomiar, jednostki i niepewności](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Wykresy, linearyzacja i dopasowanie prostej](04-wykresy-i-dopasowanie.md) · [spis modułu](README.md) · (koniec modułu) →
 

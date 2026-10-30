@@ -2,7 +2,10 @@
 
 > **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 1](https://openstax.org/books/university-physics-volume-3/pages/1-introduction), §1.7 · Halliday, Resnick, Walker — rozdz. 33 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 1: [§1.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-7-polaryzacja) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §33.4 (s. 17), §33.7 (s. 32)
 
 ← [Dyfrakcja na szczelinie i zdolność rozdzielcza](05-dyfrakcja-i-rozdzielczosc.md) · [spis modułu](README.md) · [Dyfrakcja promieni X i prawo Bragga](07-dyfrakcja-rentgenowska.md) →
 

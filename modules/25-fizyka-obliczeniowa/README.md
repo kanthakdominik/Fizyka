@@ -13,7 +13,7 @@ Rozwiązywać numerycznie to, czego nie da się policzyć na kartce: równania r
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax | Halliday |
+| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
 |---|---|---|---|---|
 | 01 | [Python dla fizyka: NumPy, Matplotlib, SciPy](01-python-dla-fizyka.md) | 🔵 | — | — |
 | 02 | [Całkowanie równań ruchu: Euler, Euler–Cromer, Verlet, RK4](02-calkowanie-rownan-ruchu.md) | 🔵 | — | — |
@@ -24,16 +24,12 @@ Rozwiązywać numerycznie to, czego nie da się policzyć na kartce: równania r
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
-## Powiązane materiały
-
-- [EiT 20 — Metody numeryczne](https://github.com/kanthakdominik/EiT/blob/main/modules/20-metody-numeryczne)
-
 ## Główne źródła modułu
 
 | Źródło | Zakres |
 |---|---|
 
-_Lista zostanie uzupełniona o wykłady wideo, symulacje i zbiory zadań przy wypełnianiu modułu._
+_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
 
 ## Test wejściowy (diagnoza)
 

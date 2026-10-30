@@ -2,7 +2,10 @@
 
 > **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 7](https://openstax.org/books/university-physics-volume-3/pages/7-introduction), §7.3–7.5 · Halliday, Resnick, Walker — rozdz. 39 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 7: [§7.3–7.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-3-rownanie-schrodingera) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/7-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §39.1–39.4 (s. 45)
 
 ← [Funkcja falowa i zasada nieoznaczoności](05-funkcja-falowa-i-nieoznaczonosc.md) · [spis modułu](README.md) · [Tunelowanie przez barierę potencjału](07-tunelowanie.md) →
 

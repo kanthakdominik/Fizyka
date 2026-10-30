@@ -2,7 +2,10 @@
 
 > **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 3](https://openstax.org/books/university-physics-volume-3/pages/3-introduction), §3.4–3.5 · Halliday, Resnick, Walker — rozdz. 35 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 3: [§3.4–3.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-4-interferencja-w-cienkich-warstwach) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/3-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §35.4–35.5 (s. 117)
 
 ← [Interferencja na wielu szczelinach i siatka dyfrakcyjna](03-siatka-dyfrakcyjna.md) · [spis modułu](README.md) · [Dyfrakcja na szczelinie i zdolność rozdzielcza](05-dyfrakcja-i-rozdzielczosc.md) →
 

@@ -2,7 +2,10 @@
 
 > **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 10](https://openstax.org/books/university-physics-volume-2/pages/10-introduction), §10.3–10.4 · Halliday, Resnick, Walker — rozdz. 27 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 10: [§10.3–10.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/10-3-prawa-kirchhoffa) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/10-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §27.2–27.3 (s. 222)
 
 ← [SEM, opór wewnętrzny, łączenie oporników](04-sem-i-laczenie-opornikow.md) · [spis modułu](README.md) · [Obwody RC — ładowanie i rozładowanie](06-obwody-rc.md) →
 

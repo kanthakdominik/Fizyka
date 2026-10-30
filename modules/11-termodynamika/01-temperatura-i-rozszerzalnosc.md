@@ -2,7 +2,10 @@
 
 > **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 1](https://openstax.org/books/university-physics-volume-2/pages/1-introduction), §1.1–1.3 · Halliday, Resnick, Walker — rozdz. 18 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 1: [§1.1–1.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/1-1-temperatura-i-rownowaga-termiczna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/1-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §18.1–18.3 (s. 244)
 
 ← (początek modułu) · [spis modułu](README.md) · [Ciepło, ciepło właściwe, przemiany fazowe, kalorymetria](02-cieplo-i-przemiany-fazowe.md) →
 

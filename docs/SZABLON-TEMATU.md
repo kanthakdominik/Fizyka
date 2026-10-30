@@ -9,7 +9,10 @@ Każdy plik tematu w `modules/NN-nazwa/` ma ten sam układ. Ten dokument opisuje
 
 > **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 4](link), §4.3 · Halliday, Resnick, Walker — rozdz. 4 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 4: [§4.3](link do paragrafu) · [wstęp do rozdziału](link)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §4.4 (s. 87)
 
 ← [poprzedni temat](...) · [spis modułu](README.md) · [następny temat](...) →
 ```
@@ -25,7 +28,7 @@ Każdy plik tematu w `modules/NN-nazwa/` ma ten sam układ. Ten dokument opisuje
 | **Typowe pułapki** | 3–6 punktów | Najczęstsze błędy z matury i kolokwiów |
 | **Doświadczenie / symulacja** | Jedno z trzech: pomiar phyphox, symulacja PhET z pytaniami, krótki program w Pythonie | Zawsze z opracowaniem: co mierzymy, jaki model, jak liczymy niepewność |
 | **Zadania** | **A. Poziom maturalny** (3–6 zadań), **B. Poziom akademicki** (3–6 zadań z pochodną, całką lub równaniem różniczkowym) | Odpowiedzi pod `<details>`; zadania własne, nie kopiowane z arkuszy i podręczników |
-| **Źródła** | Konkretne rozdziały, paragrafy, wykłady (z numerem), symulacje | Tylko źródła darmowe i anglojęzyczne; płatne — tytuł i rozdział |
+| **Źródła** | Konkretne paragrafy i strony, symulacje, zadania maturalne CKE | Źródła polskie; anglojęzyczne tylko jako uzupełnienie, z oznaczeniem |
 
 Dla tematów 🟢 część B jest opcjonalna, dla tematów 🔵 — część A.
 

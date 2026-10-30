@@ -2,7 +2,10 @@
 
 > **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 16](https://openstax.org/books/university-physics-volume-1/pages/16-introduction), §16.3–16.4 · Halliday, Resnick, Walker — rozdz. 16 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 16: [§16.3–16.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/16-3-predkosc-fali-na-naprezonej-strunie) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/16-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §16.2–16.4 (s. 165)
 
 ← [Fala biegnąca i jej opis matematyczny](01-fala-biegnaca.md) · [spis modułu](README.md) · [Superpozycja, interferencja i fale stojące](03-interferencja-i-fale-stojace.md) →
 

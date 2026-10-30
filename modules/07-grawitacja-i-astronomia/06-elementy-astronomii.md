@@ -2,7 +2,9 @@
 
 > **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Pole rozkładu masy i siły pływowe](05-pole-rozkladu-masy-i-plywy.md) · [spis modułu](README.md) · (koniec modułu) →
 

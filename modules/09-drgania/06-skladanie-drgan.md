@@ -2,7 +2,9 @@
 
 > **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Drgania wymuszone i rezonans](05-drgania-wymuszone-i-rezonans.md) · [spis modułu](README.md) · (koniec modułu) →
 

@@ -12,12 +12,12 @@ Liczyć ciśnienie i wypór w cieczach w spoczynku oraz opisywać przepływ rów
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax | Halliday |
+| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
 |---|---|---|---|---|
-| 01 | [Ciśnienie, prawo Pascala, ciśnienie hydrostatyczne](01-cisnienie-i-prawo-pascala.md) | 🟢 | [UP1 r. 14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) §14.1–14.3 | r. 14 (t. 2) |
-| 02 | [Prawo Archimedesa i pływanie ciał](02-prawo-archimedesa.md) | 🟢 | [UP1 r. 14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) §14.4 | r. 14 (t. 2) |
-| 03 | [Równanie ciągłości i równanie Bernoulliego](03-rownanie-bernoulliego.md) | 🔵 | [UP1 r. 14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) §14.5–14.6 | r. 14 (t. 2) |
-| 04 | [Lepkość i turbulencja](04-lepkosc-i-turbulencja.md) | 🔵 | [UP1 r. 14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) §14.7 | r. 14 (t. 2) |
+| 01 | [Ciśnienie, prawo Pascala, ciśnienie hydrostatyczne](01-cisnienie-i-prawo-pascala.md) | 🟢 | [t. 1, §14.1–14.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-1-plyny-gestosc-i-cisnienie) | t. 2, §14.1–14.4 (s. 78) |
+| 02 | [Prawo Archimedesa i pływanie ciał](02-prawo-archimedesa.md) | 🟢 | [t. 1, §14.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-4-prawo-archimedesa-i-sila-wyporu) | t. 2, §14.5 (s. 90) |
+| 03 | [Równanie ciągłości i równanie Bernoulliego](03-rownanie-bernoulliego.md) | 🔵 | [t. 1, §14.5–14.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-5-dynamika-plynow) | t. 2, §14.6–14.7 (s. 94) |
+| 04 | [Lepkość i turbulencja](04-lepkosc-i-turbulencja.md) | 🔵 | [t. 1, §14.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-7-lepkosc-i-turbulencje) | — |
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
@@ -25,10 +25,10 @@ Liczyć ciśnienie i wypór w cieczach w spoczynku oraz opisywać przepływ rów
 
 | Źródło | Zakres |
 |---|---|
-| [OpenStax University Physics Vol. 1, rozdz. 14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction) | podstawowy tekst z zadaniami |
-| Halliday, Resnick, Walker — rozdz. 14 | równoległa lektura i zadania (książka płatna) |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 14](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2, rozdz. 14 (od s. 78) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 
-_Lista zostanie uzupełniona o wykłady wideo, symulacje i zbiory zadań przy wypełnianiu modułu._
+_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
 
 ## Test wejściowy (diagnoza)
 

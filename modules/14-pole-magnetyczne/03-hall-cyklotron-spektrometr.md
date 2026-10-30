@@ -2,7 +2,10 @@
 
 > **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), §11.6–11.7 · Halliday, Resnick, Walker — rozdz. 28 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 11: [§11.6–11.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-6-efekt-halla) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §28.3 (s. 260), §28.5 (s. 269)
 
 ← [Siła elektrodynamiczna i moment sił na ramkę z prądem](02-sila-elektrodynamiczna.md) · [spis modułu](README.md) · [Prawo Biota–Savarta](04-prawo-biota-savarta.md) →
 

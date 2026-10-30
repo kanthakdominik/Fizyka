@@ -2,7 +2,10 @@
 
 > **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 5](https://openstax.org/books/university-physics-volume-3/pages/5-introduction), §5.8–5.9 · Halliday, Resnick, Walker — rozdz. 37 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 5: [§5.8–5.9](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/5-8-ped-relatywistyczny) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/5-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §37.6 (s. 215)
 
 ← [Relatywistyczny efekt Dopplera](04-relatywistyczny-doppler.md) · [spis modułu](README.md) · (koniec modułu) →
 

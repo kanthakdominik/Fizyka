@@ -2,7 +2,10 @@
 
 > **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 15](https://openstax.org/books/university-physics-volume-1/pages/15-introduction), §15.6 · Halliday, Resnick, Walker — rozdz. 15 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 15: [§15.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/15-6-drgania-wymuszone) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/15-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §15.6 (s. 140)
 
 ← [Drgania tłumione](04-drgania-tlumione.md) · [spis modułu](README.md) · [Składanie drgań: dudnienia i krzywe Lissajous](06-skladanie-drgan.md) →
 

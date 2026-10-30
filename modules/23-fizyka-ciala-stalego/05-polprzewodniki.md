@@ -2,7 +2,10 @@
 
 > **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 9](https://openstax.org/books/university-physics-volume-3/pages/9-introduction), §9.6–9.7 · Halliday, Resnick, Walker — rozdz. 41 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 9: [§9.6–9.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-6-polprzewodniki-i-domieszkowanie) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §41.2–41.3 (s. 143)
 
 ← [Teoria pasmowa ciał stałych](04-teoria-pasmowa.md) · [spis modułu](README.md) · [Nadprzewodnictwo](06-nadprzewodnictwo.md) →
 

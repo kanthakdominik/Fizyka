@@ -2,7 +2,10 @@
 
 > **Moduł:** [16 — Równania Maxwella i fale elektromagnetyczne](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 16](https://openstax.org/books/university-physics-volume-2/pages/16-introduction), §16.1 · Halliday, Resnick, Walker — rozdz. 32 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 16: [§16.1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/16-1-rownania-maxwella-i-fale-elektromagnetyczne) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/16-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §32.1–32.3 (s. 426)
 
 ← (początek modułu) · [spis modułu](README.md) · [Płaska fala elektromagnetyczna](02-fala-elektromagnetyczna.md) →
 

@@ -2,7 +2,10 @@
 
 > **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction), §7.4 · Halliday, Resnick, Walker — rozdz. 7 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 7: [§7.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-4-moc) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §7.6 (s. 209)
 
 ← [Energia kinetyczna i twierdzenie o pracy i energii](02-energia-kinetyczna.md) · [spis modułu](README.md) · [Siły zachowawcze i energia potencjalna](04-energia-potencjalna.md) →
 

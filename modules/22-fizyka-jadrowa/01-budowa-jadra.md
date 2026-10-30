@@ -2,7 +2,10 @@
 
 > **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction), §10.1 · Halliday, Resnick, Walker — rozdz. 42 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 10: [§10.1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-1-wlasnosci-jadra-atomowego) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §42.1–42.2 (s. 163)
 
 ← (początek modułu) · [spis modułu](README.md) · [Energia wiązania i deficyt masy](02-energia-wiazania.md) →
 

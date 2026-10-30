@@ -2,7 +2,10 @@
 
 > **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 10](https://openstax.org/books/university-physics-volume-1/pages/10-introduction), §10.6–10.8 · Halliday, Resnick, Walker — rozdz. 10 (pol. *Podstawy fizyki*, t. 1)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 10: [§10.6–10.8](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/10-6-moment-sily) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/10-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1: §10.6–10.8 (s. 350)
 
 ← [Moment bezwładności i twierdzenie Steinera](02-moment-bezwladnosci.md) · [spis modułu](README.md) · [Toczenie bez poślizgu](04-toczenie.md) →
 

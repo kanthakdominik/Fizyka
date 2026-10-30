@@ -2,7 +2,10 @@
 
 > **Moduł:** [24 — Cząstki elementarne i kosmologia](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 11](https://openstax.org/books/university-physics-volume-3/pages/11-introduction), §11.6–11.7 · Halliday, Resnick, Walker — rozdz. 44 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 11: [§11.6–11.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/11-6-wielki-wybuch) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/11-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §44.4 (s. 260)
 
 ← [Akceleratory i detektory cząstek](03-akceleratory-i-detektory.md) · [spis modułu](README.md) · (koniec modułu) →
 

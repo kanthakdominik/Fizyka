@@ -2,7 +2,9 @@
 
 > **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Python dla fizyka: NumPy, Matplotlib, SciPy](01-python-dla-fizyka.md) · [spis modułu](README.md) · [Rzut z oporem, wahadło nieliniowe, orbity planet](03-symulacje-mechaniki.md) →
 

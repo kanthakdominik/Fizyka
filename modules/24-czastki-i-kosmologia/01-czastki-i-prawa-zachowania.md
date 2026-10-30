@@ -2,7 +2,10 @@
 
 > **Moduł:** [24 — Cząstki elementarne i kosmologia](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 11](https://openstax.org/books/university-physics-volume-3/pages/11-introduction), §11.1–11.2 · Halliday, Resnick, Walker — rozdz. 44 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 11: [§11.1–11.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/11-1-wstep-do-fizyki-czastek-elementarnych) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/11-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §44.1–44.2 (s. 235)
 
 ← (początek modułu) · [spis modułu](README.md) · [Kwarki i Model Standardowy](02-kwarki-i-model-standardowy.md) →
 

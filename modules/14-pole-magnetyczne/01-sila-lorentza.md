@@ -2,7 +2,10 @@
 
 > **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 11](https://openstax.org/books/university-physics-volume-2/pages/11-introduction), §11.1–11.3 · Halliday, Resnick, Walker — rozdz. 28 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 11: [§11.1–11.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-1-odkrywanie-magnetyzmu) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/11-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §28.1–28.2 (s. 251), §28.4 (s. 265)
 
 ← (początek modułu) · [spis modułu](README.md) · [Siła elektrodynamiczna i moment sił na ramkę z prądem](02-sila-elektrodynamiczna.md) →
 

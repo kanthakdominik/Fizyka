@@ -2,7 +2,10 @@
 
 > **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 1](https://openstax.org/books/university-physics-volume-3/pages/1-introduction), §1.6 · Halliday, Resnick, Walker — rozdz. 35 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 1: [§1.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-6-zasada-huygensa) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/1-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §35.1 (s. 97)
 
 ← (początek modułu) · [spis modułu](README.md) · [Doświadczenie Younga](02-doswiadczenie-younga.md) →
 

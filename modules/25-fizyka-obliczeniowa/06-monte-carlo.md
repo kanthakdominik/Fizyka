@@ -2,7 +2,9 @@
 
 > **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Pola i potencjały na siatce — równanie Laplace'a](05-pola-na-siatce.md) · [spis modułu](README.md) · (koniec modułu) →
 

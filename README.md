@@ -2,10 +2,15 @@
 
 Otwarta, samodzielna ścieżka nauki fizyki na dwóch poziomach: **matury rozszerzonej** oraz **kursu fizyki z pierwszego roku studiów technicznych** (z rachunkiem różniczkowym i całkowym). Repozytorium jest pomyślane jako darmowa pomoc do nauki przed maturą i studiami, w trakcie pierwszych semestrów albo do odświeżenia wiedzy po latach.
 
-Układ działów opiera się na dwóch standardowych podręcznikach akademickich: **OpenStax *University Physics* (tomy 1–3)** — darmowym, i **Halliday, Resnick, Walker — *Fundamentals of Physics*** (pol. *Podstawy fizyki*, PWN) — płatnym. Każdy temat odsyła do konkretnych rozdziałów obu.
+Układ działów opiera się na dwóch podręcznikach akademickich dostępnych po polsku:
+
+- **OpenStax, *Fizyka dla szkół wyższych*, t. 1–3** — darmowe polskie wydanie *University Physics*. Każdy temat linkuje bezpośrednio do właściwego paragrafu.
+- **Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1–5 (PWN 2015)** — dokładniejszy i bardziej szczegółowy wykład. Każdy temat podaje tom, paragraf i stronę, na której paragraf się zaczyna.
+
+Zasady:
 
 - **Notatki, przykłady i zadania** są napisane po polsku (treść własna repozytorium).
-- **Źródła zewnętrzne** (kursy, książki, wykłady wideo, symulacje) są **anglojęzyczne i darmowe**. Książki płatne są wymienione z tytułem i numerem rozdziału, bez treści.
+- **Źródła zewnętrzne są polskie**: dwa podręczniki powyżej, materiały CKE do matury, polskie wersje symulacji. Kilka materiałów uzupełniających, które nie mają polskiego odpowiednika, jest wyraźnie oznaczonych jako anglojęzyczne.
 - Linki były sprawdzane przy dodawaniu. Jeśli któryś przestanie działać, zgłoś to w Issues.
 
 * * *
@@ -13,12 +18,13 @@ Układ działów opiera się na dwóch standardowych podręcznikach akademickich
 ## Jak korzystać z repozytorium
 
 1. Przeczytaj [ROADMAP.md](ROADMAP.md) — kolejność modułów, zależności, trzy ścieżki nauki (matura, politechnika, most między nimi) i szacowany czas.
-2. Przejrzyj [RESOURCES.md](RESOURCES.md) — główne podręczniki, kursy i symulacje, do których odwołują się moduły.
+2. Przejrzyj [RESOURCES.md](RESOURCES.md) — podręczniki, materiały maturalne i symulacje, do których odwołują się moduły.
 3. Zainstaluj narzędzia z [TOOLS.md](TOOLS.md) (wszystkie darmowe; do doświadczeń wystarczy smartfon).
 4. Przerabiaj moduły po kolei. Każdy temat ma ten sam układ (pełny opis w [docs/SZABLON-TEMATU.md](docs/SZABLON-TEMATU.md)):
 
 | Sekcja | Co zawiera |
 |---|---|
+| **Czytaj** | Paragraf w *Fizyce dla szkół wyższych* (link) i w *Podstawach fizyki* (tom, paragraf, strona) |
 | **Po co to jest** | Gdzie temat wraca w dalszej fizyce i w technice |
 | **Teoria w pigułce** | Najważniejsze pojęcia i prawa, bez lania wody |
 | **Wzory i założenia** | Wzory razem z warunkami, w których obowiązują |
@@ -26,7 +32,7 @@ Układ działów opiera się na dwóch standardowych podręcznikach akademickich
 | **Typowe pułapki** | Błędy, które najczęściej kosztują punkty na maturze i kolokwium |
 | **Doświadczenie / symulacja** | Pomiar smartfonem (phyphox), symulacja PhET albo krótki program w Pythonie |
 | **Zadania** | A — poziom maturalny, B — poziom akademicki; odpowiedzi ukryte pod `<details>` |
-| **Źródła** | Konkretne rozdziały i wykłady do pogłębienia |
+| **Źródła** | Konkretne rozdziały i strony do pogłębienia |
 
 5. Postęp odznaczaj w checklistach (`- [ ]` → `- [x]`) we własnym forku.
 
@@ -71,9 +77,17 @@ Układ działów opiera się na dwóch standardowych podręcznikach akademickich
 | 24 | [Cząstki elementarne i kosmologia](modules/24-czastki-i-kosmologia) | 🟢🔵 | Fizyka współczesna — cząstki i Wszechświat | 🔲 szkielet |
 | 25 | [Fizyka obliczeniowa w Pythonie](modules/25-fizyka-obliczeniowa) | 🟢🔵 | Metody numeryczne / Fizyka komputerowa (wstęp) | 🔲 szkielet |
 
-🔲 szkielet — struktura tematów i mapowanie źródeł · ✅ pełny — notatki, przykłady, zadania z odpowiedziami, doświadczenia, źródła
+🔲 szkielet — struktura tematów i odnośniki do podręczników · ✅ pełny — notatki, przykłady, zadania z odpowiedziami, doświadczenia, źródła
 
 Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejnością nauki: **moduł 00 (matematyka) warto przerabiać równolegle z 02–05**, a **25 (fizyka obliczeniowa) — razem z mechaniką i drganiami**. Szczegóły w [ROADMAP.md](ROADMAP.md).
+
+* * *
+
+## Odnośniki do podręczników
+
+- ***Fizyka dla szkół wyższych*** ma tę samą numerację rozdziałów i paragrafów co angielskie *University Physics*. Link prowadzi do pierwszego paragrafu z podanego zakresu, a obok jest link do wstępu rozdziału.
+- ***Podstawy fizyki*** — numery paragrafów i stron według wydania PWN 2015 (tłumaczenie 10. wydania *Fundamentals of Physics*). Każdy tom ma własną numerację stron: t. 1 — rozdz. 1–11, t. 2 — 12–20, t. 3 — 21–32, t. 4 — 33–37, t. 5 — 38–44. Podana strona to początek paragrafu.
+- Oba podręczniki są ułożone inaczej, więc ten sam temat bywa u nich w różnych rozdziałach — np. polaryzacja jest w *Fizyce dla szkół wyższych* przy naturze światła (t. 3, §1.7), a u Hallidaya przy falach elektromagnetycznych (§33.4).
 
 * * *
 
@@ -82,7 +96,6 @@ Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejno�
 - **Kod w Pythonie** z wszystkich plików `.md` uruchamia skrypt [tools/check_snippets.py](tools/check_snippets.py) (pomija bloki wymagające SymPy lub danych z zewnątrz).
 - Sprawdzenie wykonuje automatycznie GitHub Actions przy każdym pushu ([konfiguracja](.github/workflows/checks.yml)) — wynik w zakładce *Actions*.
 - Wzory są pisane pod renderer GitHuba (MathJax): przecinek dziesiętny jako `\text{,}`, w tabelach `\lvert … \rvert` zamiast `|`, wektory jako `\vec{v}` lub `\mathbf{F}`.
-- Numery rozdziałów Hallidaya podane są według wydania angielskiego 10 (*Fundamentals of Physics Extended*), z którego przetłumaczono polskie wydanie PWN 2015 (tomy 1–5). W innych wydaniach numeracja rozdziałów jest taka sama lub bardzo zbliżona.
 
 * * *
 
@@ -99,4 +112,4 @@ Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejno�
 
 ## Licencja
 
-Treść własna repozytorium (notatki, przykłady, zadania): **CC BY-SA 4.0** — szczegóły w [LICENSE.md](LICENSE.md). Materiały zewnętrzne pozostają własnością ich autorów i są tu tylko linkowane.
+Treść własna repozytorium (notatki, przykłady, zadania): **CC BY-SA 4.0** — szczegóły w [LICENSE.md](LICENSE.md). Materiały zewnętrzne pozostają własnością ich autorów i są tu tylko linkowane lub cytowane z numerem strony.

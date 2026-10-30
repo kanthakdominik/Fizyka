@@ -12,14 +12,14 @@ Rozwiązywać zadania bilansem energii zamiast śledzenia sił: praca siły zmie
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax | Halliday |
+| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
 |---|---|---|---|---|
-| 01 | [Praca siły stałej i zmiennej](01-praca.md) | 🟢🔵 | [UP1 r. 7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) §7.1 | r. 7 (t. 1) |
-| 02 | [Energia kinetyczna i twierdzenie o pracy i energii](02-energia-kinetyczna.md) | 🟢 | [UP1 r. 7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) §7.2–7.3 | r. 7 (t. 1) |
-| 03 | [Moc i sprawność](03-moc-i-sprawnosc.md) | 🟢 | [UP1 r. 7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) §7.4 | r. 7 (t. 1) |
-| 04 | [Siły zachowawcze i energia potencjalna](04-energia-potencjalna.md) | 🟢🔵 | [UP1 r. 8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction) §8.1–8.2 | r. 8 (t. 1) |
-| 05 | [Zasada zachowania energii mechanicznej i całkowitej](05-zasada-zachowania-energii.md) | 🟢 | [UP1 r. 8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction) §8.3 | r. 8 (t. 1) |
-| 06 | [Wykresy energii potencjalnej i stabilność równowagi](06-wykresy-energii.md) | 🔵 | [UP1 r. 8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction) §8.4 | r. 8 (t. 1) |
+| 01 | [Praca siły stałej i zmiennej](01-praca.md) | 🟢🔵 | [t. 1, §7.1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-1-praca) | t. 1, §7.2–7.5 (s. 189) |
+| 02 | [Energia kinetyczna i twierdzenie o pracy i energii](02-energia-kinetyczna.md) | 🟢 | [t. 1, §7.2–7.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-2-energia-kinetyczna) | t. 1, §7.1–7.2 (s. 187) |
+| 03 | [Moc i sprawność](03-moc-i-sprawnosc.md) | 🟢 | [t. 1, §7.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-4-moc) | t. 1, §7.6 (s. 209) |
+| 04 | [Siły zachowawcze i energia potencjalna](04-energia-potencjalna.md) | 🟢🔵 | [t. 1, §8.1–8.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-1-energia-potencjalna-ukladu) | t. 1, §8.1 (s. 224) |
+| 05 | [Zasada zachowania energii mechanicznej i całkowitej](05-zasada-zachowania-energii.md) | 🟢 | [t. 1, §8.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-3-zasada-zachowania-energii) | t. 1, §8.2 (s. 232), §8.4–8.5 (s. 241) |
+| 06 | [Wykresy energii potencjalnej i stabilność równowagi](06-wykresy-energii.md) | 🔵 | [t. 1, §8.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-4-wykresy-energii-potencjalnej) | t. 1, §8.3 (s. 236) |
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
@@ -27,11 +27,12 @@ Rozwiązywać zadania bilansem energii zamiast śledzenia sił: praca siły zmie
 
 | Źródło | Zakres |
 |---|---|
-| [OpenStax University Physics Vol. 1, rozdz. 7](https://openstax.org/books/university-physics-volume-1/pages/7-introduction) | podstawowy tekst z zadaniami |
-| [OpenStax University Physics Vol. 1, rozdz. 8](https://openstax.org/books/university-physics-volume-1/pages/8-introduction) | podstawowy tekst z zadaniami |
-| Halliday, Resnick, Walker — rozdz. 7, 8 | równoległa lektura i zadania (książka płatna) |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/7-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 8](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/8-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1, rozdz. 7 (od s. 187) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 1, rozdz. 8 (od s. 224) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 
-_Lista zostanie uzupełniona o wykłady wideo, symulacje i zbiory zadań przy wypełnianiu modułu._
+_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
 
 ## Test wejściowy (diagnoza)
 

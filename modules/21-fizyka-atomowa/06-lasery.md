@@ -2,7 +2,10 @@
 
 > **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 8](https://openstax.org/books/university-physics-volume-3/pages/8-introduction), §8.6 · Halliday, Resnick, Walker — rozdz. 40 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 8: [§8.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/8-6-lasery) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/8-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §40.7 (s. 114)
 
 ← [Widma atomowe i promieniowanie rentgenowskie](05-widma-i-promieniowanie-x.md) · [spis modułu](README.md) · (koniec modułu) →
 

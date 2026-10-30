@@ -2,7 +2,10 @@
 
 > **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction), §13.3–13.4 · Halliday, Resnick, Walker — rozdz. 30 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 13: [§13.3–13.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/13-3-sila-elektromotoryczna-wywolana-ruchem) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/13-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §30.2–30.3 (s. 338)
 
 ← [Prawo Faradaya i reguła Lenza](01-prawo-faradaya-i-lenza.md) · [spis modułu](README.md) · [Prądy wirowe, prądnice i SEM wsteczna](03-pradnice-i-prady-wirowe.md) →
 

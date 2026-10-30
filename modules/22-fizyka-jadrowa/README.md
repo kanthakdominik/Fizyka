@@ -13,15 +13,15 @@ Opisywać budowę i energię wiązania jąder, rozpady promieniotwórcze i prawo
 
 ## Tematy
 
-| # | Temat | Poziom | OpenStax | Halliday |
+| # | Temat | Poziom | OpenStax (PL) | Halliday (PWN) |
 |---|---|---|---|---|
-| 01 | [Budowa jądra atomowego i izotopy](01-budowa-jadra.md) | 🟢 | [UP3 r. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction) §10.1 | r. 42 (t. 5) |
-| 02 | [Energia wiązania i deficyt masy](02-energia-wiazania.md) | 🟢 | [UP3 r. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction) §10.2 | r. 42 (t. 5) |
-| 03 | [Rozpady promieniotwórcze i prawo rozpadu](03-rozpady-promieniotworcze.md) | 🟢🔵 | [UP3 r. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction) §10.3 | r. 42 (t. 5) |
-| 04 | [Reakcje jądrowe i zasady zachowania](04-reakcje-jadrowe.md) | 🟢 | [UP3 r. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction) §10.4 | r. 42 (t. 5) |
-| 05 | [Rozszczepienie jąder i reaktor](05-rozszczepienie.md) | 🟢 | [UP3 r. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction) §10.5 | r. 43 (t. 5) |
-| 06 | [Synteza termojądrowa i energia gwiazd](06-synteza.md) | 🟢 | [UP3 r. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction) §10.6 | r. 43 (t. 5) |
-| 07 | [Oddziaływanie promieniowania z materią, dawki i ochrona](07-promieniowanie-i-dawki.md) | 🟢🔵 | [UP3 r. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction) §10.7 | r. 42 (t. 5) |
+| 01 | [Budowa jądra atomowego i izotopy](01-budowa-jadra.md) | 🟢 | [t. 3, §10.1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-1-wlasnosci-jadra-atomowego) | t. 5, §42.1–42.2 (s. 163) |
+| 02 | [Energia wiązania i deficyt masy](02-energia-wiazania.md) | 🟢 | [t. 3, §10.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-2-energia-wiazania-jadra) | t. 5, §42.2 (s. 167) |
+| 03 | [Rozpady promieniotwórcze i prawo rozpadu](03-rozpady-promieniotworcze.md) | 🟢🔵 | [t. 3, §10.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-3-rozpad-promieniotworczy) | t. 5, §42.3–42.6 (s. 175) |
+| 04 | [Reakcje jądrowe i zasady zachowania](04-reakcje-jadrowe.md) | 🟢 | [t. 3, §10.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-4-procesy-rozpadu) | — |
+| 05 | [Rozszczepienie jąder i reaktor](05-rozszczepienie.md) | 🟢 | [t. 3, §10.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-5-rozszczepienie-jadra-atomowego) | t. 5, §43.1–43.3 (s. 203) |
+| 06 | [Synteza termojądrowa i energia gwiazd](06-synteza.md) | 🟢 | [t. 3, §10.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-6-fuzja-jadrowa) | t. 5, §43.4–43.6 (s. 219) |
+| 07 | [Oddziaływanie promieniowania z materią, dawki i ochrona](07-promieniowanie-i-dawki.md) | 🟢🔵 | [t. 3, §10.7](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-7-skutki-biologiczne-i-zastosowania-medyczne-promieniowania-jadrowego) | t. 5, §42.7 (s. 187) |
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
@@ -29,10 +29,11 @@ Opisywać budowę i energię wiązania jąder, rozpady promieniotwórcze i prawo
 
 | Źródło | Zakres |
 |---|---|
-| [OpenStax University Physics Vol. 3, rozdz. 10](https://openstax.org/books/university-physics-volume-3/pages/10-introduction) | podstawowy tekst z zadaniami |
-| Halliday, Resnick, Walker — rozdz. 42, 43 | równoległa lektura i zadania (książka płatna) |
+| [OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 10](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/10-wstep) | tekst główny, pytania, zadania z odpowiedziami |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5, rozdz. 42 (od s. 163) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
+| Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5, rozdz. 43 (od s. 203) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 
-_Lista zostanie uzupełniona o wykłady wideo, symulacje i zbiory zadań przy wypełnianiu modułu._
+_Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały przy wypełnianiu modułu._
 
 ## Test wejściowy (diagnoza)
 

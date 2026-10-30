@@ -2,7 +2,10 @@
 
 > **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 4](https://openstax.org/books/university-physics-volume-3/pages/4-introduction), §4.1–4.3 + §4.5 · Halliday, Resnick, Walker — rozdz. 36 (pol. *Podstawy fizyki*, t. 4)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 4: [§4.1–4.3 i §4.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/4-1-dyfrakcja-na-pojedynczej-szczelinie) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/4-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 4: §36.1–36.4 (s. 141)
 
 ← [Interferencja w cienkich warstwach, interferometr Michelsona](04-cienkie-warstwy-i-michelson.md) · [spis modułu](README.md) · [Polaryzacja światła: prawo Malusa i kąt Brewstera](06-polaryzacja.md) →
 

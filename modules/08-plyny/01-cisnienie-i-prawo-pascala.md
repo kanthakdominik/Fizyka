@@ -2,7 +2,10 @@
 
 > **Moduł:** [08 — Mechanika płynów](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 1*, [rozdz. 14](https://openstax.org/books/university-physics-volume-1/pages/14-introduction), §14.1–14.3 · Halliday, Resnick, Walker — rozdz. 14 (pol. *Podstawy fizyki*, t. 2)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 14: [§14.1–14.3](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-1-plyny-gestosc-i-cisnienie) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 2: §14.1–14.4 (s. 78)
 
 ← (początek modułu) · [spis modułu](README.md) · [Prawo Archimedesa i pływanie ciał](02-prawo-archimedesa.md) →
 

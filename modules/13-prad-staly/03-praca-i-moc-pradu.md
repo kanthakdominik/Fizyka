@@ -2,7 +2,10 @@
 
 > **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 9](https://openstax.org/books/university-physics-volume-2/pages/9-introduction), §9.5 · Halliday, Resnick, Walker — rozdz. 26 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 9: [§9.5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/9-5-energia-i-moc-elektryczna) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/9-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §26.5 (s. 196)
 
 ← [Opór, opór właściwy i prawo Ohma](02-opor-i-prawo-ohma.md) · [spis modułu](README.md) · [SEM, opór wewnętrzny, łączenie oporników](04-sem-i-laczenie-opornikow.md) →
 

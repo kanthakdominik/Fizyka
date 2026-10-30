@@ -2,7 +2,10 @@
 
 > **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 14](https://openstax.org/books/university-physics-volume-2/pages/14-introduction), §14.4–14.6 · Halliday, Resnick, Walker — rozdz. 30, 31 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 14: [§14.4–14.6](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/14-4-obwody-rl) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/14-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §30.6 (s. 352), §31.1–31.2 (s. 378)
 
 ← [Indukcyjność własna i wzajemna, energia pola magnetycznego](04-indukcyjnosc.md) · [spis modułu](README.md) · [Prąd przemienny: wartości skuteczne, impedancja, rezonans, moc](06-prad-przemienny.md) →
 

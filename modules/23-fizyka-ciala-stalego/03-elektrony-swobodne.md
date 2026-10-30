@@ -2,7 +2,10 @@
 
 > **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 3*, [rozdz. 9](https://openstax.org/books/university-physics-volume-3/pages/9-introduction), §9.4 · Halliday, Resnick, Walker — rozdz. 41 (pol. *Podstawy fizyki*, t. 5)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 9: [§9.4](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-4-model-elektronow-swobodnych-w-metalach) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/9-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 5: §41.1 (s. 130)
 
 ← [Struktura krystaliczna ciał stałych](02-krysztaly.md) · [spis modułu](README.md) · [Teoria pasmowa ciał stałych](04-teoria-pasmowa.md) →
 

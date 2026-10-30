@@ -2,7 +2,10 @@
 
 > **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🟢 matura R · **Status:** 🔲 szkielet
 >
-> **Czytaj:** OpenStax *University Physics Vol. 2*, [rozdz. 13](https://openstax.org/books/university-physics-volume-2/pages/13-introduction), §13.1–13.2 · Halliday, Resnick, Walker — rozdz. 30 (pol. *Podstawy fizyki*, t. 3)
+> **Czytaj:**
+>
+> - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 13: [§13.1–13.2](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/13-1-prawo-faradaya) · [wstęp do rozdziału](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-2/pages/13-wstep)
+> - Halliday, Resnick, Walker, *Podstawy fizyki*, t. 3: §30.1 (s. 329)
 
 ← (początek modułu) · [spis modułu](README.md) · [SEM ruchu i indukowane pole elektryczne](02-sem-ruchu-i-pole-indukowane.md) →
 

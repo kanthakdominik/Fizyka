@@ -2,7 +2,9 @@
 
 > **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia · **Status:** 🔲 szkielet
 >
-> **Czytaj:** _źródła zostaną dobrane przy wypełnianiu tematu_
+> **Czytaj:**
+>
+> - _źródła zostaną dobrane przy wypełnianiu tematu_
 
 ← [Przybliżenia i szeregi (małe kąty, dwumian, Taylor)](06-przyblizenia-i-szeregi.md) · [spis modułu](README.md) · (koniec modułu) →
 
