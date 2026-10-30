@@ -1,6 +1,6 @@
 # 05 — Pęd, środek masy i zderzenia
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — zasady zachowania (pęd) · **Czas:** 25–40 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — zasady zachowania (pęd) · **Czas:** 25–40 h od zera
 
 ## Cel modułu
 
@@ -35,12 +35,39 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 30 minut.
 
-## Projekt modułowy
+1. Oblicz pęd samochodu o masie 1000 kg jadącego z prędkością 72 km/h.
+2. Piłka o masie 0,5 kg uderza w ścianę z prędkością 10 m/s i odbija się z prędkością 10 m/s. Oblicz zmianę pędu.
+3. Chłopiec o masie 50 kg stoi na deskorolce i rzuca do przodu piłkę o masie 2 kg z prędkością 10 m/s. Z jaką prędkością odjedzie?
+4. Wagon o masie 10 t jedzie z prędkością 3 m/s i sczepia się z nieruchomym wagonem o masie 20 t. Oblicz wspólną prędkość.
+5. Gdzie leży środek masy dwóch kul o masach 1 kg i 4 kg, których środki są oddalone o 1 m?
+6. Czy w zderzeniu niesprężystym zachowany jest pęd? A energia kinetyczna?
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $p = 2\cdot10^4\ \mathrm{kg\cdot m/s}$
+2. $\Delta p = 10\ \mathrm{kg\cdot m/s}$ (zwrot od ściany)
+3. $v = 0{,}4\ \mathrm{m/s}$ do tyłu
+4. $v = 1\ \mathrm{m/s}$
+5. 0,8 m od lżejszej kuli (0,2 m od cięższej)
+6. Pęd — tak; energia kinetyczna — nie
+</details>
+
+## Projekt modułowy: zderzenia wózków i pomiar współczynnika restytucji
+
+- [ ] **Współczynnik restytucji.** W phyphox uruchom eksperyment *(In)elastic collision* i upuszczaj z wysokości ok. 1 m kolejno: piłkę tenisową, pingpongową, kauczukową i koszykową. Dla każdej wykonaj 5 pomiarów i podaj $e$ z niepewnością.
+- [ ] Sprawdź, czy $e$ zależy od wysokości upuszczenia (3 wysokości dla jednej piłki).
+- [ ] **Zderzenia wózków (wideo).** Na gładkiej podłodze lub torze ustaw dwa wózki (samochodziki, deskorolki, puszki na boku). Nagraj zderzenie z góry na tle miarki, przeanalizuj w [Trackerze](https://physlets.org/tracker/) i wyznacz prędkości przed i po.
+- [ ] Sprawdź zachowanie pędu (masy zważ wagą kuchenną) i oblicz, jaka część energii kinetycznej została utracona. Powtórz z przyklejoną plasteliną (zderzenie doskonale niesprężyste).
+- [ ] W sprawozdaniu porównaj pęd przed i po z uwzględnieniem niepewności i wyjaśnij ewentualne różnice (tarcie, opór toczenia).
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Liczę pęd i popęd siły, także jako pole pod wykresem $F(t)$, i wyjaśniam działanie stref zgniotu i poduszek powietrznych.
+- [ ] Stosuję zasadę zachowania pędu do odrzutu, wybuchów i zderzeń, także w 2D.
+- [ ] Rozróżniam zderzenia sprężyste i niesprężyste, liczę prędkości po zderzeniu i utraconą energię.
+- [ ] Rozwiązuję zadanie z wahadłem balistycznym, łącząc zachowanie pędu i energii we właściwej kolejności.
+- [ ] Wyznaczam środek masy układu punktów i ciał ciągłych (także przez całkowanie) i wiem, jak porusza się środek masy.
+- [ ] Wyprowadzam wzór Ciołkowskiego i wyjaśniam, dlaczego rakiety mają wiele stopni.

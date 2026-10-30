@@ -1,6 +1,6 @@
 # 04 — Praca, energia i moc
 
-> **Status:** 🔲 szkielet · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — zasady zachowania (energia) · **Czas:** 25–40 h od zera
+> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — zasady zachowania (energia) · **Czas:** 25–40 h od zera
 
 ## Cel modułu
 
@@ -38,12 +38,39 @@ _Lista zostanie uzupełniona o symulacje, zadania maturalne i inne materiały pr
 
 ## Test wejściowy (diagnoza)
 
-_do uzupełnienia_
+Rozwiąż bez notatek, około 40 minut.
 
-## Projekt modułowy
+1. Skrzynię przesunięto o 10 m siłą 50 N skierowaną pod kątem $60^\circ$ do kierunku ruchu. Oblicz pracę.
+2. Samochód o masie 1500 kg jedzie z prędkością 72 km/h. Oblicz jego energię kinetyczną.
+3. Ile wynosi energia potencjalna ciała o masie 2 kg na wysokości 5 m nad podłogą (poziom zerowy na podłodze)?
+4. Kamień spada z wysokości 20 m. Z jaką prędkością uderzy w ziemię (bez oporu)?
+5. Silnik o mocy 1,5 kW pracuje przez 2 h. Ile energii pobiera (w kWh i MJ)?
+6. Czy praca siły tarcia może być dodatnia? Podaj przykład.
 
-_do uzupełnienia_
+<details>
+<summary>Odpowiedzi</summary>
+
+1. $W = 50\cdot10\cdot0{,}5 = 250\ \mathrm{J}$
+2. $E_k = 300\ \mathrm{kJ}$
+3. $U \approx 98\ \mathrm{J}$
+4. $v \approx 19{,}8\ \mathrm{m/s}$
+5. $3\ \mathrm{kWh} = 10{,}8\ \mathrm{MJ}$
+6. Tak — np. tarcie statyczne działające na skrzynię na przyspieszającej ciężarówce albo na stopę idącego człowieka wykonuje pracę dodatnią względem ziemi (tarcie nadaje skrzyni przyspieszenie).
+</details>
+
+## Projekt modułowy: bilans energii wahadła i odbijającej się piłki
+
+- [ ] **Wahadło.** Zawieś telefon na sznurku (ok. 1 m) i nagraj w phyphox prędkość kątową z żyroskopu przez 2–3 minuty swobodnych wahań. Dla kolejnych wahnięć oblicz amplitudę prędkości $v = \omega L$ i energię $E = \tfrac12mv^2$ w najniższym punkcie.
+- [ ] Narysuj $E$ od czasu. Dopasuj zanik wykładniczy i wyznacz, jaka część energii jest tracona w jednym okresie (wstęp do drgań tłumionych, 09.04).
+- [ ] **Odbijająca się piłka.** Upuść piłkę z wysokości 1 m na twardą podłogę i nagraj dźwięk kolejnych odbić eksperymentem *(In)elastic collision* w phyphox. Aplikacja oblicza z odstępów czasu wysokości kolejnych odbić.
+- [ ] Oblicz, jaka część energii mechanicznej zostaje po każdym odbiciu ($h_{n+1}/h_n$), i sprawdź, czy ten stosunek jest stały.
+- [ ] W sprawozdaniu wyjaśnij, gdzie podziała się „stracona” energia w obu doświadczeniach.
 
 ## Sprawdzian końcowy modułu
 
-_do uzupełnienia_
+- [ ] Liczę pracę stałej i zmiennej siły, także jako pole pod wykresem $F(x)$, i rozumiem znak pracy.
+- [ ] Stosuję twierdzenie o pracy i energii do zadań o hamowaniu, uderzeniach i siłach zależnych od położenia.
+- [ ] Liczę moc chwilową i średnią oraz sprawność urządzeń.
+- [ ] Rozróżniam siły zachowawcze i niezachowawcze, liczę energię potencjalną z siły i siłę z energii potencjalnej.
+- [ ] Rozwiązuję zadania z zasady zachowania energii, także z tarciem i sprężynami.
+- [ ] Z wykresu $U(x)$ odczytuję obszary dozwolone, punkty zwrotu i położenia równowagi oraz liczę częstość małych drgań.

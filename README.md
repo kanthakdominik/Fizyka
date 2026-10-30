@@ -54,8 +54,8 @@ Zasady:
 | 01 | [Pomiar, jednostki i niepewności](modules/01-pomiary-i-niepewnosci) | 🟢🔵 | Pracownia fizyczna I, wstęp do Fizyki I | ✅ pełny |
 | 02 | [Kinematyka](modules/02-kinematyka) | 🟢🔵 | Fizyka I — kinematyka punktu materialnego | ✅ pełny |
 | 03 | [Dynamika punktu materialnego](modules/03-dynamika) | 🟢🔵 | Fizyka I — dynamika | ✅ pełny |
-| 04 | [Praca, energia i moc](modules/04-praca-i-energia) | 🟢🔵 | Fizyka I — zasady zachowania (energia) | 🔲 szkielet |
-| 05 | [Pęd, środek masy i zderzenia](modules/05-ped-i-zderzenia) | 🟢🔵 | Fizyka I — zasady zachowania (pęd) | 🔲 szkielet |
+| 04 | [Praca, energia i moc](modules/04-praca-i-energia) | 🟢🔵 | Fizyka I — zasady zachowania (energia) | ✅ pełny |
+| 05 | [Pęd, środek masy i zderzenia](modules/05-ped-i-zderzenia) | 🟢🔵 | Fizyka I — zasady zachowania (pęd) | ✅ pełny |
 | 06 | [Bryła sztywna, statyka i sprężystość](modules/06-bryla-sztywna) | 🟢🔵 | Fizyka I — ruch obrotowy | 🔲 szkielet |
 | 07 | [Grawitacja i elementy astronomii](modules/07-grawitacja-i-astronomia) | 🟢🔵 | Fizyka I — grawitacja; elementy astronomii z matury | 🔲 szkielet |
 | 08 | [Mechanika płynów](modules/08-plyny) | 🟢🔵 | Fizyka I — hydrostatyka i hydrodynamika | 🔲 szkielet |
