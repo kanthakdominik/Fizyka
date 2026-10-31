@@ -24,6 +24,8 @@ Wyprowadzać prawa termodynamiki z zachowania ogromnej liczby cząstek: entropi�
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
+Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
+
 ## Główne źródła modułu
 
 | Źródło | Zakres |
@@ -37,7 +39,6 @@ Wyprowadzać prawa termodynamiki z zachowania ogromnej liczby cząstek: entropi�
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 21 „Entropia i druga zasada termodynamiki”, od s. 260](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=276) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Właściwości gazu* (27.01, 27.02, 27.03); *Widmo ciała doskonale czarnego* (27.04) |
 | [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 27.02, 27.04 |
-| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematu 27.03 |
 | F. Reif, *Fizyka statystyczna* (Kurs Fizyki Berkeley, t. 5), PWN | podręcznik na poziomie pierwszych lat studiów |
 | K. Huang, *Podstawy fizyki statystycznej*, PWN | wykład akademicki: zespoły statystyczne, statystyki kwantowe, przejścia fazowe |
 

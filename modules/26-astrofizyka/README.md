@@ -25,6 +25,8 @@ Odczytywać z promieniowania gwiazd ich temperaturę, rozmiary i moc, rozumieć,
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
+Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
+
 ## Główne źródła modułu
 
 | Źródło | Zakres |
