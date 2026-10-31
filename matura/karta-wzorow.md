@@ -81,7 +81,7 @@ Karta nie zawiera warunków stosowalności wzorów — te są w tabelach **Wzory
 | $\Delta U = Q + W$, $\lvert W\rvert = p\lvert\Delta V\rvert$, praca jako pole pod $p(V)$ | [11.05](../modules/11-termodynamika/05-pierwsza-zasada.md) |
 | $c_w = Q/(m\Delta T)$, $L = Q/m$ | [11.02](../modules/11-termodynamika/02-cieplo-i-przemiany-fazowe.md) |
 | $C = Q/(n\Delta T)$, $C_p = C_V + R$ | [11.05](../modules/11-termodynamika/05-pierwsza-zasada.md) |
-| $E_{śr} = \tfrac s2k_BT$, $pV = nRT$ | [11.04](../modules/11-termodynamika/04-gaz-doskonaly-i-teoria-kinetyczna.md) |
+| $E_{śr} = \tfrac s2k_BT$, $pV = nRT$ | [11.04](../modules/11-termodynamika/04-gaz-doskonaly-i-teoria-kinetyczna.md), [27.03](../modules/27-fizyka-statystyczna/03-ekwipartycja-i-cieplo-wlasciwe.md) |
 | cykl: $0 = Q_{całk} + W_{całk}$, sprawność $\eta = \lvert W\rvert/\lvert Q_{pob}\rvert$ | [11.06](../modules/11-termodynamika/06-silniki-i-cykl-carnota.md) |
 
 ## Elektrostatyka
@@ -129,7 +129,7 @@ Karta nie zawiera warunków stosowalności wzorów — te są w tabelach **Wzory
 
 | Wzór (w skrócie) | Tematy |
 |---|---|
-| prawo Wiena $\lambda_{max}T = b$, prawo Stefana–Boltzmanna $I = \sigma T^4$ | [20.01](../modules/20-fizyka-kwantowa/01-cialo-doskonale-czarne.md), [11.03](../modules/11-termodynamika/03-transport-ciepla.md) |
+| prawo Wiena $\lambda_{max}T = b$, prawo Stefana–Boltzmanna $I = \sigma T^4$ | [20.01](../modules/20-fizyka-kwantowa/01-cialo-doskonale-czarne.md), [11.03](../modules/11-termodynamika/03-transport-ciepla.md), [26.01](../modules/26-astrofizyka/01-promieniowanie-gwiazd.md) |
 | $E_f = hf = hc/\lambda$, $p_f = h/\lambda$ | [20.02](../modules/20-fizyka-kwantowa/02-efekt-fotoelektryczny.md), [20.03](../modules/20-fizyka-kwantowa/03-efekt-comptona.md) |
 | zjawisko fotoelektryczne $E_f = W + E_{kin\,max}$ | [20.02](../modules/20-fizyka-kwantowa/02-efekt-fotoelektryczny.md) |
 | emisja i absorpcja $E_m - E_n = hf + E_{odrzutu}$, $E_n = -13{,}6\ \mathrm{eV}/n^2$ | [21.01](../modules/21-fizyka-atomowa/01-model-bohra.md) |

@@ -86,7 +86,7 @@ Do egzaminu obowiązują też wymagania z fizyki w szkole podstawowej (w zasadac
 | IV.6 | II prawo Keplera a zasada zachowania momentu pędu | [07.04](../modules/07-grawitacja-i-astronomia/04-prawa-keplera.md), [06.05](../modules/06-bryla-sztywna/05-moment-pedu.md) |
 | IV.7 | energia potencjalna grawitacji, II prędkość kosmiczna | [07.02](../modules/07-grawitacja-i-astronomia/02-pole-i-potencjal-grawitacyjny.md), [07.03](../modules/07-grawitacja-i-astronomia/03-orbity-i-predkosci-kosmiczne.md) |
 | IV.8 | stan nieważkości i przeciążenia | [03.06](../modules/03-dynamika/06-uklady-nieinercjalne.md), [07.03](../modules/07-grawitacja-i-astronomia/03-orbity-i-predkosci-kosmiczne.md) |
-| IV.9 | Układ Słoneczny, Galaktyka, Wszechświat; jednostka astronomiczna, rok świetlny | [07.06](../modules/07-grawitacja-i-astronomia/06-elementy-astronomii.md) |
+| IV.9 | Układ Słoneczny, Galaktyka, Wszechświat; jednostka astronomiczna, rok świetlny | [07.06](../modules/07-grawitacja-i-astronomia/06-elementy-astronomii.md), [26.01](../modules/26-astrofizyka/01-promieniowanie-gwiazd.md) |
 | IV.10 | Wielki Wybuch, wiek i rozszerzanie Wszechświata, prawo Hubble'a | [24.04](../modules/24-czastki-i-kosmologia/04-wielki-wybuch.md), [07.06](../modules/07-grawitacja-i-astronomia/06-elementy-astronomii.md) |
 
 ## V. Drgania
@@ -208,7 +208,7 @@ Do egzaminu obowiązują też wymagania z fizyki w szkole podstawowej (w zasadac
 
 | Nr | Wymaganie (w skrócie) | Tematy |
 |---|---|---|
-| XI.1 | (F) promieniowanie cieplne a temperatura | [20.01](../modules/20-fizyka-kwantowa/01-cialo-doskonale-czarne.md), [11.03](../modules/11-termodynamika/03-transport-ciepla.md) |
+| XI.1 | (F) promieniowanie cieplne a temperatura | [20.01](../modules/20-fizyka-kwantowa/01-cialo-doskonale-czarne.md), [11.03](../modules/11-termodynamika/03-transport-ciepla.md), [26.01](../modules/26-astrofizyka/01-promieniowanie-gwiazd.md) |
 | XI.2 | dualizm korpuskularno-falowy światła, energia fotonu | [20.02](../modules/20-fizyka-kwantowa/02-efekt-fotoelektryczny.md), [20.04](../modules/20-fizyka-kwantowa/04-fale-materii.md) |
 | XI.3 | widma emisyjne i absorpcyjne, przejścia między poziomami | [21.01](../modules/21-fizyka-atomowa/01-model-bohra.md), [21.05](../modules/21-fizyka-atomowa/05-widma-i-promieniowanie-x.md) |
 | XI.4 | serie widmowe wodoru, różnice energii poziomów | [21.01](../modules/21-fizyka-atomowa/01-model-bohra.md) |
@@ -237,8 +237,8 @@ Do egzaminu obowiązują też wymagania z fizyki w szkole podstawowej (w zasadac
 | XII.14 | (F) zastosowania promieniotwórczości | [22.07](../modules/22-fizyka-jadrowa/07-promieniowanie-i-dawki.md) |
 | XII.15 | rozszczepienie uranu-235, reakcja łańcuchowa | [22.05](../modules/22-fizyka-jadrowa/05-rozszczepienie.md) |
 | XII.16 | (F) elektrownia jądrowa — korzyści i zagrożenia | [22.05](../modules/22-fizyka-jadrowa/05-rozszczepienie.md) |
-| XII.17 | synteza wodoru w hel jako źródło energii gwiazd | [22.06](../modules/22-fizyka-jadrowa/06-synteza.md) |
-| XII.18 | (F) ewolucja gwiazd, supernowe, czarne dziury | 26.03, 26.04, [22.06](../modules/22-fizyka-jadrowa/06-synteza.md) |
+| XII.17 | synteza wodoru w hel jako źródło energii gwiazd | [22.06](../modules/22-fizyka-jadrowa/06-synteza.md), [26.02](../modules/26-astrofizyka/02-budowa-gwiazd.md) |
+| XII.18 | (F) ewolucja gwiazd, supernowe, czarne dziury | [26.03](../modules/26-astrofizyka/03-ewolucja-gwiazd.md), [26.04](../modules/26-astrofizyka/04-czarne-dziury.md), [22.06](../modules/22-fizyka-jadrowa/06-synteza.md) |
 | XII.19 | (F) kreacja par i anihilacja | [24.01](../modules/24-czastki-i-kosmologia/01-czastki-i-prawa-zachowania.md) |
 
 Każde z 175 wymagań ma przypisany co najmniej jeden temat.

@@ -190,6 +190,5 @@ $N = (R/l)^2 \approx 5\cdot10^{23}$ kroków; czas $Nl/c \approx 5\cdot10^{23}\cd
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3 — §10.3 (rozpad promieniotwórczy); t. 2 — §2.4 (rozkład prędkości cząsteczek, losowość ruchu cieplnego).
-- B. Zglinicki, *Programowanie i metody numeryczne* (Wydział Fizyki UW) — [ćwiczenia 12: całkowanie Monte Carlo](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/12/PMN_Cwiczenia-12.pdf), po polsku.
 - Moduły 22.03 (prawo rozpadu), 11.04 (teoria kinetyczna gazów), 01.03 (niepewności).
 - M. Newman, *Computational Physics*, rozdz. 10 (procesy losowe i metody Monte Carlo) — materiał dodatkowy, po angielsku.

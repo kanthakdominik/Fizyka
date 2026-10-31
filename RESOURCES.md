@@ -44,7 +44,18 @@ W *Fizyce dla szkół wyższych* każdy rozdział kończy się stronami *Kluczow
 |---|---|---|
 | [Dokumentacja Pythona — samouczek](https://docs.python.org/pl/3/tutorial/) | Podstawy języka Python | 25 |
 | Z. Fortuna, B. Macukow, J. Wąsowski, *Metody numeryczne*, WNT/PWN | Podręcznik akademicki: błędy numeryczne, całkowanie, równania różniczkowe, aproksymacja | 25 |
-| B. Zglinicki, *Programowanie i metody numeryczne* (Wydział Fizyki UW) — ćwiczenia: [zestaw 12](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/12/PMN_Cwiczenia-12.pdf), [zestaw 14](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/14) | Zadania: całkowanie Monte Carlo, równania różniczkowe cząstkowe | 25 |
+
+## Rozszerzenia: astrofizyka, fizyka statystyczna, mechanika analityczna
+
+| Źródło | Zakres | Moduły |
+|---|---|---|
+| [*Urania — Almanach astronomiczny*: tranzyty egzoplanet](https://www.urania.edu.pl/pliki/almanach/2024/Bloki/Egzoplanety_opis.pdf) | Tranzyty egzoplanet widoczne z Polski, po polsku | 26 |
+| F. Reif, *Fizyka statystyczna* (Kurs Fizyki Berkeley, t. 5), PWN | Podręcznik fizyki statystycznej na poziomie pierwszych lat studiów | 27 |
+| K. Huang, *Podstawy fizyki statystycznej*, PWN | Wykład akademicki: zespoły statystyczne, statystyki kwantowe, przejścia fazowe | 27 |
+| [S. Charzyński, K. Turzyński, *Mechanika analityczna*, „Delta” 9/2016](https://deltami-old.mimuw.edu.pl/temat/fizyka/mechanika/2016/09/03/1609delta-mechanika-analityczna.pdf) | Popularne wprowadzenie do zasady najmniejszego działania | 28 |
+| [W. Wojtyński, *Matematyczne metody mechaniki*, skrypt MIMUW](https://mst.mimuw.edu.pl/wyklady/mmk/wyklad.pdf) | Rachunek wariacyjny, równania Lagrange'a i Hamiltona, symetrie | 28 |
+| J. R. Taylor, *Mechanika klasyczna*, PWN | Podręcznik mechaniki klasycznej z równaniami Lagrange'a i Hamiltona, wiele zadań | 28 |
+| L. D. Landau, E. M. Lifszyc, *Mechanika*, PWN | Klasyczny, zwięzły wykład mechaniki teoretycznej | 28 |
 
 ## Uzupełniające (po angielsku)
 
@@ -67,3 +78,6 @@ Materiały bez polskiego odpowiednika — do pogłębienia, nie są wymagane.
 | [CERN Open Data](https://opendata.cern.ch) | Prawdziwe dane z detektorów LHC | 24 |
 | [Planck Collaboration, *Planck 2018 results. VI. Cosmological parameters*](https://arxiv.org/abs/1807.06209) | Parametry modelu ΛCDM | 24 |
 | [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/) | Statystyka w opracowaniu pomiarów, dopasowanie modeli | 01, 25 |
+| [OpenStax, *Astronomy 2e*](https://openstax.org/details/books/astronomy-2e) | Podręcznik astronomii: gwiazdy, ewolucja, czarne dziury, egzoplanety | 26 |
+| [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) | Katalog znanych egzoplanet | 26 |
+| [The Feynman Lectures on Physics, t. II, rozdz. 19 „The Principle of Least Action”](https://www.feynmanlectures.caltech.edu/II_19.html) | Zasada najmniejszego działania (po polsku w *Feynmana wykładach z fizyki*, PWN) | 28 |

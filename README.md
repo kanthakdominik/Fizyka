@@ -80,10 +80,13 @@ W tematach 🟢 część zadań B jest opcjonalna (rozszerzenie z rachunkiem), w
 | 23 | [Fizyka ciała stałego](modules/23-fizyka-ciala-stalego) | 🔵 | Fizyka współczesna / Fizyka ciała stałego (wstęp) | ✅ pełny |
 | 24 | [Cząstki elementarne i kosmologia](modules/24-czastki-i-kosmologia) | 🟢🔵 | Fizyka współczesna — cząstki i Wszechświat | ✅ pełny |
 | 25 | [Fizyka obliczeniowa w Pythonie](modules/25-fizyka-obliczeniowa) | 🟢🔵 | Metody numeryczne / Fizyka komputerowa (wstęp) | ✅ pełny |
+| 26 | [Astrofizyka](modules/26-astrofizyka) | 🟢🔵 | Wstęp do astrofizyki / Astronomia ogólna | ✅ pełny |
+| 27 | [Fizyka statystyczna](modules/27-fizyka-statystyczna) | 🔵 | Fizyka statystyczna / Termodynamika statystyczna (wstęp) | ✅ pełny |
+| 28 | [Mechanika analityczna (wstęp)](modules/28-mechanika-analityczna) | 🔵 | Mechanika teoretyczna / klasyczna (pierwsza część) | ✅ pełny |
 
 🔲 szkielet — struktura tematów i odnośniki do podręczników · ✅ pełny — notatki, przykłady, zadania z odpowiedziami, doświadczenia, źródła
 
-Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejnością nauki: **moduł 00 (matematyka) warto przerabiać równolegle z 02–05**, a **25 (fizyka obliczeniowa) — razem z mechaniką i drganiami**. Szczegóły w [ROADMAP.md](ROADMAP.md).
+Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejnością nauki: **moduł 00 (matematyka) warto przerabiać równolegle z 02–05**, a **25 (fizyka obliczeniowa) — razem z mechaniką i drganiami**. Moduły **26–28** to rozszerzenia po głównym kursie: astrofizyka (po 07, 11, 20 i 22), fizyka statystyczna (po 11, 20 i 25) i wstęp do mechaniki analitycznej (po 06 i 09) — pomost do drugiego roku studiów. Szczegóły w [ROADMAP.md](ROADMAP.md).
 
 * * *
 

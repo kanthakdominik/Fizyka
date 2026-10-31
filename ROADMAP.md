@@ -50,6 +50,17 @@ graph TD
     M22[22 Jądro] --> M24[24 Cząstki i kosmologia]
     M00[00 Matematyka] --> M25[25 Fizyka obliczeniowa]
     M01[01 Pomiary] --> M25[25 Fizyka obliczeniowa]
+    M07[07 Grawitacja] --> M26[26 Astrofizyka]
+    M11[11 Termodynamika] --> M26[26 Astrofizyka]
+    M20[20 Kwanty] --> M26[26 Astrofizyka]
+    M22[22 Jądro] --> M26[26 Astrofizyka]
+    M11[11 Termodynamika] --> M27[27 Fizyka statystyczna]
+    M20[20 Kwanty] --> M27[27 Fizyka statystyczna]
+    M25[25 Fizyka obliczeniowa] --> M27[27 Fizyka statystyczna]
+    M00[00 Matematyka] --> M28[28 Mechanika analityczna]
+    M05[05 Pęd] --> M28[28 Mechanika analityczna]
+    M06[06 Bryła sztywna] --> M28[28 Mechanika analityczna]
+    M09[09 Drgania] --> M28[28 Mechanika analityczna]
 ```
 
 ## Trzy ścieżki nauki
@@ -63,7 +74,7 @@ Tylko tematy oznaczone 🟢 i 🟢🔵 (w tych drugich pomijasz wersję z rachun
 | Klasa 1 | 01 Pomiary, 02 Kinematyka, 03 Dynamika, 04 Energia, 05 Pęd, 08 Płyny (hydrostatyka) | Niepewności pomiarowe od pierwszego dnia |
 | Klasa 2 | 06 Bryła sztywna, 07 Grawitacja i astronomia, 09 Drgania, 11 Termodynamika, 12 Elektrostatyka | |
 | Klasa 3 | 13 Prąd stały, 14 Magnetyzm, 15 Indukcja, 10 Fale i akustyka, 17 Optyka geometryczna, 18 Optyka falowa | |
-| Klasa 4 | 20 Kwanty, 21 Atom, 19 Względność, 22 Jądro, powtórka całości | Arkusze egzaminacyjne z lat ubiegłych |
+| Klasa 4 | 20 Kwanty, 21 Atom, 19 Względność, 22 Jądro, powtórka całości; dla chętnych 26.01 i 26.03 (gwiazdy, wymaganie fakultatywne) | Arkusze CKE: [zadania przypisane do tematów](matura/README.md), [wymagania](matura/wymagania.md), [karta wzorów](matura/karta-wzorow.md) |
 
 ### Ścieżka B — fizyka na politechnice 🔵
 
@@ -74,6 +85,7 @@ Wszystkie tematy, łącznie z wersjami z rachunkiem i zadaniami B. Odpowiada typ
 | Fizyka I | 00 Matematyka, 01 Pomiary, 02–08 Mechanika, 09 Drgania, 10 Fale, 11 Termodynamika, 25 Fizyka obliczeniowa (część 1) | Całki i proste równania różniczkowe muszą być „w palcach” |
 | Fizyka II | 12–16 Elektromagnetyzm, 17–18 Optyka | Prawo Gaussa i Ampère'a wymagają całek po powierzchni i krzywej |
 | Fizyka III / współczesna | 19 Względność, 20 Kwanty, 21 Atom, 22 Jądro, 23 Ciało stałe, 24 Cząstki i kosmologia, 25 (część 2) | Na wielu kierunkach skrócona do wybranych tematów |
+| Rozszerzenia (2. rok) | 26 Astrofizyka, 27 Fizyka statystyczna, 28 Mechanika analityczna | Wstęp do przedmiotów drugiego roku fizyki: mechaniki teoretycznej, fizyki statystycznej i astrofizyki |
 
 ### Ścieżka C — most: po maturze, przed politechniką 🟢 → 🔵
 
@@ -116,7 +128,10 @@ Szacunki dla osoby uczącej się od zera na poziomie 🔵. Ścieżka A (tylko ma
 | 23 Fizyka ciała stałego | 20–35 | 8–21 |
 | 24 Cząstki elementarne i kosmologia | 15–25 | 6–15 |
 | 25 Fizyka obliczeniowa w Pythonie | 30–50 | 12–30 |
-| **Razem** | **~660–1095** | **~264–657** |
+| 26 Astrofizyka | 20–35 | 8–21 |
+| 27 Fizyka statystyczna | 20–35 | 8–21 |
+| 28 Mechanika analityczna (wstęp) | 20–35 | 8–21 |
+| **Razem** | **~720–1200** | **~288–720** |
 
 ## Przykładowy rytm tygodnia (10–12 h, 4 sesje)
 
@@ -144,3 +159,6 @@ Dla 5–6 h tygodniowo: połącz sesje 1+2, doświadczenie rób co dwa tygodnie.
 - [ ] Liczę obrazy w układach optycznych i widma interferencyjne (17–18).
 - [ ] Rozwiązuję zadania z dylatacji czasu, energii relatywistycznej, fotoefektu i rozpadu promieniotwórczego (19–22).
 - [ ] Symuluję numerycznie ruch, którego nie da się policzyć analitycznie (25).
+- [ ] Odczytuję z promieniowania gwiazd ich temperaturę, moc i promień, opisuję ewolucję gwiazd i metody wykrywania egzoplanet (26).
+- [ ] Wyprowadzam entropię, rozkład Boltzmanna i ciepło właściwe z liczenia stanów; symuluję przejście fazowe (27).
+- [ ] Wyprowadzam równania ruchu z lagranżjanu, znajduję wielkości zachowane i mody normalne (28).

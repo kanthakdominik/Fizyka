@@ -36,7 +36,6 @@ Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
 | [`scipy.optimize.curve_fit`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html) | temat 25.04 (materiał dodatkowy, po angielsku) |
 | [Dokumentacja Pythona — samouczek](https://docs.python.org/pl/3/tutorial/) | podstawy języka, po polsku |
 | Z. Fortuna, B. Macukow, J. Wąsowski, *Metody numeryczne*, WNT/PWN | podręcznik akademicki: błędy, całkowanie, równania różniczkowe, aproksymacja |
-| B. Zglinicki, *Programowanie i metody numeryczne* (Wydział Fizyki UW) — ćwiczenia: [zestaw 12 (Monte Carlo)](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/12/PMN_Cwiczenia-12.pdf), [zestaw 14 (równania cząstkowe)](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/14) | zadania z metod numerycznych, po polsku |
 | [M. Newman, *Computational Physics* — rozdziały przykładowe](https://websites.umich.edu/~mejn/cp/chapters.html) | Python dla fizyka, dokładność obliczeń, całki i pochodne (materiał dodatkowy, po angielsku) |
 | Dokumentacja [NumPy](https://numpy.org/doc/stable/), [SciPy](https://docs.scipy.org/doc/scipy/) i [Matplotlib](https://matplotlib.org/stable/) | opis funkcji (po angielsku) |
 

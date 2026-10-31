@@ -194,6 +194,5 @@ Krok aktualizacji: `V = 0.25*(sąsiedzi) + 0.25*src`. Wykres $V$ od $\ln r$ w po
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 2 — §7.4 (obliczanie natężenia na podstawie potencjału) i §7.5 (powierzchnie ekwipotencjalne i przewodniki).
 - Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015, t. 3 — §24.2 (powierzchnie ekwipotencjalne) i §24.6 (natężenie pola z potencjału).
-- B. Zglinicki, *Programowanie i metody numeryczne* (Wydział Fizyki UW) — [zestaw 14: równania różniczkowe cząstkowe](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/14), po polsku.
 - Moduły 12.05 (potencjał) i 11.03 (transport ciepła).
 - Symulacja PhET *Ładunki i pola*.
