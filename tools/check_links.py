@@ -90,4 +90,8 @@ for o in ostrzezenia:
 for b in bledy:
     print("BŁĄD", b)
 print(f"adresy zewnętrzne: {len(zewnetrzne)}, błędy: {len(bledy)}, ostrzeżenia: {len(ostrzezenia)}")
+if os.environ.get("GITHUB_ACTIONS"):                               # zbiorcze adnotacje widoczne w podsumowaniu przebiegu
+    for rodzaj, lista in (("error", bledy), ("warning", ostrzezenia)):
+        if lista:
+            print(f"::{rodzaj} title=Odnośniki ({len(lista)})::" + "%0A".join(lista))
 sys.exit(1 if bledy else 0)
