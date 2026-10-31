@@ -174,6 +174,12 @@ $\rho gL + 200\ \mathrm{MPa} \le 500\ \mathrm{MPa} \Rightarrow L \le \dfrac{3\cd
 Szeregowo (ta sama siła): aluminiowy ok. $200/70 \approx 2{,}9$ razy bardziej. Równolegle (to samo wydłużenie): siły proporcjonalne do $E$ — stalowy przenosi ok. 74% siły.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2026, zad. 3.1 — siła w równowadze bloczka z ciężarkiem ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 12 — §12.1–12.2 (warunki i przykłady równowagi statycznej), §12.3–12.4 (naprężenie, odkształcenie, sprężystość i plastyczność).

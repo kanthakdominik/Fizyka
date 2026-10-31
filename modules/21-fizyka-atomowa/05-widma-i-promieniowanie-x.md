@@ -102,7 +102,7 @@ plt.plot(lam, I); plt.xlabel("λ [nm]"); plt.ylabel("natężenie (wzgl.)"); plt.
 
 ## Zadania
 
-### A. Poziom maturalny _(opcjonalnie — rozgrzewka)_
+### A. Poziom maturalny
 
 1. Jakie napięcie trzeba przyłożyć do lampy rentgenowskiej, żeby granica krótkofalowa wynosiła 0,0124 nm?
 

@@ -154,6 +154,13 @@ $mv^2 = ke^2/r$ i $v = n\hbar/(mr)$ dają $r = n^2\hbar^2/(mke^2)$. $E = \tfrac1
 $E \propto \mu$, więc $\lambda$ rośnie o czynnik $1 + m_e/m_p$, czyli o ok. 0,054% (0,36 nm). Dla deuteru $m_e/m_D$ jest dwa razy mniejsze, więc linia D jest krótsza o ok. 0,18 nm. Tę różnicę zaobserwował Urey.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2025, zad. 11.1 — emisja i absorpcja fotonu przez atom ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2025, zad. 11.2 — różnice energii poziomów atomu wodoru ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 6 — §6.4: model atomu wodoru Bohra.

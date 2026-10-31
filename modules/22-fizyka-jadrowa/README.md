@@ -34,6 +34,8 @@ Opisywać budowę i energię wiązania jąder, rozpady promieniotwórcze i prawo
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 5, rozdz. 43 (od s. 203) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 43 „Fizyka jądrowa”, od s. 135](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=151) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 44 „Energia jądrowa”, od s. 170](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=186) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Rozpraszanie Rutherforda* (22.01); *Rozpad alfa* (22.03); *Rozszczepienie jądra* (22.04, 22.05) |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 22.02, 22.03, 22.04 |
 
 ## Test wejściowy (diagnoza)
 

@@ -37,6 +37,9 @@ Przenieść dynamikę na ruch obrotowy: moment bezwładności liczony całką, m
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 11 „Obroty”, od s. 260](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=272) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 12 „Toczenie się ciał, moment siły i moment pędu”, od s. 297](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=309) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 13 „Równowaga i sprężystość”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=18) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Prawo dźwigni* (06.03, 06.07) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 06.01, 06.05, 06.06 |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 06.02, 06.03, 06.04, 06.05, 06.07 |
 
 ## Test wejściowy (diagnoza)
 

@@ -152,6 +152,13 @@ $P/V = I^2R/(AL) = I^2\rho L/(A\cdot AL) = (I/A)^2\rho = J^2\rho$, a $J = \sigma
 $10\cdot8760 = 87{,}6\ \mathrm{kWh} \approx 315\ \mathrm{MJ}$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 8.2 — temperatura włókna żarówki 60 W / 230 V ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2024, zad. 7.2 — moc wydzielana na oporniku po przerwaniu gałęzi ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 9 — §9.5: energia elektryczna i moc.

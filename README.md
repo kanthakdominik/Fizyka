@@ -11,7 +11,7 @@ Zasady:
 
 - **Notatki, przykłady i zadania** są napisane po polsku (treść własna repozytorium).
 - **Źródła zewnętrzne są polskie**: dwa podręczniki powyżej, materiały CKE do matury, polskie wersje symulacji. Kilka materiałów uzupełniających, które nie mają polskiego odpowiednika, jest wyraźnie oznaczonych jako anglojęzyczne.
-- Linki były sprawdzane przy dodawaniu. Jeśli któryś przestanie działać, zgłoś to w Issues.
+- Linki są sprawdzane automatycznie raz w tygodniu. Jeśli któryś przestanie działać, zgłoś to w Issues.
 
 * * *
 
@@ -19,6 +19,7 @@ Zasady:
 
 1. Przeczytaj [ROADMAP.md](ROADMAP.md) — kolejność modułów, zależności, trzy ścieżki nauki (matura, politechnika, most między nimi) i szacowany czas.
 2. Przejrzyj [RESOURCES.md](RESOURCES.md) — podręczniki, materiały maturalne i symulacje, do których odwołują się moduły.
+   Przed maturą: [matura/](matura/README.md) — zadania z arkuszy CKE przypisane do tematów, [wymagania egzaminacyjne → tematy](matura/wymagania.md) i [karta wzorów → tematy](matura/karta-wzorow.md).
 3. Zainstaluj narzędzia z [TOOLS.md](TOOLS.md) (wszystkie darmowe; do doświadczeń wystarczy smartfon).
 4. Przerabiaj moduły po kolei. Każdy temat ma ten sam układ (pełny opis w [docs/SZABLON-TEMATU.md](docs/SZABLON-TEMATU.md)):
 
@@ -43,6 +44,8 @@ Zasady:
 | 🟢 | Zakres matury rozszerzonej — bez pochodnych i całek |
 | 🔵 | Zakres pierwszego roku studiów — z rachunkiem różniczkowym i całkowym |
 | 🟢🔵 | Temat maturalny, który na studiach jest pogłębiany i wyprowadzany z użyciem rachunku |
+
+W tematach 🟢 część zadań B jest opcjonalna (rozszerzenie z rachunkiem), w tematach 🔵 opcjonalna jest część A (rozgrzewka). W tematach 🟢🔵 obie części są podstawowe: A dla ścieżki maturalnej, B dla akademickiej.
 
 * * *
 
@@ -95,6 +98,7 @@ Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejno�
 ## Sprawdzanie materiałów
 
 - **Kod w Pythonie** z wszystkich plików `.md` uruchamia skrypt [tools/check_snippets.py](tools/check_snippets.py) (pomija bloki wymagające SymPy lub danych z zewnątrz).
+- **Odnośniki** sprawdza skrypt [tools/check_links.py](tools/check_links.py): przy każdym pushu odnośniki wewnętrzne i numery stron w PDF-ach z serwera AGH, a raz w tygodniu także wszystkie linki zewnętrzne ([konfiguracja](.github/workflows/links.yml)).
 - Sprawdzenie wykonuje automatycznie GitHub Actions przy każdym pushu ([konfiguracja](.github/workflows/checks.yml)) — wynik w zakładce *Actions*.
 - Wzory są pisane pod renderer GitHuba (MathJax): przecinek dziesiętny jako `{,}` (np. `9{,}81`), w tabelach `\lvert … \rvert` zamiast `|`, wektory jako `\vec{v}` lub `\mathbf{F}`.
 

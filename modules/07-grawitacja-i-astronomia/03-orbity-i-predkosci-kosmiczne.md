@@ -173,6 +173,12 @@ $\Delta E = \dfrac{GMm}{2r^2}\Delta r \Rightarrow \Delta r = \dfrac{2r^2\Delta E
 Na GEO: ok. 24,7 GJ. Z powierzchni na orbitę 400 km: $E_{\text{orb}} - E_{\text{pow}} = -\dfrac{GMm}{2r} + \dfrac{GMm}{R} \approx 33{,}1\ \mathrm{GJ}$ (bez prędkości obrotu Ziemi).
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 5.4 — wyprowadzenie stosunku mas dla orbit kołowych ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 13 — §13.4: orbity satelitów i ich energia.

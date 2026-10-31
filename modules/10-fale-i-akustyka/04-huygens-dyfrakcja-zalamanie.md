@@ -165,6 +165,15 @@ $\sin\theta_2 = \sin10^\circ\cdot1480/343 \approx 0{,}75$, więc $\theta_2 \appr
 Wyżej powietrze jest cieplejsze, więc dźwięk biegnie tam szybciej. Górna część czoła fali wyprzedza dolną, czoło obraca się, a promienie zakrzywiają się w dół, z powrotem ku powierzchni wody, zamiast uciekać w górę.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2025, zad. 3.1 — odbicie i załamanie fali na granicy ośrodków ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2025, zad. 3.2 — prawo załamania, kąt graniczny (temat pomocniczy) ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2026, zad. 4.3 — powierzchnie falowe za wąską szczeliną (dyfrakcja) ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+- Maj 2026, zad. 4.4 — kierunek i długość fali po przejściu do innego ośrodka ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 1 — §1.6: zasada Huygensa (dla światła, ta sama konstrukcja co dla fal mechanicznych).

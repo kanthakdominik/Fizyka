@@ -141,6 +141,13 @@ $n_1\sin\theta_B = n_2\sin(90^\circ - \theta_B) = n_2\cos\theta_B \Rightarrow \t
 $I_{\max} = I_n/2 + I_p$, $I_{\min} = I_n/2$. $3I_n/2 = I_n/2 + I_p \Rightarrow I_p = I_n$, stopień polaryzacji 50%.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2025, zad. 9.1 — fala elektromagnetyczna i polaryzacja (temat pomocniczy) ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2025, zad. 9.2 — natężenie światła po dwóch polaryzatorach ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 1 — §1.7: polaryzacja.

@@ -117,7 +117,7 @@ plt.xlabel("t [ms]"); plt.ylabel("obsadzenie"); plt.legend(); plt.grid(True); pl
 
 ## Zadania
 
-### A. Poziom maturalny _(opcjonalnie — rozgrzewka)_
+### A. Poziom maturalny
 
 1. Czym różni się emisja wymuszona od spontanicznej?
 

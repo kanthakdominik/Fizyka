@@ -180,6 +180,18 @@ $N_{\mathrm{Pb}}/N_{\mathrm U} = e^{\lambda t} - 1 = 0{,}9 \Rightarrow t = \dfra
 Wtedy $e^{-\lambda_Bt} \to 0$, a $\lambda_B - \lambda_A \approx \lambda_B$, więc $N_B \approx N_{A0}\dfrac{\lambda_A}{\lambda_B}e^{-\lambda_At} = \dfrac{\lambda_A}{\lambda_B}N_A$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 11.2 — pierwiastek po sześciu rozpadach α ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2024, zad. 11.1 — czas połowicznego rozpadu fluoru-18 z wykresu ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 11.2 — równanie rozpadu β⁺ ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2025, zad. 12.1 — rozpad α plutonu-238 ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2025, zad. 12.3 — czas połowicznego rozpadu z mocy cieplnej źródła ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2026, zad. 11.1 — równanie rozpadu β⁻ neonu-23 ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+- Maj 2026, zad. 11.3 — czas połowicznego rozpadu z wykresu log m(t) ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 10 — §10.3: rozpady promieniotwórcze.

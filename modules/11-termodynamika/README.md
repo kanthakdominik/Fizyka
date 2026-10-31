@@ -39,6 +39,8 @@ Bilansować energię w procesach cieplnych, łączyć mikroskopowy model gazu z 
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 19 „Temperatura, ciepło i pierwsza zasada termodynamiki”, od s. 188](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=204) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 20 „Kinetyczna teoria gazów”, od s. 225](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=241) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 21 „Entropia i druga zasada termodynamiki”, od s. 260](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=276) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Stany skupienia* (11.02); *Formy energii i jej przemiany* (11.03); *Właściwości gazu* (11.04, 11.05) |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 11.04, 11.05, 11.06 |
 
 ## Test wejściowy (diagnoza)
 

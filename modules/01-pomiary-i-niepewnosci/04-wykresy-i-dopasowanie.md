@@ -196,6 +196,12 @@ $\dfrac{d}{da}\sum(y_i - ax_i)^2 = -2\sum x_i(y_i - ax_i) = 0 \Rightarrow a = \d
 Dopasować $\ln N = \ln N_0 - \lambda t$. Niepewność $\ln N$ to $u(N)/N = 1/\sqrt{N}$, więc waga punktu (odwrotność kwadratu niepewności) to $N$ — punkty z dużą liczbą zliczeń są pewniejsze.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2026, zad. 11.3 — czas połowicznego rozpadu z wykresu log m(t) (temat pomocniczy) ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 1 — §1.6 (precyzja i dokładność); przykłady odczytu nachylenia w rozdz. 3.

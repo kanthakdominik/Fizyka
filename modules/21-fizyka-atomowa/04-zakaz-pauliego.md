@@ -126,7 +126,7 @@ print("niesparowane w 3d⁶ (Fe):", niesparowane(3, 2, 6))
 Neon ma zamkniętą powłokę 2s² 2p⁶, której nie opłaca się ani zrywać, ani rozszerzać. Fluorowi brakuje jednego elektronu do takiej konfiguracji i silnie go przyciąga.
 </details>
 
-### B. Poziom akademicki _(opcjonalnie — rozszerzenie z rachunkiem)_
+### B. Poziom akademicki
 
 1. Pokaż, że $\sum_{l=0}^{n-1}2(2l + 1) = 2n^2$.
 

@@ -155,6 +155,12 @@ Odbicie od lustra prostopadłego do osi $x$ zmienia znak składowej $d_x$, i ana
 $d = ct/2 \approx 384\,000\ \mathrm{km}$. $\Delta t = 2\cdot0{,}01/c \approx 67\ \mathrm{ps}$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 9.1 — bieg promienia odbitego i załamanego w krążku szklanym (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 1 — §1.1 (rozchodzenie się światła) i §1.2 (prawo odbicia).

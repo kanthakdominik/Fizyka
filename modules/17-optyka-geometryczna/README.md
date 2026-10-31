@@ -33,6 +33,8 @@ Konstruować i liczyć obrazy w zwierciadłach i soczewkach, stosować prawo za�
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 4, rozdz. 34 (od s. 49) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 34 „Fale elektromagnetyczne”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=17) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 35 „Obrazy”, od s. 41](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=56) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Załamanie światła* (17.01, 17.02, 17.03); *Optyka geometryczna* (17.04, 17.05, 17.06) |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 17.01, 17.02, 17.05, 17.06 |
 
 ## Test wejściowy (diagnoza)
 

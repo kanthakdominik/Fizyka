@@ -172,6 +172,16 @@ $\Delta f \approx 2uf/v \approx 3{,}2\ \mathrm{kHz}$. Leży w zakresie słyszaln
 $\dfrac{v + v_o}{v - v_s} = \left(1 + \dfrac{v_o}{v}\right)\left(1 - \dfrac{v_s}{v}\right)^{-1} \approx 1 + \dfrac{v_o + v_s}{v}$, a $u = v_o + v_s$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 4.2 — częstotliwość sygnału od oddalającej się sondy (efekt Dopplera) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2023, zad. 4.3 — długości fali w układzie sondy i Ziemi ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2023, zad. 4.4 — prędkość sondy z przesunięcia częstotliwości ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2024, zad. 4.1 — częstotliwość syreny odjeżdżającej karetki (efekt Dopplera) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 4.2 — prędkość karetki ze stosunku długości fal ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 17 — §17.7 (efekt Dopplera) i §17.8 (fale uderzeniowe).

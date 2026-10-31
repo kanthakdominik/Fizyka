@@ -31,6 +31,7 @@ Rozumieć konsekwencje postulatów Einsteina: względność równoczesności, dy
 | [OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 5](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3/pages/5-wstep) | tekst główny, pytania, zadania z odpowiedziami |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 4, rozdz. 37 (od s. 187) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 38 „Teoria względności”, od s. 146](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=161) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 19.01, 19.04, 19.05 |
 
 ## Test wejściowy (diagnoza)
 

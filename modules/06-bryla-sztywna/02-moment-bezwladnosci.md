@@ -177,6 +177,13 @@ $I = \sigma\displaystyle\int_{-a/2}^{a/2}\!\int_{-b/2}^{b/2}(x^2 + y^2)\,dy\,dx 
 $M = \lambda_0L/2$, $I = \displaystyle\int_0^Lx^2\frac{\lambda_0x}{L}dx = \frac{\lambda_0L^3}{4} = \frac{ML^2}{2}$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 3.2 — przyspieszenie ciężarka na lince nawiniętej na walec (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2025, zad. 2.1 — walce: momenty bezwładności, energie i prędkości ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 10 — §10.4 (moment bezwładności i energia ruchu obrotowego) i §10.5 (obliczanie momentu bezwładności, twierdzenie Steinera).

@@ -191,6 +191,13 @@ $\alpha \approx 40{,}3^\circ$; zasięg ok. $12{,}03\ \mathrm{m}$ wobec $11{,}91\
 Warunek $y/x = -\tan\beta$: $\dfrac{gt^2/2}{v_0t} = \tan\beta \Rightarrow t = \dfrac{2v_0\tan\beta}{g}$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2025, zad. 1.1 — rzut poziomy jako złożenie ruchów ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2025, zad. 1.2 — dwie kulki w polu grawitacyjnym — prędkość początkowa ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 4 — §4.3: rzuty, z przykładami i zadaniami.

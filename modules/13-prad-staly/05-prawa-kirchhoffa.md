@@ -171,6 +171,13 @@ Suma spadków napięć to całka z $\vec E$ po zamkniętej drodze, a dla pola za
 Z symetrii prąd $I$ dzieli się na 3, potem każda część na 2 (6 krawędzi po $I/6$), potem łączy w 3. Spadek: $\dfrac I3R + \dfrac I6R + \dfrac I3R = \dfrac56IR$, więc $R_{\text{ekw}} = \tfrac56R$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 7.1 — prądy i napięcia w obwodzie prądu stałego ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 7.3 — stosunek wskazań amperomierza przed przerwą i po niej ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 10 — §10.3 (prawa Kirchhoffa) i §10.4 (mierniki elektryczne).

@@ -159,6 +159,13 @@ $v_{\text{id}} = \sqrt{gR\tan\theta} \approx 16{,}2\ \mathrm{m/s}$; $v_{\max} = 
 $v_g^2 = v_d^2 - 4gR \ge gR \Rightarrow v_d^2 \ge 5gR$. $T_d - T_g = \left(mg + \dfrac{mv_d^2}{R}\right) - \left(\dfrac{mv_g^2}{R} - mg\right) = 2mg + \dfrac{m\cdot4gR}{R} = 6mg$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2026, zad. 2.2 — siły działające na kulkę w najniższym położeniu ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+- Maj 2026, zad. 2.3 — stosunek największej i najmniejszej siły naciągu nici ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 6 — §6.3: siła dośrodkowa, zakręty płaskie i wyprofilowane.

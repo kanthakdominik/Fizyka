@@ -146,6 +146,13 @@ $\tfrac12k(x_0 + y)^2 - mg(x_0 + y) = \tfrac12ky^2 + (kx_0 - mg)y + \text{const}
 $m\dot{x}\ddot{x} + kx\dot{x} = 0 \Rightarrow m\ddot{x} = -kx$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 3.1 — siły, energia i przyspieszenie w oscylatorze sprężynowym (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 3.3 — siła sprężystości w najniższym położeniu drgającego ciała (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 15 — §15.2: energia w ruchu harmonicznym.

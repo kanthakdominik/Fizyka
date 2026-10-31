@@ -171,6 +171,12 @@ $Q_H = nC_V(T_3 - T_2)$, $Q_C = nC_V(T_4 - T_1)$. Z adiabat $T_2 = T_1r^{\gamma-
 $\text{COP}_C = 308/45 \approx 6{,}8$. Rzeczywista pompa osiąga ok. 40% tej wartości i zużywa 3 razy mniej prądu niż grzałka.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 8.1 — ciepło pobrane z grzejnicy w cyklu ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 4 — §4.1 (procesy odwracalne i nieodwracalne), §4.2 (silniki cieplne), §4.3 (chłodziarki i pompy ciepła), §4.4 (sformułowania II zasady), §4.5 (cykl Carnota).

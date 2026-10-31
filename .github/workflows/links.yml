@@ -1,0 +1,20 @@
+name: Odnośniki zewnętrzne
+
+# Raz w tygodniu (i na żądanie) sprawdza, czy wszystkie linki zewnętrzne działają.
+# Błąd = strona nie istnieje (404/410, brak domeny). Chwilowe problemy serwerów są tylko ostrzeżeniami.
+on:
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+jobs:
+  links:
+    name: Sprawdzenie linków
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Odnośniki lokalne i zewnętrzne
+        run: python tools/check_links.py .

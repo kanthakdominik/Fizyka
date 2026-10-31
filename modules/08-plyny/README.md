@@ -28,6 +28,8 @@ Liczyć ciśnienie i wypór w cieczach w spoczynku oraz opisywać przepływ rów
 | [OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 14](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/14-wstep) | tekst główny, pytania, zadania z odpowiedziami |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 2, rozdz. 14 (od s. 78) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 15 „Płyny”, od s. 61](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=77) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Pod ciśnieniem* (08.01); *Siła wyporu* (08.02); *Ciśnienie cieczy i przepływ* (08.03) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenie w temacie 08.01 |
 
 ## Test wejściowy (diagnoza)
 

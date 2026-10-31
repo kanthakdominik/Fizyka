@@ -31,6 +31,9 @@ Opisywać pole grawitacyjne i ruch po orbitach: natężenie i potencjał, prędk
 | [OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 13](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/13-wstep) | tekst główny, pytania, zadania z odpowiedziami |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 2, rozdz. 13 (od s. 36) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 14 „Grawitacja”, od s. 28](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=44) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Laboratorium sił grawitacji* (07.01); *Grawitacja i orbity* (07.02, 07.03); *Prawa Keplera* (07.04) |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 07.01, 07.02, 07.03, 07.04, 07.06 |
+| [Stellarium](https://stellarium.org/) | temat 07.06 |
 
 ## Test wejściowy (diagnoza)
 

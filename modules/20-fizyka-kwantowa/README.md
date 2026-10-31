@@ -36,6 +36,8 @@ Zrozumieć, dlaczego fizyka klasyczna zawodzi w mikroświecie: fotony, fale mate
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 5, rozdz. 39 (od s. 45) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 39 „Fotony i fale materii”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=18) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 40 „Jeszcze o falach materii”, od s. 34](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=50) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Widmo ciała doskonale czarnego* (20.01); *Efekt fotoelektryczny* (20.02); *Interferencja kwantowa* (20.04, 20.05); *Stany związane kwantowe* (20.06); *Tunelowanie kwantowe i paczki falowe* (20.07) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenie w temacie 20.05 |
 
 ## Test wejściowy (diagnoza)
 

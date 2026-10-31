@@ -168,6 +168,13 @@ $\tau_{\max} = pE = 6{,}2\cdot10^{-24}\ \mathrm{N\cdot m}$, $\Delta U = 2pE \app
 $I\ddot\theta = -pE\sin\theta \approx -pE\theta$, więc $T = 2\pi\sqrt{I/(pE)}$, jak wahadło (09.03).
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 6 — natężenie pola układu ładunków w środku kwadratu ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2026, zad. 7.2 — natężenie pola układu ładunków w punkcie P ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 5 — §5.4 (pole elektryczne), §5.6 (linie pola), §5.7 (dipole elektryczne).

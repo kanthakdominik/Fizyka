@@ -141,7 +141,7 @@ $v = 3\ \mathrm{m/s}$; $E_{\text{kuli}} = 450\ \mathrm{kJ}$, $E_{\text{działa}}
 $v = 20\cdot2/50 = 0{,}8\ \mathrm{m/s}$.
 </details>
 
-### B. Poziom akademicki
+### B. Poziom akademicki _(opcjonalnie — rozszerzenie z rachunkiem)_
 
 1. Człowiek o masie 60 kg przechodzi z rufy na dziób łodzi o masie 120 kg i długości 4 m. Łódź jest początkowo nieruchoma, opór wody pomijamy. O ile przesunie się łódź względem brzegu?
 
@@ -166,6 +166,12 @@ $\vec{v}_3 = -(10,\ 10)\ \mathrm{m/s}$: wartość $14{,}1\ \mathrm{m/s}$ na poł
 
 Pędy równe: $E_{\text{odrz}} = \dfrac{p^2}{2(M - m)} = E_\alpha\dfrac{m}{M - m}$. Dla rozpadu uranu-238 to ok. 1,7% energii cząstki alfa.
 </details>
+
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2025, zad. 12.2 — stosunek energii kinetycznych jądra i cząstki α (zasada zachowania pędu) (temat pomocniczy) ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
 
 ## Źródła
 

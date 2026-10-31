@@ -163,6 +163,12 @@ Niech $u = x - vt$. Wtedy $\partial^2y/\partial x^2 = f''(u)$ i $\partial^2y/\pa
 $y = \dfrac{0{,}1}{1 + 4(x + 2t)^2}$. Dla $t = 0$: $\partial y/\partial t = -\dfrac{0{,}1\cdot16(x + 2t)}{[1 + 4(x + 2t)^2]^2} = -\dfrac{0{,}8}{4} = -0{,}2\ \mathrm{m/s}$, czyli w dół.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2026, zad. 4.1 — częstotliwość fali ultradźwiękowej z odległości powierzchni falowych ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 16 — §16.1 (fale biegnące) i §16.2 (matematyczny opis fal).

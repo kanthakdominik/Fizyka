@@ -174,6 +174,15 @@ $D = x + y = x + \dfrac{xf}{x - f}$. $dD/dx = 1 - \dfrac{f^2}{(x - f)^2} = 0 \Ri
 $x + y = D$ i $1/x + 1/y = 1/f$ dają $x^2 - Dx + Df = 0$, z pierwiastkami $x_{1,2} = \dfrac{D \pm\sqrt{D^2 - 4Df}}{2}$. Różnica $d = \sqrt{D^2 - 4Df}$, stąd $f = (D^2 - d^2)/(4D)$. Metoda nie wymaga znajomości położenia środka soczewki.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 9.1 — szerokość wiązki po przejściu przez układ dwóch soczewek ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 9.2 — położenie soczewki skupiającej i bieg promieni w układzie soczewek ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2025, zad. 7.1 — soczewki: równanie soczewki, ogniskowa ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2025, zad. 7.2 — konstrukcja obrazu w soczewce, obliczenia ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 2 — §2.3 (załamanie na powierzchni sferycznej) i §2.4 (soczewki cienkie).

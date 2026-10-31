@@ -31,7 +31,15 @@ Każdy plik tematu w `modules/NN-nazwa/` ma ten sam układ. Ten dokument opisuje
 | **Zadania** | **A. Poziom maturalny** (3–6 zadań), **B. Poziom akademicki** (3–6 zadań z pochodną, całką lub równaniem różniczkowym) | Odpowiedzi pod `<details>`; zadania własne, nie kopiowane z arkuszy i podręczników |
 | **Źródła** | Konkretne paragrafy i strony, symulacje, zadania maturalne CKE | Źródła polskie; anglojęzyczne tylko jako uzupełnienie, z oznaczeniem |
 
-Dla tematów 🟢 część B jest opcjonalna, dla tematów 🔵 — część A.
+Reguła oznaczania części opcjonalnych (jednakowa we wszystkich tematach):
+
+| Poziom tematu | Część A | Część B |
+|---|---|---|
+| 🟢 | obowiązkowa | `_(opcjonalnie — rozszerzenie z rachunkiem)_` |
+| 🔵 | `_(opcjonalnie — rozgrzewka)_` | obowiązkowa |
+| 🟢🔵 | obowiązkowa na ścieżce maturalnej | obowiązkowa na ścieżce akademickiej |
+
+W tematach 🟢🔵 żadna część nie jest oznaczona jako opcjonalna: osoba przygotowująca się do matury robi A, osoba na studiach — obie.
 
 ## Format odpowiedzi do zadań
 

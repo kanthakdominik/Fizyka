@@ -160,6 +160,13 @@ $F = \displaystyle\int_a^{a+L}\frac{kq(Q/L)\,dx}{x^2} = \frac{kqQ}{L}\left(\frac
 1 g wody to $1/18$ mola, a cząsteczka ma 10 elektronów: $N \approx 3{,}3\cdot10^{23}$, $q \approx 5{,}4\cdot10^4\ \mathrm C$. Siła $kq^2 \approx 2{,}6\cdot10^{19}\ \mathrm N$, czyli tyle, ile ważyłaby na Ziemi skalista planetoida o średnicy ok. 130 km. Materia jest neutralna z ogromną dokładnością.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 6 — natężenie pola układu ładunków w środku kwadratu (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2026, zad. 7.1 — kierunek wypadkowej siły elektrycznej na ładunek ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 5 — §5.1 (ładunek elektryczny), §5.2 (przewodniki, izolatory i elektryzowanie przez indukcję), §5.3 (prawo Coulomba).

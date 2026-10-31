@@ -171,6 +171,14 @@ $\omega = 20/5 = 4\ \mathrm{rad/s}$; $E$ z 100 J spada do 40 J — strata 60 J (
 $mvr = \text{const} \Rightarrow v = 4\ \mathrm{m/s}$; praca $= \tfrac12m(16 - 4) = 6m$ (J, dla $m$ w kg).
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 5.2 — stosunek prędkości w peryhelium i aphelium (II prawo Keplera) (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2025, zad. 5.2 — II prawo Keplera jako zasada zachowania momentu pędu (temat pomocniczy) ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2026, zad. 5.4 — prędkość planetoidy w aphelium (temat pomocniczy) ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 11 — §11.2 (moment pędu) i §11.3 (zasada zachowania momentu pędu).

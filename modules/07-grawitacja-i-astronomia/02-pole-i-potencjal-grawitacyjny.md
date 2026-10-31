@@ -174,6 +174,12 @@ $v = \sqrt{v_\infty^2 + v_{II}^2} = \sqrt{25 + 125{,}4} \approx 12{,}3\ \mathrm{
 Słońce: ok. 3 km; Ziemia: ok. 9 mm. (Poprawny wynik daje dopiero ogólna teoria względności, ale wzór wychodzi ten sam.)
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 5.2 — punkt między Ziemią a Księżycem, w którym siły się równoważą (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 13 — §13.3: energia potencjalna i całkowita w polu grawitacyjnym, prędkość ucieczki.

@@ -170,6 +170,12 @@ $Z = 1/x + 1/y$, a odległość siatkówki od soczewki ($y$) się nie zmienia. D
 Z olejkiem $\mathrm{NA} = 1{,}52\cdot0{,}92 = 1{,}40$, $d \approx 240\ \mathrm{nm}$. W powietrzu $\mathrm{NA} = 0{,}92$, $d \approx 365\ \mathrm{nm}$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 9.1 — szerokość wiązki po przejściu przez układ dwóch soczewek (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 2 — §2.5 (oko), §2.6 (aparat fotograficzny), §2.7 (lupa), §2.8 (mikroskopy i teleskopy).

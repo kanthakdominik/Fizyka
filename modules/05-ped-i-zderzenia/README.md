@@ -30,6 +30,9 @@ Opisywać układy wielu ciał: popęd, zasada zachowania pędu, zderzenia w 1D i
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 1, rozdz. 9 (od s. 271) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 9 „Układy cząstek”, od s. 204](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=216) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 10 „Zderzenia”, od s. 234](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=246) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Laboratorium zderzeń* (05.02, 05.03); *Prawo dźwigni* (05.04) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 05.01, 05.03 |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 05.02, 05.03, 05.04 |
 
 ## Test wejściowy (diagnoza)
 

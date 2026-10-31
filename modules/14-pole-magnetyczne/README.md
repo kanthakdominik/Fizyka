@@ -38,6 +38,9 @@ Liczyć siły działające na ładunki i przewodniki w polu magnetycznym oraz po
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 29 „Pole magnetyczne”, od s. 185 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 30 „Pole magnetyczne wywołane przepływem prądu”, od s. 219 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 32 „Magnetyzm materii; równania Maxwella”, od s. 290 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Magnes i kompas* (14.01); *Laboratorium elektromagnetyczne Faradaya* (14.02, 14.04, 14.06); *Magnesy i elektromagnesy* (14.07) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 14.01, 14.03 |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 14.01, 14.04 |
 
 ## Test wejściowy (diagnoza)
 

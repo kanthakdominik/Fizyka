@@ -127,6 +127,12 @@ Wzdłuż: $\dfrac{L}{c - v} + \dfrac{L}{c + v} = \dfrac{2Lc}{c^2 - v^2}$. Prosto
 $\lvert\Delta t'\rvert = \gamma v\Delta x/c^2 = 1{,}155\cdot0{,}5\cdot10^3/c \approx 1{,}9\ \mu\mathrm s$. Pierwszy był piorun od strony przodu pociągu (w kierunku ruchu).
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 4.1 — prędkość fali elektromagnetycznej od poruszającej się sondy ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 5 — §5.1 (niezmienniczość praw fizyki) i §5.2 (względność równoczesności).

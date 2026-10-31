@@ -35,6 +35,9 @@ Opisywać oscylator harmoniczny jako rozwiązanie równania różniczkowego, roz
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 2, rozdz. 17 (od s. 200) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 16 „Drgania”, od s. 94](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=110) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 18 „Fale II”, od s. 155](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=171) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Masy i sprężyny* (09.01, 09.02); *Laboratorium wahadła* (09.03); *Rezonans* (09.05) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 09.01, 09.03, 09.04, 09.06 |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 09.01, 09.02 |
 
 ## Test wejściowy (diagnoza)
 

@@ -38,6 +38,8 @@ Opisywać światło jako falę: doświadczenie Younga, siatka dyfrakcyjna, cienk
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 34 „Fale elektromagnetyczne”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=17) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 36 „Interferencja”, od s. 75](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=90) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 37 „Dyfrakcja”, od s. 111](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=126) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Interferencja fal* (18.01, 18.02, 18.03, 18.05) |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematu 18.06 |
 
 ## Test wejściowy (diagnoza)
 

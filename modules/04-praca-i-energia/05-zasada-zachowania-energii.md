@@ -146,7 +146,7 @@ $v = \sqrt{2gL(1 - \cos60^\circ)} = \sqrt{gL} \approx 3{,}1\ \mathrm{m/s}$.
 Na szczycie $v^2 \ge gR$: $mgh = mg\cdot2R + \tfrac12mgR \Rightarrow h = 2{,}5R$.
 </details>
 
-### B. Poziom akademicki
+### B. Poziom akademicki _(opcjonalnie — rozszerzenie z rachunkiem)_
 
 1. Skoczek o masie 70 kg skacze z mostu na linie bungee o długości 20 m i sztywności $200\ \mathrm{N/m}$. Jak nisko spadnie?
 
@@ -179,6 +179,12 @@ $\tfrac12mv^2 = \tfrac12kx^2 + \mu mgx \Rightarrow 50x^2 + 1{,}962x - 4{,}5 = 0$
 
 $\dfrac{d}{dt}\left(\tfrac12mv^2\right) + \dfrac{dU}{dx}\dfrac{dx}{dt} = mva - Fv = v(ma - F) = 0$.
 </details>
+
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2026, zad. 2.3 — stosunek największej i najmniejszej siły naciągu nici (temat pomocniczy) ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
 
 ## Źródła
 

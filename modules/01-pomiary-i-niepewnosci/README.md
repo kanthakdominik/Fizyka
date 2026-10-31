@@ -29,6 +29,11 @@ Umieć zmierzyć, oszacować i uczciwie podać wynik: jednostki SI, analiza wymi
 | [OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 1](https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/1-wstep) | tekst główny, pytania, zadania z odpowiedziami |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 1, rozdz. 1 (od s. 1) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 1 „Pomiar”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=14) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 01.02, 01.03, 01.05 |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 01.03, 01.04, 01.05 |
+| [NIST — Fundamental Physical Constants](https://physics.nist.gov/cuu/Constants/) | temat 01.01 (materiał dodatkowy, po angielsku) |
+| [JCGM 100:2008 — Guide to the Expression of Uncertainty in Measurement (GUM)](https://www.bipm.org/en/doi/10.59161/jcgm100-2008e) | temat 01.03 (materiał dodatkowy, po angielsku) |
+| [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/) | temat 01.04 (materiał dodatkowy, po angielsku) |
 
 ## Test wejściowy (diagnoza)
 

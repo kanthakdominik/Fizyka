@@ -163,6 +163,13 @@ Odcinek poniżej punktu ma masę $My/L$, więc $T(y) = Mgy/L$; na górze $T = Mg
 $N\cos\alpha = mg$, $N\sin\alpha = ma \Rightarrow a = g\tan\alpha$, skierowane poziomo w stronę niższego końca równi — tak, żeby jej powierzchnia napierała na klocek.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 1.2 — siły oporu i ciężkości działające na kroplę w dwóch chwilach (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 3.2 — siła sprężystości i ciężkości w danym punkcie drgań (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1 — §5.7 (rozkłady sił działających na ciała) i §6.1 (rozwiązywanie zadań z zasadami dynamiki).

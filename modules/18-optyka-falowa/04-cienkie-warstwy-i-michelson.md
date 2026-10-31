@@ -104,7 +104,7 @@ plt.xlabel("grubość warstwy [nm]"); plt.ylabel("λ [nm]"); plt.title("odbicie 
 
 ## Zadania
 
-### A. Poziom maturalny
+### A. Poziom maturalny _(opcjonalnie — rozgrzewka)_
 
 1. Plama oleju ($n = 1{,}45$) leży na wodzie ($n = 1{,}33$). Czy przy odbiciu od dolnej powierzchni oleju faza się zmienia? Jaka najmniejsza grubość daje wzmocnienie dla 600 nm?
 

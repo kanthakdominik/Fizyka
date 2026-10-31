@@ -173,6 +173,12 @@ $\omega_0 = 125{,}7\ \mathrm{rad/s}$, $\varphi = \tfrac12\omega_0t = 2513\ \math
 $\vec{v} = R\dot{\varphi}(-\sin\varphi,\ \cos\varphi)$; $\vec{a} = R\ddot{\varphi}(-\sin\varphi,\ \cos\varphi) - R\dot{\varphi}^2(\cos\varphi,\ \sin\varphi)$ — pierwszy wyraz styczny, drugi skierowany do środka.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2026, zad. 2.1 — konstrukcja środka i promienia okręgu toru wahadła ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 4 — §4.4: ruch po okręgu jednostajny i niejednostajny.

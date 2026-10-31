@@ -179,6 +179,13 @@ Wszystkie elementy są w odległości $R$: $V = kQ/R$, $W = kqQ/R$. Potencjał t
 $W = \displaystyle\int_0^Q\frac{kq}{R}dq = \frac{kQ^2}{2R}$. Dla Van de Graaffa (13 μC, 0,2 m) to ok. 4 J.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 10.3 — napięcie przyspieszające elektron (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2024, zad. 10.2 — napięcie przyspieszające elektron (relatywistycznie) (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 7 — §7.1–7.6: elektryczna energia potencjalna, potencjał i różnica potencjałów, potencjał rozkładów ładunku, wyznaczanie pola z potencjału, powierzchnie ekwipotencjalne, zastosowania.

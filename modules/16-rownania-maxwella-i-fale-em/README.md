@@ -31,6 +31,9 @@ Zebrać elektromagnetyzm w czterech równaniach Maxwella, wyprowadzić z nich fa
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 4, rozdz. 33 (od s. 1) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 32 „Magnetyzm materii; równania Maxwella”, od s. 290 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 34 „Fale elektromagnetyczne”, od s. 2](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=17) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Fale radiowe i pola elektromagnetyczne* (16.01, 16.02); *Efekt cieplarniany* (16.04) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenie w temacie 16.03 |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematu 16.02 |
 
 ## Test wejściowy (diagnoza)
 

@@ -169,6 +169,16 @@ $\displaystyle\int_{v_0}^{v}v'\,dv' = \int_{x_0}^{x}a\,dx' \Rightarrow \tfrac12(
 Droga w $n$-tej sekundzie: $\tfrac12gn^2 - \tfrac12g(n-1)^2 = \tfrac12g(2n - 1)$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 1 — pościg samochodów — ruch jednostajny i jednostajnie przyspieszony, największa odległość ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2025, zad. 1.2 — dwie kulki w polu grawitacyjnym — prędkość początkowa (temat pomocniczy) ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2026, zad. 1.1 — przyspieszenie i czas ruchu ciała w polu grawitacyjnym ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+- Maj 2026, zad. 1.2 — prędkość początkowa z wykresu h(t) ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+- Maj 2026, zad. 1.3 — wysokość początkowa rzutu pionowego ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 3 — §3.4 (ruch ze stałym przyspieszeniem) i §3.5 (spadek swobodny), z wieloma przykładami rozwiązanymi.

@@ -145,6 +145,14 @@ $235\cdot(8{,}5 - 7{,}6) \approx 210\ \mathrm{MeV}$.
 $\dfrac{\partial E_w}{\partial Z} = 0$ z członami kulombowskim i asymetrii: $Z = \dfrac{A/2}{1 + a_CA^{2/3}/(4a_A)}$. Dla $A = 56$: $Z \approx 25$ (żelazo ma 26). Dla $A = 238$: $Z \approx 92$ (uran).
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 11.3 — energia potrzebna do rozbicia jądra na nukleony (energia wiązania) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2024, zad. 11.3 — energia kinetyczna produktów rozpadu z mas ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2026, zad. 11.2 — masa jądra a suma mas produktów rozpadu ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 3, rozdz. 10 — §10.2: energia wiązania jądra.

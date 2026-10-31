@@ -96,7 +96,7 @@ plt.xlabel("kąt rozproszenia [°]"); plt.ylabel("λ' [pm]"); plt.grid(True); pl
 
 ## Zadania
 
-### A. Poziom maturalny _(opcjonalnie — rozgrzewka)_
+### A. Poziom maturalny
 
 1. Oblicz pęd fotonu światła zielonego (550 nm) i fotonu promieniowania rentgenowskiego 0,1 nm.
 

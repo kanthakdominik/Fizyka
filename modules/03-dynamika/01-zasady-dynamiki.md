@@ -169,6 +169,13 @@ $x = \dfrac{F_0}{m\omega^2}(1 - \cos\omega t)$ — ciało oscyluje między $0$ a
 $\dfrac{d(m\vec{v})}{dt} = m\dfrac{d\vec{v}}{dt} + \vec{v}\dfrac{dm}{dt}$. Wyraz $\vec{v}\,dm/dt$ ma jednak sens fizyczny dopiero po uwzględnieniu prędkości dołączanej lub odrzucanej masy — patrz rakieta (05.05).
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 2.1 — siły wzajemnego oddziaływania przy zderzeniu krążków (III zasada dynamiki) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2024, zad. 1.1 — zmiana przyspieszenia spadającej kropli (siła wypadkowa) (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 5 — §5.1–5.6: zasady dynamiki, masa i ciężar, rodzaje sił.

@@ -33,6 +33,8 @@ Rozumieć przepływ prądu od strony mikroskopowej, liczyć obwody z prawami Kir
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 3, rozdz. 27 (od s. 210) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 27 „Prąd elektryczny i opór elektryczny”, od s. 129 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 28 „Obwody elektryczne”, od s. 155 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Zestaw do budowy obwodów DC* (13.01, 13.04, 13.05); *Prawo Ohma* (13.02); *Zestaw do budowy obwodów AC* (13.06) |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 13.02, 13.03, 13.04, 13.05 |
 
 ## Test wejściowy (diagnoza)
 

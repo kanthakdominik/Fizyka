@@ -193,6 +193,12 @@ $\vec{v} = \vec{v}_1' + \vec{v}_2'$, podnosząc do kwadratu: $v^2 = v_1'^2 + v_2
 Wysokości $h, e^2h, e^4h, \dots$: droga $s = h\dfrac{1 + e^2}{1 - e^2}$; czas $t = \sqrt{\dfrac{2h}{g}}\cdot\dfrac{1 + e}{1 - e}$ (szeregi geometryczne — czas jest skończony).
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 2.2 — prędkości krążków po zderzeniu doskonale sprężystym ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 9 — §9.4 (rodzaje zderzeń) i §9.5 (zderzenia w wielu wymiarach).

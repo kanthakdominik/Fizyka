@@ -171,6 +171,15 @@ $\dot v_x = (qB/m)v_y$, $\dot v_y = -(qB/m)v_x$, więc $\ddot v_x = -(qB/m)^2v_x
 $\dfrac{d}{dt}\left(\tfrac12m\vec v\cdot\vec v\right) = \vec v\cdot m\dot{\vec v} = q\vec v\cdot(\vec v\times\vec B) = 0$, bo iloczyn mieszany z dwoma tymi samymi wektorami znika.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2023, zad. 7.1 — ruch protonu w polu magnetycznym — zwrot B, siła Lorentza, czas ruchu ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2023, zad. 7.2 — dlaczego prędkość protonu na półokręgach jest stała ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2023, zad. 7.3 — indukcja pola z promienia toru protonu ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305.pdf), [zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Fizyka/MFAP-R0-100-2305-zasady.pdf))
+- Maj 2026, zad. 9 — okres obiegu elektronu w polu magnetycznym ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 11 — §11.1 (magnetyzm i jego odkrycie), §11.2 (pole magnetyczne i jego linie), §11.3 (ruch cząstki naładowanej w polu magnetycznym).

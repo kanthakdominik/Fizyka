@@ -33,6 +33,10 @@ Stosować zasady dynamiki Newtona do układów ciał, tarcia, ruchu po okręgu i
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 1, rozdz. 6 (od s. 156) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 5 „Siła i ruch I”, od s. 87](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=99) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 6 „Siła i ruch II”, od s. 118](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=130) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Siły i ruch: podstawy* (03.01, 03.03); *Rampa: siły i ruch* (03.02) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 03.01, 03.02, 03.03, 03.06 |
+| [Tracker](https://physlets.org/tracker/) — analiza ruchu z nagrania | temat 03.02 |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 03.01, 03.02, 03.04, 03.05 |
 
 ## Test wejściowy (diagnoza)
 

@@ -170,6 +170,12 @@ $x_{\mathrm{SM}} = \dfrac{\int_0^Lx^3dx}{\int_0^Lx^2dx} = \dfrac{3L}{4}$.
 $\sum m_i\vec{a}_i = \sum\vec{F}_{\text{zewn},i} + \sum_{i\ne j}\vec{F}_{ij}$; siły wewnętrzne znoszą się parami ($\vec{F}_{ij} = -\vec{F}_{ji}$), a $\sum m_i\vec{a}_i = M\vec{a}_{\mathrm{SM}}$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 5.1 — siły grawitacji Ziemia–Księżyc, środek masy układu (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 9 — §9.6: środek masy punktów i ciał ciągłych.

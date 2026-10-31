@@ -104,7 +104,7 @@ ax.set_xlabel("x [m]"); ax.legend(); plt.show()
 
 ## Zadania
 
-### A. Poziom maturalny
+### A. Poziom maturalny _(opcjonalnie — rozgrzewka)_
 
 1. Oblicz długość fali sygnału GPS (1575 MHz) i Wi-Fi (2,4 GHz).
 
@@ -155,6 +155,12 @@ Plamy są co $\lambda/2$: $\lambda = 12{,}4\ \mathrm{cm}$, $c = \lambda f \appro
 
 $\partial_x^2E = -k^2E$, $\partial_t^2E = -\omega^2E$. Równanie daje $-k^2 = -\mu_0\varepsilon_0\omega^2$, czyli $\omega/k = 1/\sqrt{\mu_0\varepsilon_0}$.
 </details>
+
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2025, zad. 9.1 — fala elektromagnetyczna i polaryzacja ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
 
 ## Źródła
 

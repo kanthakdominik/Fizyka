@@ -33,6 +33,8 @@ Opisywać budowę atomu od modelu Bohra do liczb kwantowych i spinu, tłumaczyć
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 5, rozdz. 40 (od s. 87) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 40 „Jeszcze o falach materii”, od s. 34](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=50) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 41 „Wszystko o atomach”, od s. 67](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=83) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Modele atomu wodoru* (21.01, 21.02); *Zbuduj atom* (21.04); *Światła neonowe i inne lampy wyładowcze* (21.05); *Lasery* (21.06) |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematu 21.01 |
 
 ## Test wejściowy (diagnoza)
 

@@ -159,6 +159,13 @@ Dodanie jednego ogniwa nie zmienia wyniku: $R_e = R + \dfrac{RR_e}{R + R_e}$, st
 SEM baterii $\varepsilon n/m$, opór wewnętrzny $\dfrac{(n/m)r}{m} = \dfrac{nr}{m^2}$. $I = \dfrac{\varepsilon n/m}{R + nr/m^2}$. Maksimum względem $m$ daje $R = nr/m^2$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 7.1 — prądy i napięcia w obwodzie prądu stałego (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 7.3 — stosunek wskazań amperomierza przed przerwą i po niej (temat pomocniczy) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 2, rozdz. 10 — §10.1 (siła elektromotoryczna) i §10.2 (łączenie oporników).

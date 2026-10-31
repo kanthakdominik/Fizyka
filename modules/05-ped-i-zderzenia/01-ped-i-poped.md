@@ -143,7 +143,7 @@ Ugięcie wydłuża czas hamowania; przy tej samej zmianie pędu średnia siła d
 $E_k = p^2/(2m)$: cięższe ma 4 razy mniejszą energię.
 </details>
 
-### B. Poziom akademicki
+### B. Poziom akademicki _(opcjonalnie — rozszerzenie z rachunkiem)_
 
 1. Strumień wody z węża (2 L/s, prędkość 10 m/s) uderza prostopadle w ścianę i spływa po niej. Jaką siłą działa na ścianę?
 

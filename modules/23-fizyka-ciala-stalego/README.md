@@ -33,6 +33,7 @@ Zrozumieć, skąd biorą się właściwości elektryczne metali, półprzewodnik
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 2015: t. 5, rozdz. 41 (od s. 130) | wykład bardziej szczegółowy, zadania i pytania kontrolne |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: t. 3, rozdz. 27 „Prąd elektryczny i opór elektryczny”, od s. 129 (poza zakresem skanu) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 5, rozdz. 42 „Przewodnictwo elektryczne ciał stałych”, od s. 104](https://home.agh.edu.pl/~czapli/Resnick_5.pdf#page=120) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Kształty cząsteczek* (23.01); *Band Structure* (23.04); *Półprzewodniki* (23.05); *Semiconductors* (23.05) |
 
 ## Test wejściowy (diagnoza)
 

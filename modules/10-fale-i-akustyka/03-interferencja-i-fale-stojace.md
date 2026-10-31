@@ -156,6 +156,12 @@ $\Delta r = \lvert(3 - x) - x\rvert = \lvert3 - 2x\rvert = (m + \tfrac12)\cdot1$
 $P = -F\cdot2Ak\cos kx\cos\omega t\cdot(-2A\omega\sin kx\sin\omega t) = F A^2k\omega\sin2kx\sin2\omega t$. Średnia z $\sin2\omega t$ w okresie wynosi zero.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2025, zad. 4.2 — interferencja fal z dwóch głośników ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 16 — §16.5 (interferencja fal) i §16.6 (fale stojące i rezonans).

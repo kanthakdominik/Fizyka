@@ -1,6 +1,6 @@
 # Źródła
 
-Moduły odwołują się do konkretnych paragrafów poniższych materiałów. Lista będzie rosła wraz z wypełnianiem modułów.
+Moduły odwołują się do konkretnych paragrafów poniższych materiałów. Materiały użyte w pojedynczych tematach są też wymienione w tabeli „Główne źródła modułu” w README każdego modułu.
 
 ## Podręczniki główne (po polsku)
 
@@ -18,15 +18,33 @@ W *Fizyce dla szkół wyższych* każdy rozdział kończy się stronami *Kluczow
 
 | Źródło | Zakres | Moduły |
 |---|---|---|
+| [Zadania z arkuszy CKE przypisane do tematów](matura/README.md) | Wszystkie zadania z sesji głównych 2023–2026 (formuła 2023) z tematami, linkami do arkuszy, zasad oceniania i poziomem wykonania | 🟢 |
+| [Wymagania podstawy programowej → tematy](matura/wymagania.md) | Każdy punkt wymagań z zakresu rozszerzonego z tematami, w których jest omówiony | 🟢 |
+| [Karta wzorów CKE → tematy](matura/karta-wzorow.md) | Wzory z karty egzaminacyjnej z odnośnikami do wyprowadzeń | 🟢 |
+| [CKE — arkusze egzaminu maturalnego w formule 2023](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/) | Arkusze i zasady oceniania ze wszystkich sesji, także czerwcowych, sierpniowych i próbnych | 🟢 |
 | [CKE — informatory o egzaminie maturalnym (formuła 2023)](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/informatory/) | Wymagania egzaminacyjne i przykładowe zadania dla wszystkich przedmiotów | 🟢 |
 | [CKE — Informator o egzaminie maturalnym z fizyki (od 2024)](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) | Opis egzaminu z fizyki, zakres wymagań, przykładowe zadania z rozwiązaniami | 🟢 |
+| Sprawozdania CKE z egzaminu z fizyki: [2024](https://oke.poznan.pl/files/cms/836/em2023_fizyka_raport_kraj_2024.pdf), [2025](https://www.oke.poznan.pl/files/cms/882/em2023_fizyka_raport_kraj_2025.pdf) | Poziom wykonania każdego zadania, omówienie typowych błędów | 🟢 |
 
 ## Symulacje i doświadczenia
 
 | Źródło | Zakres | Moduły |
 |---|---|---|
 | [PhET Interactive Simulations — wersja polska](https://phet.colorado.edu/pl/) | Symulacje w przeglądarce: ruch, siły, energia, fale, obwody, optyka, kwanty | wszystkie |
-| [phyphox (RWTH Aachen)](https://phyphox.org/) | Aplikacja na smartfon do pomiarów czujnikami: przyspieszenie, żyroskop, dźwięk, ciśnienie, pole magnetyczne | 01–15 |
+| [phyphox (RWTH Aachen)](https://phyphox.org/) | Aplikacja na smartfon do pomiarów czujnikami: przyspieszenie, żyroskop, dźwięk, ciśnienie, pole magnetyczne | 01–15, 25 |
+| [Tracker](https://physlets.org/tracker/) | Analiza ruchu z nagrania wideo | 02, 03, 25 |
+| [Stellarium](https://stellarium.org/) | Planetarium na komputer (polski interfejs) | 07, 26 |
+| [CREDO — Cosmic-Ray Extremely Distributed Observatory](https://credo.science/) | Projekt IFJ PAN: wykrywanie cząstek promieniowania kosmicznego matrycą smartfona ([opis po polsku](https://press.ifj.edu.pl/news/2019/09/11/IFJ190911d-Projekt-CREDO-Podstawowe-fakty.pdf)) | 22, 24 |
+| [S'Cool LAB (CERN) — komora mgłowa do zbudowania w domu](https://scoollab.web.cern.ch/cloud-chamber) | Instrukcja budowy komory mgłowej (po angielsku) | 22, 24 |
+| [International Masterclasses](https://physicsmasterclasses.org/) | Warsztaty z analizą prawdziwych danych z LHC; w Polsce prowadzone m.in. przez AGH i Uniwersytet Śląski | 24 |
+
+## Fizyka obliczeniowa (po polsku)
+
+| Źródło | Zakres | Moduły |
+|---|---|---|
+| [Dokumentacja Pythona — samouczek](https://docs.python.org/pl/3/tutorial/) | Podstawy języka Python | 25 |
+| Z. Fortuna, B. Macukow, J. Wąsowski, *Metody numeryczne*, WNT/PWN | Podręcznik akademicki: błędy numeryczne, całkowanie, równania różniczkowe, aproksymacja | 25 |
+| B. Zglinicki, *Programowanie i metody numeryczne* (Wydział Fizyki UW) — ćwiczenia: [zestaw 12](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/12/PMN_Cwiczenia-12.pdf), [zestaw 14](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/14) | Zadania: całkowanie Monte Carlo, równania różniczkowe cząstkowe | 25 |
 
 ## Uzupełniające (po angielsku)
 
@@ -43,3 +61,9 @@ Materiały bez polskiego odpowiednika — do pogłębienia, nie są wymagane.
 | [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) | Analiza matematyczna i równania różniczkowe z przykładami | 00 |
 | [NIST — Fundamental Physical Constants](https://physics.nist.gov/cuu/Constants/) | Aktualne wartości stałych fizycznych (CODATA) | wszystkie |
 | [JCGM 100:2008 — Guide to the Expression of Uncertainty in Measurement (GUM)](https://www.bipm.org/en/doi/10.59161/jcgm100-2008e) | Międzynarodowa norma wyrażania niepewności pomiaru | 01 |
+| [M. Newman, *Computational Physics* — rozdziały przykładowe](https://websites.umich.edu/~mejn/cp/chapters.html) | Python dla fizyka, dokładność obliczeń, całki, pochodne, równania różniczkowe | 25 |
+| Dokumentacja [NumPy](https://numpy.org/doc/stable/), [SciPy](https://docs.scipy.org/doc/scipy/) i [Matplotlib](https://matplotlib.org/stable/) | Opis funkcji bibliotek | 25 |
+| [Particle Data Group, *Review of Particle Physics*](https://pdg.lbl.gov) | Masy, czasy życia i własności cząstek | 24 |
+| [CERN Open Data](https://opendata.cern.ch) | Prawdziwe dane z detektorów LHC | 24 |
+| [Planck Collaboration, *Planck 2018 results. VI. Cosmological parameters*](https://arxiv.org/abs/1807.06209) | Parametry modelu ΛCDM | 24 |
+| [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/) | Statystyka w opracowaniu pomiarów, dopasowanie modeli | 01, 25 |

@@ -167,6 +167,14 @@ $x = \dfrac{v_g^2}{2g}\ln\dfrac{1}{1 - (v/v_g)^2}$; dla $0{,}95$: $\approx 222\ 
 Krócej. W drodze w górę opór i ciężar działają w tę samą stronę (większe opóźnienie), w drodze w dół — przeciwnie (mniejsze przyspieszenie); na tej samej wysokości piłka w dół porusza się wolniej niż w górę.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 1.1 — zmiana przyspieszenia spadającej kropli (siła wypadkowa) ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 1.2 — siły oporu i ciężkości działające na kroplę w dwóch chwilach ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 1.3 — wzór na prędkość graniczną kropli ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 6 — §6.4: siła oporu i prędkość graniczna, prawo Stokesa.

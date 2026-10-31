@@ -189,6 +189,14 @@ $\overline{v^2} = A^2\omega^2\overline{\sin^2} = \tfrac12v_{\max}^2$.
 $A\cos(\omega t + \varphi) = A\cos\varphi\cos\omega t - A\sin\varphi\sin\omega t$: $C_1 = A\cos\varphi$, $C_2 = -A\sin\varphi$; $A = \sqrt{C_1^2 + C_2^2}$, $\tan\varphi = -C_2/C_1$.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2024, zad. 3.1 — siły, energia i przyspieszenie w oscylatorze sprężynowym ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 3.2 — siła sprężystości i ciężkości w danym punkcie drgań ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+- Maj 2024, zad. 3.3 — siła sprężystości w najniższym położeniu drgającego ciała ([arkusz](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2024/Fizyka/MFAP-R0-100-A-2405-arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2024-2/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 15 — §15.1 (ruch harmoniczny) i §15.3 (związek z ruchem po okręgu).

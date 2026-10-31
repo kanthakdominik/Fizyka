@@ -162,6 +162,13 @@ $\Delta p\cdot\dot s = \Delta p_m\sin(\cdot)\cdot\omega s_m\sin(\cdot)$, średni
 Rozchodzenie sferyczne: $20\log100 = 40\ \mathrm{dB}$. Pochłanianie: $0{,}03\cdot990 \approx 30\ \mathrm{dB}$. Na dużych odległościach pochłanianie jest porównywalne z geometrią i silniej tłumi wysokie tony, dlatego daleka burza tylko dudni.
 </details>
 
+### C. Zadania z arkuszy maturalnych CKE
+
+Zadania z egzaminów maturalnych (poziom rozszerzony, formuła 2023), w których ten temat jest potrzebny. Rozwiąż je samodzielnie, a potem porównaj z zasadami oceniania. Pełne zestawienie: [matura/README.md](../../matura/README.md).
+
+- Maj 2025, zad. 4.1 — natężenie fali dźwiękowej kulistej w danej odległości ([arkusz](https://www.oke.poznan.pl/files/cms/875/mfap_r0_100_a_2505_arkusz.pdf), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2025-2/))
+- Maj 2026, zad. 4.2 — natężenie fali w różnych odległościach ([arkusz](https://oke.wroc.pl/egzamin-maturalny/egzamin-maturalny-2026-arkusze/), [zasady oceniania](https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/))
+
 ## Źródła
 
 - OpenStax, *Fizyka dla szkół wyższych*, t. 1, rozdz. 17 — §17.1 (fale dźwiękowe), §17.2 (prędkość dźwięku), §17.3 (natężenie dźwięku).

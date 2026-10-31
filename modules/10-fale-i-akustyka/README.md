@@ -37,6 +37,9 @@ Opisywać fale biegnące i stojące, interferencję, dźwięk i jego natężenie
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 17 „Fale I”, od s. 123](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=139) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 2, rozdz. 18 „Fale II”, od s. 155](https://home.agh.edu.pl/~czapli/Resnick_2.pdf#page=171) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 4, rozdz. 36 „Interferencja”, od s. 75](https://home.agh.edu.pl/~czapli/Resnick_4.pdf#page=90) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Fala na strunie* (10.01); *Interferencja fal* (10.03, 10.04) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 10.02, 10.03, 10.04, 10.05, 10.06, 10.07 |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 10.01, 10.03, 10.04, 10.05, 10.07 |
 
 ## Test wejściowy (diagnoza)
 

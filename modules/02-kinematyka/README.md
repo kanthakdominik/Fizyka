@@ -36,6 +36,10 @@ Opisywać ruch w jednym, dwóch i trzech wymiarach: od wykresów i wzorów matur
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 2 „Ruch prostoliniowy”, od s. 14](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=26) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 4 „Ruch w dwóch i trzech wymiarach”, od s. 58](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=70) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
 | Halliday, Resnick, Walker, *Podstawy fizyki*, wyd. 1: [t. 1, rozdz. 11 „Obroty”, od s. 260](https://home.agh.edu.pl/~czapli/Resnick_1.pdf#page=272) | to samo w pierwszym wydaniu (PDF z serwera AGH) |
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Ruch człowieka* (02.01); *Ruch pocisku* (02.05) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 02.02, 02.03, 02.06 |
+| [Tracker](https://physlets.org/tracker/) — analiza ruchu z nagrania | tematy 02.01, 02.04 |
+| [CKE — Informator o egzaminie maturalnym z fizyki](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Informatory/2024/Informator_EM2024_fizyka.pdf) i [zadania z arkuszy CKE](../../matura/README.md) | zadania maturalne do tematów 02.02, 02.05, 02.06 |
 
 ## Test wejściowy (diagnoza)
 

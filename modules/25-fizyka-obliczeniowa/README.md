@@ -28,6 +28,10 @@ Rozwiązywać numerycznie to, czego nie da się policzyć na kartce: równania r
 
 | Źródło | Zakres |
 |---|---|
+| [Symulacje PhET — wersja polska](https://phet.colorado.edu/pl/) | *Ładunki i pola* (25.05) |
+| [phyphox](https://phyphox.org/) — pomiary smartfonem | doświadczenia w tematach 25.01, 25.02, 25.03, 25.04 |
+| [Tracker](https://physlets.org/tracker/) — analiza ruchu z nagrania | temat 25.03 |
+| [`scipy.optimize.curve_fit`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html) | temat 25.04 (materiał dodatkowy, po angielsku) |
 | [Dokumentacja Pythona — samouczek](https://docs.python.org/pl/3/tutorial/) | podstawy języka, po polsku |
 | Z. Fortuna, B. Macukow, J. Wąsowski, *Metody numeryczne*, WNT/PWN | podręcznik akademicki: błędy, całkowanie, równania różniczkowe, aproksymacja |
 | B. Zglinicki, *Programowanie i metody numeryczne* (Wydział Fizyki UW) — ćwiczenia: [zestaw 12 (Monte Carlo)](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/12/PMN_Cwiczenia-12.pdf), [zestaw 14 (równania cząstkowe)](https://www.fuw.edu.pl/~bzglinicki/teaching/pmn/cwiczenia/14) | zadania z metod numerycznych, po polsku |
