@@ -22,6 +22,8 @@ Umieć zmierzyć, oszacować i uczciwie podać wynik: jednostki SI, analiza wymi
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
+Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
+
 ## Główne źródła modułu
 
 | Źródło | Zakres |

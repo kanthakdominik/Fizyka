@@ -25,6 +25,8 @@ Opisywać budowę i energię wiązania jąder, rozpady promieniotwórcze i prawo
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
+Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
+
 ## Główne źródła modułu
 
 | Źródło | Zakres |

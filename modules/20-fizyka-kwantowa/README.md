@@ -26,6 +26,8 @@ Zrozumieć, dlaczego fizyka klasyczna zawodzi w mikroświecie: fotony, fale mate
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
+Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
+
 ## Główne źródła modułu
 
 | Źródło | Zakres |

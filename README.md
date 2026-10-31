@@ -35,7 +35,8 @@ Zasady:
 | **Zadania** | A — poziom maturalny, B — poziom akademicki; odpowiedzi ukryte pod `<details>` |
 | **Źródła** | Konkretne rozdziały i strony do pogłębienia |
 
-5. Postęp odznaczaj w checklistach (`- [ ]` → `- [x]`) we własnym forku.
+5. Do powtórki: każdy moduł ma **ściągę** (`SCIAGA.md`) — wszystkie tabele wzorów z warunkami stosowalności na jednej stronie. Przy materiałach po angielsku przydaje się [słowniczek polsko-angielski](SLOWNICZEK.md).
+6. Postęp odznaczaj w checklistach (`- [ ]` → `- [x]`) we własnym forku.
 
 ### Oznaczenia poziomu
 

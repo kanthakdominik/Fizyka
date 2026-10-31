@@ -21,6 +21,8 @@ Liczyć ciśnienie i wypór w cieczach w spoczynku oraz opisywać przepływ rów
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
+Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
+
 ## Główne źródła modułu
 
 | Źródło | Zakres |

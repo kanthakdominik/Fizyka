@@ -23,6 +23,8 @@ Rozumieć przepływ prądu od strony mikroskopowej, liczyć obwody z prawami Kir
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
+Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
+
 ## Główne źródła modułu
 
 | Źródło | Zakres |

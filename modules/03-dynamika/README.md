@@ -23,6 +23,8 @@ Stosować zasady dynamiki Newtona do układów ciał, tarcia, ruchu po okręgu i
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
+Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
+
 ## Główne źródła modułu
 
 | Źródło | Zakres |

@@ -25,6 +25,8 @@ Opisywać ruch w jednym, dwóch i trzech wymiarach: od wykresów i wzorów matur
 
 🟢 matura rozszerzona · 🔵 studia (1. rok) · 🟢🔵 temat maturalny pogłębiany na studiach
 
+Wszystkie wzory modułu na jednej stronie: **[ściąga](SCIAGA.md)**.
+
 ## Główne źródła modułu
 
 | Źródło | Zakres |
