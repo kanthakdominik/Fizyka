@@ -1,5 +1,7 @@
 # Fizyka — od matury rozszerzonej do pierwszego roku politechniki
 
+**Wersja do czytania w przeglądarce (wzory, wyszukiwarka, menu modułów): [kanthakdominik.github.io/Fizyka](https://kanthakdominik.github.io/Fizyka/)**
+
 Otwarta, samodzielna ścieżka nauki fizyki na dwóch poziomach: **matury rozszerzonej** oraz **kursu fizyki z pierwszego roku studiów technicznych** (z rachunkiem różniczkowym i całkowym). Repozytorium jest pomyślane jako darmowa pomoc do nauki przed maturą i studiami, w trakcie pierwszych semestrów albo do odświeżenia wiedzy po latach.
 
 Układ działów opiera się na dwóch podręcznikach akademickich dostępnych po polsku:
@@ -102,6 +104,7 @@ Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejno�
 ## Sprawdzanie materiałów
 
 - **Kod w Pythonie** z wszystkich plików `.md` uruchamia skrypt [tools/check_snippets.py](tools/check_snippets.py) (pomija bloki wymagające SymPy lub danych z zewnątrz).
+- **Strona** [kanthakdominik.github.io/Fizyka](https://kanthakdominik.github.io/Fizyka/) buduje się automatycznie z tych samych plików .md przy każdym pushu ([tools/build_site.py](tools/build_site.py), [konfiguracja](.github/workflows/pages.yml)).
 - **Odnośniki** sprawdza skrypt [tools/check_links.py](tools/check_links.py): przy każdym pushu odnośniki wewnętrzne i numery stron w PDF-ach z serwera AGH, a raz w tygodniu także wszystkie linki zewnętrzne ([konfiguracja](.github/workflows/links.yml)).
 - Sprawdzenie wykonuje automatycznie GitHub Actions przy każdym pushu ([konfiguracja](.github/workflows/checks.yml)) — wynik w zakładce *Actions*.
 - Wzory są pisane pod renderer GitHuba (MathJax): przecinek dziesiętny jako `{,}` (np. `9{,}81`), w tabelach `\lvert … \rvert` zamiast `|`, wektory jako `\vec{v}` lub `\mathbf{F}`.

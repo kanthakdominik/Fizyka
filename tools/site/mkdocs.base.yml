@@ -1,0 +1,69 @@
+# Konfiguracja strony GitHub Pages. Menu (nav) dopisuje tools/build_site.py.
+site_name: Fizyka — od matury rozszerzonej do pierwszego roku politechniki
+site_url: https://kanthakdominik.github.io/Fizyka/
+site_description: Otwarta ścieżka nauki fizyki po polsku — matura rozszerzona i pierwszy rok studiów
+repo_url: https://github.com/kanthakdominik/Fizyka
+repo_name: kanthakdominik/Fizyka
+edit_uri: ""
+docs_dir: src
+site_dir: public
+copyright: Treść własna repozytorium — CC BY-SA 4.0
+
+theme:
+  name: material
+  language: pl
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Tryb ciemny
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Tryb jasny
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - sane_lists
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: false
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
+
+extra_css:
+  - javascripts/extra.css
