@@ -23,7 +23,7 @@ Zasady:
 2. Przejrzyj [RESOURCES.md](RESOURCES.md) — podręczniki, materiały maturalne i symulacje, do których odwołują się moduły.
    Przed maturą: [matura/](matura/README.md) — zadania z arkuszy CKE przypisane do tematów, [wymagania egzaminacyjne → tematy](matura/wymagania.md) i [karta wzorów → tematy](matura/karta-wzorow.md).
 3. Zainstaluj narzędzia z [TOOLS.md](TOOLS.md) (wszystkie darmowe; do doświadczeń wystarczy smartfon).
-4. Przerabiaj moduły po kolei. Każdy temat ma ten sam układ (pełny opis w [docs/SZABLON-TEMATU.md](docs/SZABLON-TEMATU.md)):
+4. Przerabiaj moduły po kolei. Każdy temat ma ten sam układ:
 
 | Sekcja | Co zawiera |
 |---|---|
@@ -38,7 +38,6 @@ Zasady:
 | **Źródła** | Konkretne rozdziały i strony do pogłębienia |
 
 5. Do powtórki: każdy moduł ma **ściągę** (`SCIAGA.md`) — wszystkie tabele wzorów z warunkami stosowalności na jednej stronie. Przy materiałach po angielsku przydaje się [słowniczek polsko-angielski](SLOWNICZEK.md).
-6. Postęp odznaczaj w checklistach (`- [ ]` → `- [x]`) we własnym forku.
 
 ### Oznaczenia poziomu
 
@@ -96,16 +95,6 @@ Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejno�
 - ***Podstawy fizyki*, wyd. 2015** (PWN, tłumaczenie 10. wydania *Fundamentals of Physics*) — tom, paragraf i strona, od której paragraf się zaczyna. Każdy tom ma własną numerację stron: t. 1 — rozdz. 1–11, t. 2 — 12–20, t. 3 — 21–32, t. 4 — 33–37, t. 5 — 38–44.
 - ***Podstawy fizyki*, wyd. 1** (PWN 2003, tłumaczenie 6. wydania) — paragraf i strona w książce; link otwiera PDF z serwera AGH na tej stronie (`#page=…`, działa w przeglądarkowych czytnikach PDF). To wydanie ma inny podział: t. 1 — rozdz. 1–12, t. 2 — 13–21, t. 3 — 22–33, t. 4 — 34–38, t. 5 — 39–45, i inną numerację rozdziałów (m.in. pęd i zderzenia to osobne rozdziały 9 i 10, a prąd zmienny jest w rozdz. 33, po równaniach Maxwella). Skan t. 3 na serwerze AGH kończy się na s. 127 (koniec rozdz. 26) — dla rozdz. 27–33 podana jest strona bez linku.
 - Oba podręczniki są ułożone inaczej, więc ten sam temat bywa u nich w różnych rozdziałach — np. polaryzacja jest w *Fizyce dla szkół wyższych* przy naturze światła (t. 3, §1.7), a u Hallidaya przy falach elektromagnetycznych (§33.4).
-
-* * *
-
-## Sprawdzanie materiałów
-
-- **Kod w Pythonie** z wszystkich plików `.md` uruchamia skrypt [tools/check_snippets.py](tools/check_snippets.py) (pomija bloki wymagające SymPy lub danych z zewnątrz).
-- **Strona** [kanthakdominik.github.io/Fizyka](https://kanthakdominik.github.io/Fizyka/) buduje się automatycznie z tych samych plików .md przy każdym pushu ([tools/build_site.py](tools/build_site.py), [konfiguracja](.github/workflows/pages.yml)).
-- **Odnośniki** sprawdza skrypt [tools/check_links.py](tools/check_links.py): przy każdym pushu odnośniki wewnętrzne i numery stron w PDF-ach z serwera AGH, a raz w tygodniu także wszystkie linki zewnętrzne ([konfiguracja](.github/workflows/links.yml)).
-- Sprawdzenie wykonuje automatycznie GitHub Actions przy każdym pushu ([konfiguracja](.github/workflows/checks.yml)) — wynik w zakładce *Actions*.
-- Wzory są pisane pod renderer GitHuba (MathJax): przecinek dziesiętny jako `{,}` (np. `9{,}81`), w tabelach `\lvert … \rvert` zamiast `|`, wektory jako `\vec{v}` lub `\mathbf{F}`.
 
 * * *
 
