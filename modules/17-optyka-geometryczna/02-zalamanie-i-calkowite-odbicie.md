@@ -1,6 +1,6 @@
 # 17.02 — Załamanie światła i całkowite wewnętrzne odbicie
 
-> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

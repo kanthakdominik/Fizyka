@@ -1,6 +1,6 @@
 # 20.04 — Fale materii de Broglie'a i dualizm korpuskularno-falowy
 
-> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

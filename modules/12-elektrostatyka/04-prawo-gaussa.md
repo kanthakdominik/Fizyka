@@ -1,6 +1,6 @@
 # 12.04 — Strumień pola i prawo Gaussa
 
-> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

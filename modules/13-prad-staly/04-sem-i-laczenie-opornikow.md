@@ -1,6 +1,6 @@
 # 13.04 — SEM, opór wewnętrzny, łączenie oporników
 
-> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 22.01 — Budowa jądra atomowego i izotopy
 
-> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

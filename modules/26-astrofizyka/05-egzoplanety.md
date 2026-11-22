@@ -1,6 +1,6 @@
 # 26.05 — Egzoplanety: metody wykrywania i warunki do życia
 
-> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

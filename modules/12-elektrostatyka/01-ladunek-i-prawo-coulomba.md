@@ -1,6 +1,6 @@
 # 12.01 — Ładunek elektryczny i prawo Coulomba
 
-> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

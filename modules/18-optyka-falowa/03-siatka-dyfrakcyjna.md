@@ -1,6 +1,6 @@
 # 18.03 — Interferencja na wielu szczelinach i siatka dyfrakcyjna
 
-> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

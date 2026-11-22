@@ -1,6 +1,6 @@
 # 17.01 — Rozchodzenie się światła i prawo odbicia
 
-> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 10.06 — Struny i piszczałki: mody własne, dudnienia
 
-> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

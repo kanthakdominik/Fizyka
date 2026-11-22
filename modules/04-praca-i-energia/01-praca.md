@@ -1,6 +1,6 @@
 # 04.01 — Praca siły stałej i zmiennej
 
-> **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

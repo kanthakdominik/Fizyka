@@ -1,6 +1,6 @@
 # 03.05 — Opór ośrodka i prędkość graniczna — równanie ruchu
 
-> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 08.04 — Lepkość i turbulencja
 
-> **Moduł:** [08 — Mechanika płynów](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [08 — Mechanika płynów](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

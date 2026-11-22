@@ -1,6 +1,6 @@
 # 09.06 — Składanie drgań: dudnienia i krzywe Lissajous
 
-> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

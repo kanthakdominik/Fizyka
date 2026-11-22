@@ -1,6 +1,6 @@
 # 25.03 — Rzut z oporem, wahadło nieliniowe, orbity planet
 
-> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

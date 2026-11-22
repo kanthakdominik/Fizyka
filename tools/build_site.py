@@ -17,8 +17,7 @@ SRC = os.path.join(OUT, "src")
 REPO = "https://github.com/kanthakdominik/Fizyka"
 LINK = re.compile(r"(\]\()([^)\s]+)(\))")
 
-PLIKI_GLOWNE = ["README.md", "ROADMAP.md", "RESOURCES.md", "TOOLS.md", "SLOWNICZEK.md", "LICENSE.md",
-                "docs/SZABLON-TEMATU.md"]
+PLIKI_GLOWNE = ["README.md", "ROADMAP.md", "RESOURCES.md", "TOOLS.md", "SLOWNICZEK.md", "LICENSE.md"]
 
 
 def cel_strony(sciezka_repo):
@@ -112,7 +111,7 @@ for d in sorted(glob.glob("modules/*/", root_dir=ROOT)):
     for t in sorted(glob.glob(f"{d}/0*.md", root_dir=ROOT)):
         nav.append(f'      - "{tytul(t)}": {t}')
 nav += ["  - Materiały:", "    - Źródła: RESOURCES.md", "    - Narzędzia: TOOLS.md", "    - Słowniczek PL–EN: SLOWNICZEK.md",
-        "    - Szablon tematu: docs/SZABLON-TEMATU.md", "    - Licencja: LICENSE.md"]
+        "    - Licencja: LICENSE.md"]
 
 os.makedirs(os.path.join(SRC, "javascripts"), exist_ok=True)
 shutil.copy(os.path.join(ROOT, "tools", "site", "mathjax.js"), os.path.join(SRC, "javascripts", "mathjax.js"))

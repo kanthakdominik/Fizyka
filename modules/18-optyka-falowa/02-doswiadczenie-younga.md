@@ -1,6 +1,6 @@
 # 18.02 — Doświadczenie Younga
 
-> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

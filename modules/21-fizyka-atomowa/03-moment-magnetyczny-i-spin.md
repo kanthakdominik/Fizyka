@@ -1,6 +1,6 @@
 # 21.03 — Orbitalny moment magnetyczny i spin elektronu
 
-> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

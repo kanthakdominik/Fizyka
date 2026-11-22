@@ -1,6 +1,6 @@
 # 22.03 — Rozpady promieniotwórcze i prawo rozpadu
 
-> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

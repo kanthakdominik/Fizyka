@@ -1,6 +1,6 @@
 # 15 — Indukcja elektromagnetyczna i prąd przemienny
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — indukcja, drgania elektromagnetyczne · **Czas:** 30–50 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — indukcja, drgania elektromagnetyczne · **Czas:** 30–50 h od zera
 
 ## Cel modułu
 

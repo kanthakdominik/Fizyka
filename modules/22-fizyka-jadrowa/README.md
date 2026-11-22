@@ -1,6 +1,6 @@
 # 22 — Fizyka jądrowa
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — jądro atomowe · **Czas:** 20–35 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — jądro atomowe · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 

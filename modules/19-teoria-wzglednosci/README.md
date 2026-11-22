@@ -1,6 +1,6 @@
 # 19 — Szczególna teoria względności
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II / Fizyka współczesna — elementy STW · **Czas:** 15–25 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II / Fizyka współczesna — elementy STW · **Czas:** 15–25 h od zera
 
 ## Cel modułu
 

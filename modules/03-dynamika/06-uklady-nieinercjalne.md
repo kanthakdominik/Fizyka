@@ -1,6 +1,6 @@
 # 03.06 — Układy nieinercjalne i siły bezwładności
 
-> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

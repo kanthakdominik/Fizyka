@@ -1,6 +1,6 @@
 # 16.03 — Energia, wektor Poyntinga i ciśnienie promieniowania
 
-> **Moduł:** [16 — Równania Maxwella i fale elektromagnetyczne](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [16 — Równania Maxwella i fale elektromagnetyczne](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

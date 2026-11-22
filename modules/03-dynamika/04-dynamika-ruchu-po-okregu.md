@@ -1,6 +1,6 @@
 # 03.04 — Dynamika ruchu po okręgu
 
-> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

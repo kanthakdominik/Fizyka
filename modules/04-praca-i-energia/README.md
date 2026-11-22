@@ -1,6 +1,6 @@
 # 04 — Praca, energia i moc
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — zasady zachowania (energia) · **Czas:** 25–40 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — zasady zachowania (energia) · **Czas:** 25–40 h od zera
 
 ## Cel modułu
 

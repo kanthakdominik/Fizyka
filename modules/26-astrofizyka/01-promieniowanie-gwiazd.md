@@ -1,6 +1,6 @@
 # 26.01 — Promieniowanie gwiazd: moc, temperatura, widma i diagram H–R
 
-> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 28.05 — Małe drgania i drgania sprzężone — mody normalne
 
-> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

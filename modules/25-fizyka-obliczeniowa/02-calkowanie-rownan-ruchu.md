@@ -1,6 +1,6 @@
 # 25.02 — Całkowanie równań ruchu: Euler, Euler–Cromer, Verlet, RK4
 
-> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

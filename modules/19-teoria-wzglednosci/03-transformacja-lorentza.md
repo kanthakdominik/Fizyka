@@ -1,6 +1,6 @@
 # 19.03 — Transformacja Lorentza i składanie prędkości
 
-> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 04.05 — Zasada zachowania energii mechanicznej i całkowitej
 
-> **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

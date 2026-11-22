@@ -1,6 +1,6 @@
 # 10.01 — Fala biegnąca i jej opis matematyczny
 
-> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

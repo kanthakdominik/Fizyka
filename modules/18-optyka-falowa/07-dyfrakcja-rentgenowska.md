@@ -1,6 +1,6 @@
 # 18.07 — Dyfrakcja promieni X i prawo Bragga
 
-> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

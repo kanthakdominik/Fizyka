@@ -1,6 +1,6 @@
 # 14.01 — Pole magnetyczne, siła Lorentza i ruch ładunku
 
-> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 02.06 — Ruch po okręgu: jednostajny i niejednostajny
 
-> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 02.01 — Ruch prostoliniowy: położenie, prędkość, przyspieszenie
 
-> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

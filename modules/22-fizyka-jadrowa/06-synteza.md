@@ -1,6 +1,6 @@
 # 22.06 — Synteza termojądrowa i energia gwiazd
 
-> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

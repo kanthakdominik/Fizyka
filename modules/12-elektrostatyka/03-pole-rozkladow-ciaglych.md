@@ -1,6 +1,6 @@
 # 12.03 — Pole rozkładów ciągłych ładunku
 
-> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

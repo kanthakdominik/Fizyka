@@ -1,6 +1,6 @@
 # 24 — Cząstki elementarne i kosmologia
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — cząstki i Wszechświat · **Czas:** 15–25 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — cząstki i Wszechświat · **Czas:** 15–25 h od zera
 
 ## Cel modułu
 

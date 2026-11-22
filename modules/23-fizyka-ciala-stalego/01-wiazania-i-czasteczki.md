@@ -1,6 +1,6 @@
 # 23.01 — Wiązania chemiczne i widma cząsteczkowe
 
-> **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

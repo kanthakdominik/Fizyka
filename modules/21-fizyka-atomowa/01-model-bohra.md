@@ -1,6 +1,6 @@
 # 21.01 — Model Bohra i widmo atomu wodoru
 
-> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

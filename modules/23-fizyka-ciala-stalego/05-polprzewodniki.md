@@ -1,6 +1,6 @@
 # 23.05 — Półprzewodniki, domieszkowanie i złącze p-n
 
-> **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

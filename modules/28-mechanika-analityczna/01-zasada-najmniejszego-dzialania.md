@@ -1,6 +1,6 @@
 # 28.01 — Rachunek wariacyjny i zasada najmniejszego działania
 
-> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

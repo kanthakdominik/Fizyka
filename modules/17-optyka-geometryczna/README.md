@@ -1,6 +1,6 @@
 # 17 — Optyka geometryczna
 
-> **Status:** ✅ pełny · **Poziom:** 🟢 · **Odpowiednik:** Fizyka II — optyka · **Czas:** 20–35 h od zera
+> **Poziom:** 🟢 · **Odpowiednik:** Fizyka II — optyka · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 

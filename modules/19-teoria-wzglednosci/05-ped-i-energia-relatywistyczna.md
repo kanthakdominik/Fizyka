@@ -1,6 +1,6 @@
 # 19.05 — Pęd i energia relatywistyczna, E = mc²
 
-> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

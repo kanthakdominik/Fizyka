@@ -1,6 +1,6 @@
 # 13 — Prąd stały
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — prąd elektryczny · **Czas:** 25–40 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — prąd elektryczny · **Czas:** 25–40 h od zera
 
 ## Cel modułu
 

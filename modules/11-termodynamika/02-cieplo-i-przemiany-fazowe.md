@@ -1,6 +1,6 @@
 # 11.02 — Ciepło, ciepło właściwe, przemiany fazowe, kalorymetria
 
-> **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

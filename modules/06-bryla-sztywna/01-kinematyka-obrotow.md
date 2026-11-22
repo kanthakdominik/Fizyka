@@ -1,6 +1,6 @@
 # 06.01 — Kinematyka ruchu obrotowego
 
-> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

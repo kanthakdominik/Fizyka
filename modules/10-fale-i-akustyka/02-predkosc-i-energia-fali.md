@@ -1,6 +1,6 @@
 # 10.02 — Prędkość fali, energia i równanie falowe
 
-> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

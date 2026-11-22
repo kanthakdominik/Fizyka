@@ -1,6 +1,6 @@
 # 26 — Astrofizyka
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Wstęp do astrofizyki / Astronomia ogólna · **Czas:** 20–35 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Wstęp do astrofizyki / Astronomia ogólna · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 

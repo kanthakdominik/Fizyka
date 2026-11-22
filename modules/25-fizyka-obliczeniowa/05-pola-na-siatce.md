@@ -1,6 +1,6 @@
 # 25.05 — Pola i potencjały na siatce — równanie Laplace'a
 
-> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

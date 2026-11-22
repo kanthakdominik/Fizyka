@@ -1,6 +1,6 @@
 # 04.06 — Wykresy energii potencjalnej i stabilność równowagi
 
-> **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

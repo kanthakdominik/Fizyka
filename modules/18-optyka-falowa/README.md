@@ -1,6 +1,6 @@
 # 18 — Optyka falowa
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — interferencja, dyfrakcja, polaryzacja · **Czas:** 20–35 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — interferencja, dyfrakcja, polaryzacja · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 

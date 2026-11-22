@@ -1,6 +1,6 @@
 # 22.05 — Rozszczepienie jąder i reaktor
 
-> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 14.02 — Siła elektrodynamiczna i moment sił na ramkę z prądem
 
-> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

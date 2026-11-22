@@ -1,6 +1,6 @@
 # 07.02 — Natężenie pola, potencjał i energia grawitacyjna
 
-> **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

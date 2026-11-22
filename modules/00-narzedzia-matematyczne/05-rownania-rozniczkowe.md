@@ -1,6 +1,6 @@
 # 00.05 — Proste równania różniczkowe w fizyce
 
-> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

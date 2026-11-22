@@ -1,6 +1,6 @@
 # 11.01 — Temperatura i rozszerzalność cieplna
 
-> **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

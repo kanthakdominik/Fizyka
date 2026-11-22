@@ -1,6 +1,6 @@
 # 05.03 — Zderzenia sprężyste i niesprężyste w 1D i 2D
 
-> **Moduł:** [05 — Pęd, środek masy i zderzenia](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [05 — Pęd, środek masy i zderzenia](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

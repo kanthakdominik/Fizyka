@@ -1,6 +1,6 @@
 # 02.05 — Rzut poziomy i ukośny
 
-> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

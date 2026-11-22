@@ -1,6 +1,6 @@
 # 14.04 — Prawo Biota–Savarta
 
-> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

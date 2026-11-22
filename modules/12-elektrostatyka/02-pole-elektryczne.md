@@ -1,6 +1,6 @@
 # 12.02 — Natężenie pola, linie pola i dipol
 
-> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

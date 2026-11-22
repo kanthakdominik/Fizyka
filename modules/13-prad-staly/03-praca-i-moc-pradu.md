@@ -1,6 +1,6 @@
 # 13.03 — Praca i moc prądu
 
-> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 28.02 — Więzy, współrzędne uogólnione i równania Lagrange'a
 
-> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

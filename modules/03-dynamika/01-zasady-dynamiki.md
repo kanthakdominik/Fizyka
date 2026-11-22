@@ -1,6 +1,6 @@
 # 03.01 — Zasady dynamiki Newtona i rodzaje sił
 
-> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

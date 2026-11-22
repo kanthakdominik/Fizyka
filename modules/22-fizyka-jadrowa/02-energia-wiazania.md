@@ -1,6 +1,6 @@
 # 22.02 — Energia wiązania i deficyt masy
 
-> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

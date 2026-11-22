@@ -1,6 +1,6 @@
 # 15.05 — Obwody RL, LC i RLC — drgania elektromagnetyczne
 
-> **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

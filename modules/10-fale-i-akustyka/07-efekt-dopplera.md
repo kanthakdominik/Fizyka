@@ -1,6 +1,6 @@
 # 10.07 — Efekt Dopplera i fala uderzeniowa
 
-> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

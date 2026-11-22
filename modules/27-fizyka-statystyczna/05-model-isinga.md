@@ -1,6 +1,6 @@
 # 27.05 — Model Isinga, przejścia fazowe i metoda Metropolisa
 
-> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >
