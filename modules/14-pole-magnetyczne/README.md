@@ -1,6 +1,6 @@
 # 14 — Pole magnetyczne
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — magnetostatyka · **Czas:** 30–50 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — magnetostatyka · **Czas:** 30–50 h od zera
 
 ## Cel modułu
 

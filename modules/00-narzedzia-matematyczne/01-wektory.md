@@ -1,6 +1,6 @@
 # 00.01 — Wektory: składowe, iloczyn skalarny i wektorowy
 
-> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

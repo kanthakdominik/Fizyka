@@ -1,6 +1,6 @@
 # 06.06 — Precesja żyroskopu
 
-> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

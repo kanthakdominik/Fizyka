@@ -1,6 +1,6 @@
 # 25 — Fizyka obliczeniowa w Pythonie
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Metody numeryczne / Fizyka komputerowa (wstęp) · **Czas:** 30–50 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Metody numeryczne / Fizyka komputerowa (wstęp) · **Czas:** 30–50 h od zera
 
 ## Cel modułu
 

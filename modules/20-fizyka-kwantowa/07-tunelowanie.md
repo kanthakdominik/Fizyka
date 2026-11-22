@@ -1,6 +1,6 @@
 # 20.07 — Tunelowanie przez barierę potencjału
 
-> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 10 — Fale mechaniczne i akustyka
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — fale; Drgania i fale · **Czas:** 25–40 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — fale; Drgania i fale · **Czas:** 25–40 h od zera
 
 ## Cel modułu
 

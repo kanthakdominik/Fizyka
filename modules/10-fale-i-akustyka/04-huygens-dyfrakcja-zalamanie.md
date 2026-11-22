@@ -1,6 +1,6 @@
 # 10.04 — Zasada Huygensa: odbicie, załamanie i dyfrakcja fal
 
-> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

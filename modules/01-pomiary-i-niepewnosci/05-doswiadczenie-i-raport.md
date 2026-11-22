@@ -1,6 +1,6 @@
 # 01.05 — Planowanie doświadczenia i raport z pomiarów
 
-> **Moduł:** [01 — Pomiar, jednostki i niepewności](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [01 — Pomiar, jednostki i niepewności](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

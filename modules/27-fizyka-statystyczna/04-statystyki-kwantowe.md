@@ -1,6 +1,6 @@
 # 27.04 — Statystyki kwantowe: fermiony, bozony i promieniowanie cieplne
 
-> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

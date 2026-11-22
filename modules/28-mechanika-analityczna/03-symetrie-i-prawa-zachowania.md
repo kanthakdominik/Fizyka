@@ -1,6 +1,6 @@
 # 28.03 — Symetrie i prawa zachowania — twierdzenie Noether
 
-> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

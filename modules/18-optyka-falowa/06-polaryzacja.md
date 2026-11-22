@@ -1,6 +1,6 @@
 # 18.06 — Polaryzacja światła: prawo Malusa i kąt Brewstera
 
-> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

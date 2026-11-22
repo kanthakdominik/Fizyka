@@ -1,6 +1,6 @@
 # 15.03 — Prądy wirowe, prądnice i SEM wsteczna
 
-> **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

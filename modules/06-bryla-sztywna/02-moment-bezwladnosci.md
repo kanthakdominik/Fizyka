@@ -1,6 +1,6 @@
 # 06.02 — Moment bezwładności i twierdzenie Steinera
 
-> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

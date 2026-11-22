@@ -1,6 +1,6 @@
 # 01 — Pomiar, jednostki i niepewności
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Pracownia fizyczna I, wstęp do Fizyki I · **Czas:** 20–35 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Pracownia fizyczna I, wstęp do Fizyki I · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 

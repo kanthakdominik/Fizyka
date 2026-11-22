@@ -1,6 +1,6 @@
 # 25.01 — Python dla fizyka: NumPy, Matplotlib, SciPy
 
-> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

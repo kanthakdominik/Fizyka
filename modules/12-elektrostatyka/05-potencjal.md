@@ -1,6 +1,6 @@
 # 12.05 — Potencjał, energia potencjalna i związek E z V
 
-> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

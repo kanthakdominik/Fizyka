@@ -54,39 +54,37 @@ W tematach 🟢 część zadań B jest opcjonalna (rozszerzenie z rachunkiem), w
 
 ## Mapa modułów
 
-| # | Moduł | Poziom | Odpowiednik na studiach | Status |
-|---|---|---|---|---|
-| 00 | [Narzędzia matematyczne fizyka](modules/00-narzedzia-matematyczne) | 🟢🔵 | Analiza matematyczna I (fragmenty), wstęp do Fizyki I | ✅ pełny |
-| 01 | [Pomiar, jednostki i niepewności](modules/01-pomiary-i-niepewnosci) | 🟢🔵 | Pracownia fizyczna I, wstęp do Fizyki I | ✅ pełny |
-| 02 | [Kinematyka](modules/02-kinematyka) | 🟢🔵 | Fizyka I — kinematyka punktu materialnego | ✅ pełny |
-| 03 | [Dynamika punktu materialnego](modules/03-dynamika) | 🟢🔵 | Fizyka I — dynamika | ✅ pełny |
-| 04 | [Praca, energia i moc](modules/04-praca-i-energia) | 🟢🔵 | Fizyka I — zasady zachowania (energia) | ✅ pełny |
-| 05 | [Pęd, środek masy i zderzenia](modules/05-ped-i-zderzenia) | 🟢🔵 | Fizyka I — zasady zachowania (pęd) | ✅ pełny |
-| 06 | [Bryła sztywna, statyka i sprężystość](modules/06-bryla-sztywna) | 🟢🔵 | Fizyka I — ruch obrotowy | ✅ pełny |
-| 07 | [Grawitacja i elementy astronomii](modules/07-grawitacja-i-astronomia) | 🟢🔵 | Fizyka I — grawitacja; elementy astronomii z matury | ✅ pełny |
-| 08 | [Mechanika płynów](modules/08-plyny) | 🟢🔵 | Fizyka I — hydrostatyka i hydrodynamika | ✅ pełny |
-| 09 | [Drgania](modules/09-drgania) | 🟢🔵 | Fizyka I — ruch drgający; Drgania i fale | ✅ pełny |
-| 10 | [Fale mechaniczne i akustyka](modules/10-fale-i-akustyka) | 🟢🔵 | Fizyka I — fale; Drgania i fale | ✅ pełny |
-| 11 | [Termodynamika i teoria kinetyczna](modules/11-termodynamika) | 🟢🔵 | Fizyka I — termodynamika fenomenologiczna i kinetyczna teoria gazów | ✅ pełny |
-| 12 | [Elektrostatyka](modules/12-elektrostatyka) | 🟢🔵 | Fizyka II — pole elektryczne | ✅ pełny |
-| 13 | [Prąd stały](modules/13-prad-staly) | 🟢🔵 | Fizyka II — prąd elektryczny | ✅ pełny |
-| 14 | [Pole magnetyczne](modules/14-pole-magnetyczne) | 🟢🔵 | Fizyka II — magnetostatyka | ✅ pełny |
-| 15 | [Indukcja elektromagnetyczna i prąd przemienny](modules/15-indukcja-i-prad-przemienny) | 🟢🔵 | Fizyka II — indukcja, drgania elektromagnetyczne | ✅ pełny |
-| 16 | [Równania Maxwella i fale elektromagnetyczne](modules/16-rownania-maxwella-i-fale-em) | 🟢🔵 | Fizyka II — równania Maxwella, fale EM | ✅ pełny |
-| 17 | [Optyka geometryczna](modules/17-optyka-geometryczna) | 🟢 | Fizyka II — optyka | ✅ pełny |
-| 18 | [Optyka falowa](modules/18-optyka-falowa) | 🟢🔵 | Fizyka II — interferencja, dyfrakcja, polaryzacja | ✅ pełny |
-| 19 | [Szczególna teoria względności](modules/19-teoria-wzglednosci) | 🟢🔵 | Fizyka II / Fizyka współczesna — elementy STW | ✅ pełny |
-| 20 | [Podstawy fizyki kwantowej](modules/20-fizyka-kwantowa) | 🟢🔵 | Fizyka współczesna / Fizyka III — wstęp do mechaniki kwantowej | ✅ pełny |
-| 21 | [Fizyka atomowa](modules/21-fizyka-atomowa) | 🟢🔵 | Fizyka współczesna — budowa atomu | ✅ pełny |
-| 22 | [Fizyka jądrowa](modules/22-fizyka-jadrowa) | 🟢🔵 | Fizyka współczesna — jądro atomowe | ✅ pełny |
-| 23 | [Fizyka ciała stałego](modules/23-fizyka-ciala-stalego) | 🔵 | Fizyka współczesna / Fizyka ciała stałego (wstęp) | ✅ pełny |
-| 24 | [Cząstki elementarne i kosmologia](modules/24-czastki-i-kosmologia) | 🟢🔵 | Fizyka współczesna — cząstki i Wszechświat | ✅ pełny |
-| 25 | [Fizyka obliczeniowa w Pythonie](modules/25-fizyka-obliczeniowa) | 🟢🔵 | Metody numeryczne / Fizyka komputerowa (wstęp) | ✅ pełny |
-| 26 | [Astrofizyka](modules/26-astrofizyka) | 🟢🔵 | Wstęp do astrofizyki / Astronomia ogólna | ✅ pełny |
-| 27 | [Fizyka statystyczna](modules/27-fizyka-statystyczna) | 🔵 | Fizyka statystyczna / Termodynamika statystyczna (wstęp) | ✅ pełny |
-| 28 | [Mechanika analityczna (wstęp)](modules/28-mechanika-analityczna) | 🔵 | Mechanika teoretyczna / klasyczna (pierwsza część) | ✅ pełny |
-
-🔲 szkielet — struktura tematów i odnośniki do podręczników · ✅ pełny — notatki, przykłady, zadania z odpowiedziami, doświadczenia, źródła
+| # | Moduł | Poziom | Odpowiednik na studiach |
+|---|---|---|---|
+| 00 | [Narzędzia matematyczne fizyka](modules/00-narzedzia-matematyczne) | 🟢🔵 | Analiza matematyczna I (fragmenty), wstęp do Fizyki I |
+| 01 | [Pomiar, jednostki i niepewności](modules/01-pomiary-i-niepewnosci) | 🟢🔵 | Pracownia fizyczna I, wstęp do Fizyki I |
+| 02 | [Kinematyka](modules/02-kinematyka) | 🟢🔵 | Fizyka I — kinematyka punktu materialnego |
+| 03 | [Dynamika punktu materialnego](modules/03-dynamika) | 🟢🔵 | Fizyka I — dynamika |
+| 04 | [Praca, energia i moc](modules/04-praca-i-energia) | 🟢🔵 | Fizyka I — zasady zachowania (energia) |
+| 05 | [Pęd, środek masy i zderzenia](modules/05-ped-i-zderzenia) | 🟢🔵 | Fizyka I — zasady zachowania (pęd) |
+| 06 | [Bryła sztywna, statyka i sprężystość](modules/06-bryla-sztywna) | 🟢🔵 | Fizyka I — ruch obrotowy |
+| 07 | [Grawitacja i elementy astronomii](modules/07-grawitacja-i-astronomia) | 🟢🔵 | Fizyka I — grawitacja; elementy astronomii z matury |
+| 08 | [Mechanika płynów](modules/08-plyny) | 🟢🔵 | Fizyka I — hydrostatyka i hydrodynamika |
+| 09 | [Drgania](modules/09-drgania) | 🟢🔵 | Fizyka I — ruch drgający; Drgania i fale |
+| 10 | [Fale mechaniczne i akustyka](modules/10-fale-i-akustyka) | 🟢🔵 | Fizyka I — fale; Drgania i fale |
+| 11 | [Termodynamika i teoria kinetyczna](modules/11-termodynamika) | 🟢🔵 | Fizyka I — termodynamika fenomenologiczna i kinetyczna teoria gazów |
+| 12 | [Elektrostatyka](modules/12-elektrostatyka) | 🟢🔵 | Fizyka II — pole elektryczne |
+| 13 | [Prąd stały](modules/13-prad-staly) | 🟢🔵 | Fizyka II — prąd elektryczny |
+| 14 | [Pole magnetyczne](modules/14-pole-magnetyczne) | 🟢🔵 | Fizyka II — magnetostatyka |
+| 15 | [Indukcja elektromagnetyczna i prąd przemienny](modules/15-indukcja-i-prad-przemienny) | 🟢🔵 | Fizyka II — indukcja, drgania elektromagnetyczne |
+| 16 | [Równania Maxwella i fale elektromagnetyczne](modules/16-rownania-maxwella-i-fale-em) | 🟢🔵 | Fizyka II — równania Maxwella, fale EM |
+| 17 | [Optyka geometryczna](modules/17-optyka-geometryczna) | 🟢 | Fizyka II — optyka |
+| 18 | [Optyka falowa](modules/18-optyka-falowa) | 🟢🔵 | Fizyka II — interferencja, dyfrakcja, polaryzacja |
+| 19 | [Szczególna teoria względności](modules/19-teoria-wzglednosci) | 🟢🔵 | Fizyka II / Fizyka współczesna — elementy STW |
+| 20 | [Podstawy fizyki kwantowej](modules/20-fizyka-kwantowa) | 🟢🔵 | Fizyka współczesna / Fizyka III — wstęp do mechaniki kwantowej |
+| 21 | [Fizyka atomowa](modules/21-fizyka-atomowa) | 🟢🔵 | Fizyka współczesna — budowa atomu |
+| 22 | [Fizyka jądrowa](modules/22-fizyka-jadrowa) | 🟢🔵 | Fizyka współczesna — jądro atomowe |
+| 23 | [Fizyka ciała stałego](modules/23-fizyka-ciala-stalego) | 🔵 | Fizyka współczesna / Fizyka ciała stałego (wstęp) |
+| 24 | [Cząstki elementarne i kosmologia](modules/24-czastki-i-kosmologia) | 🟢🔵 | Fizyka współczesna — cząstki i Wszechświat |
+| 25 | [Fizyka obliczeniowa w Pythonie](modules/25-fizyka-obliczeniowa) | 🟢🔵 | Metody numeryczne / Fizyka komputerowa (wstęp) |
+| 26 | [Astrofizyka](modules/26-astrofizyka) | 🟢🔵 | Wstęp do astrofizyki / Astronomia ogólna |
+| 27 | [Fizyka statystyczna](modules/27-fizyka-statystyczna) | 🔵 | Fizyka statystyczna / Termodynamika statystyczna (wstęp) |
+| 28 | [Mechanika analityczna (wstęp)](modules/28-mechanika-analityczna) | 🔵 | Mechanika teoretyczna / klasyczna (pierwsza część) |
 
 Numeracja odpowiada kolejności z podręczników, ale nie jest sztywną kolejnością nauki: **moduł 00 (matematyka) warto przerabiać równolegle z 02–05**, a **25 (fizyka obliczeniowa) — razem z mechaniką i drganiami**. Moduły **26–28** to rozszerzenia po głównym kursie: astrofizyka (po 07, 11, 20 i 22), fizyka statystyczna (po 11, 20 i 25) i wstęp do mechaniki analitycznej (po 06 i 09) — pomost do drugiego roku studiów. Szczegóły w [ROADMAP.md](ROADMAP.md).
 

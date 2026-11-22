@@ -1,6 +1,6 @@
 # 09 — Drgania
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — ruch drgający; Drgania i fale · **Czas:** 25–40 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — ruch drgający; Drgania i fale · **Czas:** 25–40 h od zera
 
 ## Cel modułu
 

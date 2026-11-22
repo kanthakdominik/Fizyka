@@ -1,6 +1,6 @@
 # 03 — Dynamika punktu materialnego
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — dynamika · **Czas:** 35–60 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — dynamika · **Czas:** 35–60 h od zera
 
 ## Cel modułu
 

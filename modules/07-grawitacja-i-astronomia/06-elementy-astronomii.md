@@ -1,6 +1,6 @@
 # 07.06 — Elementy astronomii: odległości, gwiazdy, galaktyki
 
-> **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

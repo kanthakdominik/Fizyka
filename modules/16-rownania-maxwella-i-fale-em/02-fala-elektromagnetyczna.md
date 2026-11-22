@@ -1,6 +1,6 @@
 # 16.02 — Płaska fala elektromagnetyczna
 
-> **Moduł:** [16 — Równania Maxwella i fale elektromagnetyczne](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [16 — Równania Maxwella i fale elektromagnetyczne](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

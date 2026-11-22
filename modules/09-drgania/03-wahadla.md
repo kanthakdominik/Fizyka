@@ -1,6 +1,6 @@
 # 09.03 — Wahadło matematyczne, fizyczne i torsyjne
 
-> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

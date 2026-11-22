@@ -1,6 +1,6 @@
 # 23 — Fizyka ciała stałego
 
-> **Status:** ✅ pełny · **Poziom:** 🔵 · **Odpowiednik:** Fizyka współczesna / Fizyka ciała stałego (wstęp) · **Czas:** 20–35 h od zera
+> **Poziom:** 🔵 · **Odpowiednik:** Fizyka współczesna / Fizyka ciała stałego (wstęp) · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 

@@ -1,6 +1,6 @@
 # 08.01 — Ciśnienie, prawo Pascala, ciśnienie hydrostatyczne
 
-> **Moduł:** [08 — Mechanika płynów](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [08 — Mechanika płynów](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

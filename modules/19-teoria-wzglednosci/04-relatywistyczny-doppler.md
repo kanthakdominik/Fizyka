@@ -1,6 +1,6 @@
 # 19.04 — Relatywistyczny efekt Dopplera
 
-> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

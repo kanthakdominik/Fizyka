@@ -1,6 +1,6 @@
 # 24.04 — Prawo Hubble'a, Wielki Wybuch i ewolucja Wszechświata
 
-> **Moduł:** [24 — Cząstki elementarne i kosmologia](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [24 — Cząstki elementarne i kosmologia](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

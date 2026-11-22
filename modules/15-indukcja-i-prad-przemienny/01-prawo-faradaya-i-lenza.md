@@ -1,6 +1,6 @@
 # 15.01 — Prawo Faradaya i reguła Lenza
 
-> **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [15 — Indukcja elektromagnetyczna i prąd przemienny](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 14.06 — Prawo Ampère'a, solenoid i toroid
 
-> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

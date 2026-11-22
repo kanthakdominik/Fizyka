@@ -1,6 +1,6 @@
 # 02.02 — Ruch jednostajnie zmienny i spadek swobodny
 
-> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

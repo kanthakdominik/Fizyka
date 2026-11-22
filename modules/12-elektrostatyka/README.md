@@ -1,6 +1,6 @@
 # 12 — Elektrostatyka
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — pole elektryczne · **Czas:** 35–55 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — pole elektryczne · **Czas:** 35–55 h od zera
 
 ## Cel modułu
 

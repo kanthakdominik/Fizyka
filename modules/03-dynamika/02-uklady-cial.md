@@ -1,6 +1,6 @@
 # 03.02 — Diagramy sił i układy ciał (równia, bloczki, więzy)
 
-> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

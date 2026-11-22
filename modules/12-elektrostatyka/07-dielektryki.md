@@ -1,6 +1,6 @@
 # 12.07 — Dielektryki w polu elektrycznym
 
-> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

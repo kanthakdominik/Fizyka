@@ -1,6 +1,6 @@
 # 11 — Termodynamika i teoria kinetyczna
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — termodynamika fenomenologiczna i kinetyczna teoria gazów · **Czas:** 35–55 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — termodynamika fenomenologiczna i kinetyczna teoria gazów · **Czas:** 35–55 h od zera
 
 ## Cel modułu
 

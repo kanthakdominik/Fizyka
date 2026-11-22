@@ -1,6 +1,6 @@
 # 27.01 — Mikrostany, makrostany i entropia Boltzmanna
 
-> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

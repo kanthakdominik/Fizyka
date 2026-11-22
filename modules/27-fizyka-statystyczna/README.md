@@ -1,6 +1,6 @@
 # 27 — Fizyka statystyczna
 
-> **Status:** ✅ pełny · **Poziom:** 🔵 · **Odpowiednik:** Fizyka statystyczna / Termodynamika statystyczna (wstęp) · **Czas:** 20–35 h od zera
+> **Poziom:** 🔵 · **Odpowiednik:** Fizyka statystyczna / Termodynamika statystyczna (wstęp) · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 

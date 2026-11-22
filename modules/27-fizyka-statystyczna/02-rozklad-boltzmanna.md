@@ -1,6 +1,6 @@
 # 27.02 — Rozkład Boltzmanna i suma statystyczna
 
-> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 05 — Pęd, środek masy i zderzenia
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — zasady zachowania (pęd) · **Czas:** 25–40 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — zasady zachowania (pęd) · **Czas:** 25–40 h od zera
 
 ## Cel modułu
 

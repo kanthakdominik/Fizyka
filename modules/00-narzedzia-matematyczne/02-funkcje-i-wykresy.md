@@ -1,6 +1,6 @@
 # 00.02 — Funkcje i wykresy w fizyce, linearyzacja
 
-> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

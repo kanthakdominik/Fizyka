@@ -1,6 +1,6 @@
 # 17.05 — Soczewki cienkie i równanie soczewki
 
-> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

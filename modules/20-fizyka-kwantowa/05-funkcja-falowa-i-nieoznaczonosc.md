@@ -1,6 +1,6 @@
 # 20.05 — Funkcja falowa i zasada nieoznaczoności
 
-> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

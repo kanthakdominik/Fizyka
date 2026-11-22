@@ -1,6 +1,6 @@
 # 22.07 — Oddziaływanie promieniowania z materią, dawki i ochrona
 
-> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

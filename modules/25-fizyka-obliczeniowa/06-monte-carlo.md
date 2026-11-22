@@ -1,6 +1,6 @@
 # 25.06 — Metody Monte Carlo: rozpad, błądzenie losowe, całkowanie
 
-> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [25 — Fizyka obliczeniowa w Pythonie](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 17.06 — Oko, aparat, lupa, mikroskop i luneta
 
-> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

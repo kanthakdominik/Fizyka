@@ -1,6 +1,6 @@
 # 04.02 — Energia kinetyczna i twierdzenie o pracy i energii
 
-> **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [04 — Praca, energia i moc](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

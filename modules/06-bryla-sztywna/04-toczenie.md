@@ -1,6 +1,6 @@
 # 06.04 — Toczenie bez poślizgu
 
-> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

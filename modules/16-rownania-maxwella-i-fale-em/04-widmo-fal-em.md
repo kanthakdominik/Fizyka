@@ -1,6 +1,6 @@
 # 16.04 — Widmo fal elektromagnetycznych
 
-> **Moduł:** [16 — Równania Maxwella i fale elektromagnetyczne](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [16 — Równania Maxwella i fale elektromagnetyczne](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

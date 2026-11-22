@@ -1,6 +1,6 @@
 # 08.03 — Równanie ciągłości i równanie Bernoulliego
 
-> **Moduł:** [08 — Mechanika płynów](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [08 — Mechanika płynów](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

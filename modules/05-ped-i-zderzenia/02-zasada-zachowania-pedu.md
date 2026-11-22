@@ -1,6 +1,6 @@
 # 05.02 — Zasada zachowania pędu
 
-> **Moduł:** [05 — Pęd, środek masy i zderzenia](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [05 — Pęd, środek masy i zderzenia](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

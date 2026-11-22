@@ -1,6 +1,6 @@
 # 24.01 — Cząstki elementarne i prawa zachowania
 
-> **Moduł:** [24 — Cząstki elementarne i kosmologia](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [24 — Cząstki elementarne i kosmologia](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 02 — Kinematyka
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — kinematyka punktu materialnego · **Czas:** 30–50 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — kinematyka punktu materialnego · **Czas:** 30–50 h od zera
 
 ## Cel modułu
 

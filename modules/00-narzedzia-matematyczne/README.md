@@ -1,6 +1,6 @@
 # 00 — Narzędzia matematyczne fizyka
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Analiza matematyczna I (fragmenty), wstęp do Fizyki I · **Czas:** 40–70 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Analiza matematyczna I (fragmenty), wstęp do Fizyki I · **Czas:** 40–70 h od zera
 
 ## Cel modułu
 

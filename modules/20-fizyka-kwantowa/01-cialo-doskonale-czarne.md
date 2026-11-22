@@ -1,6 +1,6 @@
 # 20.01 — Promieniowanie ciała doskonale czarnego
 
-> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

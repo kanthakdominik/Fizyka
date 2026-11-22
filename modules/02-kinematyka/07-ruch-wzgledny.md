@@ -1,6 +1,6 @@
 # 02.07 — Ruch względny i transformacja Galileusza
 
-> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

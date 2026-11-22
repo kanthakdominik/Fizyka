@@ -1,6 +1,6 @@
 # 24.03 — Akceleratory i detektory cząstek
 
-> **Moduł:** [24 — Cząstki elementarne i kosmologia](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [24 — Cząstki elementarne i kosmologia](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 19.02 — Dylatacja czasu i skrócenie długości
 
-> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

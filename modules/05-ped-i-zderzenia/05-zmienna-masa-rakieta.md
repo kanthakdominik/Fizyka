@@ -1,6 +1,6 @@
 # 05.05 — Układy o zmiennej masie — rakieta
 
-> **Moduł:** [05 — Pęd, środek masy i zderzenia](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [05 — Pęd, środek masy i zderzenia](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

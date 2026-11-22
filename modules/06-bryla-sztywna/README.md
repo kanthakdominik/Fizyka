@@ -1,6 +1,6 @@
 # 06 — Bryła sztywna, statyka i sprężystość
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — ruch obrotowy · **Czas:** 35–55 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — ruch obrotowy · **Czas:** 35–55 h od zera
 
 ## Cel modułu
 

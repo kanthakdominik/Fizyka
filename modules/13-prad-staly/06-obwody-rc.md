@@ -1,6 +1,6 @@
 # 13.06 — Obwody RC — ładowanie i rozładowanie
 
-> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

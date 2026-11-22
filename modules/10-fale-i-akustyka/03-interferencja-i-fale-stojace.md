@@ -1,6 +1,6 @@
 # 10.03 — Superpozycja, interferencja i fale stojące
 
-> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

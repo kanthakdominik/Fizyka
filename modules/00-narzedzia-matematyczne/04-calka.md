@@ -1,6 +1,6 @@
 # 00.04 — Całka jako suma: pole pod wykresem, praca, średnia
 
-> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 28.04 — Funkcja Hamiltona, równania Hamiltona i przestrzeń fazowa
 
-> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [28 — Mechanika analityczna (wstęp)](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

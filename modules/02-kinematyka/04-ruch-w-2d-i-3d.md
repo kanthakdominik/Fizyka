@@ -1,6 +1,6 @@
 # 02.04 — Wektory położenia, prędkości i przyspieszenia w 2D i 3D
 
-> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

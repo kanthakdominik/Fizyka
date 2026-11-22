@@ -1,6 +1,6 @@
 # 10.05 — Dźwięk: prędkość, natężenie, poziom w decybelach
 
-> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [10 — Fale mechaniczne i akustyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

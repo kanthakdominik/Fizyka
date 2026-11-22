@@ -1,6 +1,6 @@
 # 18.05 — Dyfrakcja na szczelinie i zdolność rozdzielcza
 
-> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

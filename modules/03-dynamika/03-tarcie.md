@@ -1,6 +1,6 @@
 # 03.03 — Tarcie statyczne i kinetyczne
 
-> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [03 — Dynamika punktu materialnego](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

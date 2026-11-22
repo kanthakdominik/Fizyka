@@ -1,6 +1,6 @@
 # 21 — Fizyka atomowa
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — budowa atomu · **Czas:** 20–35 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna — budowa atomu · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 

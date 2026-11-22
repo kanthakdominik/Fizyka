@@ -1,6 +1,6 @@
 # 28 — Mechanika analityczna (wstęp)
 
-> **Status:** ✅ pełny · **Poziom:** 🔵 · **Odpowiednik:** Mechanika teoretyczna / klasyczna (pierwsza część) · **Czas:** 20–35 h od zera
+> **Poziom:** 🔵 · **Odpowiednik:** Mechanika teoretyczna / klasyczna (pierwsza część) · **Czas:** 20–35 h od zera
 
 ## Cel modułu
 

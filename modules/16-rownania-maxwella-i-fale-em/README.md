@@ -1,6 +1,6 @@
 # 16 — Równania Maxwella i fale elektromagnetyczne
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — równania Maxwella, fale EM · **Czas:** 15–25 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka II — równania Maxwella, fale EM · **Czas:** 15–25 h od zera
 
 ## Cel modułu
 

@@ -1,6 +1,6 @@
 # 05.04 — Środek masy układu i bryły
 
-> **Moduł:** [05 — Pęd, środek masy i zderzenia](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [05 — Pęd, środek masy i zderzenia](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

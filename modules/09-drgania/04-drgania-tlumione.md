@@ -1,6 +1,6 @@
 # 09.04 — Drgania tłumione
 
-> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 21.06 — Emisja wymuszona i lasery
 
-> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

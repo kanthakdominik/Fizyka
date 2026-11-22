@@ -1,6 +1,6 @@
 # 00.06 — Przybliżenia i szeregi (małe kąty, dwumian, Taylor)
 
-> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

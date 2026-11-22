@@ -1,6 +1,6 @@
 # 23.02 — Struktura krystaliczna ciał stałych
 
-> **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [23 — Fizyka ciała stałego](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

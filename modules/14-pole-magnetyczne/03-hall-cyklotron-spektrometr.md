@@ -1,6 +1,6 @@
 # 14.03 — Efekt Halla, spektrometr masowy, cyklotron
 
-> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [14 — Pole magnetyczne](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

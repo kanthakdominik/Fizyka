@@ -1,6 +1,6 @@
 # 21.02 — Atom wodoru w mechanice kwantowej, liczby kwantowe
 
-> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

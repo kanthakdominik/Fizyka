@@ -1,6 +1,6 @@
 # 13.02 — Opór, opór właściwy i prawo Ohma
 
-> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

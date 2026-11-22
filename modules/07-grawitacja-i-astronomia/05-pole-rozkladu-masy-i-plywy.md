@@ -1,6 +1,6 @@
 # 07.05 — Pole rozkładu masy i siły pływowe
 
-> **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

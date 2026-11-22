@@ -1,6 +1,6 @@
 # 13.05 — Prawa Kirchhoffa i mierniki
 
-> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

@@ -1,6 +1,6 @@
 # 20 — Podstawy fizyki kwantowej
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna / Fizyka III — wstęp do mechaniki kwantowej · **Czas:** 30–50 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka współczesna / Fizyka III — wstęp do mechaniki kwantowej · **Czas:** 30–50 h od zera
 
 ## Cel modułu
 

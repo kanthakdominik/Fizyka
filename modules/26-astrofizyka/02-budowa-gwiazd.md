@@ -1,6 +1,6 @@
 # 26.02 — Budowa gwiazd: równowaga hydrostatyczna, źródła energii, czas życia
 
-> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

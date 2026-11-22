@@ -1,6 +1,6 @@
 # 02.03 — Ruch o zmiennym przyspieszeniu — całkowanie a(t)
 
-> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

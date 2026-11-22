@@ -1,6 +1,6 @@
 # 08 — Mechanika płynów
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — hydrostatyka i hydrodynamika · **Czas:** 15–25 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — hydrostatyka i hydrodynamika · **Czas:** 15–25 h od zera
 
 ## Cel modułu
 

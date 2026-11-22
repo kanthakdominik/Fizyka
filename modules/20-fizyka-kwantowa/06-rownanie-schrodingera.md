@@ -1,6 +1,6 @@
 # 20.06 — Równanie Schrödingera: studnia potencjału i oscylator
 
-> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [20 — Podstawy fizyki kwantowej](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

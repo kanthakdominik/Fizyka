@@ -1,6 +1,6 @@
 # 22.04 — Reakcje jądrowe i zasady zachowania
 
-> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [22 — Fizyka jądrowa](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

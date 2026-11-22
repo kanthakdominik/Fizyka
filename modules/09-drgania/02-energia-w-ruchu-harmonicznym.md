@@ -1,6 +1,6 @@
 # 09.02 — Energia w ruchu harmonicznym
 
-> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

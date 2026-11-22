@@ -1,6 +1,6 @@
 # 18.04 — Interferencja w cienkich warstwach, interferometr Michelsona
 
-> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [18 — Optyka falowa](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

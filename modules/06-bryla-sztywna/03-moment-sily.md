@@ -1,6 +1,6 @@
 # 06.03 — Moment siły i dynamika ruchu obrotowego
 
-> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [06 — Bryła sztywna, statyka i sprężystość](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

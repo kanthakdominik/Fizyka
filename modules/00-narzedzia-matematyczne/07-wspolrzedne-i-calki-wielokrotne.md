@@ -1,6 +1,6 @@
 # 00.07 — Współrzędne biegunowe, walcowe, sferyczne i całki wielokrotne
 
-> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [00 — Narzędzia matematyczne fizyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

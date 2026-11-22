@@ -1,6 +1,6 @@
 # 21.04 — Zakaz Pauliego i układ okresowy
 
-> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [21 — Fizyka atomowa](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

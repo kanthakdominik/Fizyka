@@ -1,6 +1,6 @@
 # 07 — Grawitacja i elementy astronomii
 
-> **Status:** ✅ pełny · **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — grawitacja; elementy astronomii z matury · **Czas:** 25–40 h od zera
+> **Poziom:** 🟢🔵 · **Odpowiednik:** Fizyka I — grawitacja; elementy astronomii z matury · **Czas:** 25–40 h od zera
 
 ## Cel modułu
 

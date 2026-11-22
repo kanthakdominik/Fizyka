@@ -1,6 +1,6 @@
 # 09.01 — Ruch harmoniczny prosty i jego równanie
 
-> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [09 — Drgania](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

@@ -7,7 +7,7 @@ Każdy plik tematu w `modules/NN-nazwa/` ma ten sam układ. Ten dokument opisuje
 ```markdown
 # 02.05 — Rzut poziomy i ukośny
 
-> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [02 — Kinematyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >
@@ -60,11 +60,3 @@ $v = 12{,}5\ \mathrm{m/s}$ — krótkie uzasadnienie lub kluczowy krok.
 - W tabelach Markdown zamiast `|` w module liczby pisz `\lvert x \rvert`.
 - Kod w Pythonie w blokach ` ```python ` — musi się uruchamiać samodzielnie (sprawdza go CI). Wykresy kończ `plt.show()`.
 - Bloki wymagające SymPy lub plików z danymi są pomijane przez CI — oznacz to w komentarzu na początku bloku.
-
-## Status tematu i modułu
-
-- 🔲 szkielet — tylko nagłówki i mapowanie źródeł.
-- 🟡 w trakcie — część sekcji wypełniona.
-- ✅ pełny — wszystkie sekcje, zadania z odpowiedziami, działający kod.
-
-Po wypełnieniu tematu zmień status w nagłówku pliku, w tabeli tematów w `README.md` modułu oraz — gdy cały moduł jest gotowy — w mapie modułów w głównym `README.md`.

@@ -1,6 +1,6 @@
 # 12.06 — Kondensatory: pojemność, łączenie, energia
 
-> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [12 — Elektrostatyka](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

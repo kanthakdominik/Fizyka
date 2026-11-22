@@ -1,6 +1,6 @@
 # 26.04 — Czarne dziury i fale grawitacyjne
 
-> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

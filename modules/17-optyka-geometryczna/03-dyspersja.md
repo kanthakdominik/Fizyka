@@ -1,6 +1,6 @@
 # 17.03 — Rozszczepienie światła i pryzmat
 
-> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [17 — Optyka geometryczna](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

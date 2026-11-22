@@ -1,6 +1,6 @@
 # 13.01 — Natężenie i gęstość prądu, model przewodnictwa
 
-> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [13 — Prąd stały](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

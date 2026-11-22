@@ -1,6 +1,6 @@
 # 11.06 — Silniki cieplne, chłodziarki i cykl Carnota
 
-> **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

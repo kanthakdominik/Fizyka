@@ -1,6 +1,6 @@
 # 19.01 — Postulaty Einsteina i względność równoczesności
 
-> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🟢 matura R · **Status:** ✅ pełny
+> **Moduł:** [19 — Szczególna teoria względności](README.md) · **Poziom:** 🟢 matura R
 >
 > **Czytaj:**
 >

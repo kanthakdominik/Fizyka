@@ -1,6 +1,6 @@
 # 27.03 — Ekwipartycja energii i kwantowe zamrażanie stopni swobody
 
-> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [27 — Fizyka statystyczna](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

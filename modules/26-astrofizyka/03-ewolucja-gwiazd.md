@@ -1,6 +1,6 @@
 # 26.03 — Ewolucja gwiazd: białe karły, gwiazdy neutronowe, supernowe
 
-> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [26 — Astrofizyka](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >

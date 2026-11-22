@@ -1,6 +1,6 @@
 # 11.07 — Entropia i II zasada termodynamiki
 
-> **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🔵 studia · **Status:** ✅ pełny
+> **Moduł:** [11 — Termodynamika i teoria kinetyczna](README.md) · **Poziom:** 🔵 studia
 >
 > **Czytaj:**
 >

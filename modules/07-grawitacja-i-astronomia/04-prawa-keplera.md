@@ -1,6 +1,6 @@
 # 07.04 — Prawa Keplera
 
-> **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🟢🔵 matura R + studia · **Status:** ✅ pełny
+> **Moduł:** [07 — Grawitacja i elementy astronomii](README.md) · **Poziom:** 🟢🔵 matura R + studia
 >
 > **Czytaj:**
 >
