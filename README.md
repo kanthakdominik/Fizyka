@@ -2,6 +2,8 @@
 
 **Wersja do czytania w przeglądarce (wzory, wyszukiwarka, menu modułów): [kanthakdominik.github.io/Fizyka](https://kanthakdominik.github.io/Fizyka/)**
 
+[← Wszystkie bazy wiedzy](https://kanthakdominik.github.io/)
+
 Otwarta, samodzielna ścieżka nauki fizyki na dwóch poziomach: **matury rozszerzonej** oraz **kursu fizyki z pierwszego roku studiów technicznych** (z rachunkiem różniczkowym i całkowym). Repozytorium jest pomyślane jako darmowa pomoc do nauki przed maturą i studiami, w trakcie pierwszych semestrów albo do odświeżenia wiedzy po latach.
 
 Układ działów opiera się na dwóch podręcznikach akademickich dostępnych po polsku:
